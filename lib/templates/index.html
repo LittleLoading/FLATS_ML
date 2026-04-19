@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Predikce ceny bytu</title>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:      #0f0f11;
+      --surface: #1a1a1f;
+      --border:  #2a2a32;
+      --accent:  #c8f04a;
+      --text:    #e8e8ec;
+      --muted:   #6b6b7a;
+      --red:     #ff5c5c;
+      --radius:  12px;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'DM Sans', sans-serif;
+      font-weight: 300;
+      height: 100vh;
+      display: grid;
+      grid-template-columns: 420px 1fr;
+      overflow: hidden;
+    }
+
+    /* ── LEFT PANEL ─────────────────────────── */
+    .left {
+      display: flex;
+      flex-direction: column;
+      border-right: 1px solid var(--border);
+      overflow: hidden;
+    }
+
+    .left-header {
+      padding: 28px 28px 0;
+      flex-shrink: 0;
+    }
+
+    h1 {
+      font-family: 'DM Serif Display', serif;
+      font-size: 1.9rem;
+      line-height: 1.1;
+      margin-bottom: 4px;
+    }
+
+    .subtitle { color: var(--muted); font-size: 0.82rem; margin-bottom: 24px; }
+
+    .left-body {
+      flex: 1;
+      overflow-y: auto;
+      padding: 0 28px 28px;
+    }
+
+    .left-body::-webkit-scrollbar { width: 4px; }
+    .left-body::-webkit-scrollbar-track { background: transparent; }
+    .left-body::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+
+    .section-title {
+      font-size: 0.65rem;
+      font-weight: 500;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin: 20px 0 10px;
+    }
+
+    .field { display: flex; flex-direction: column; gap: 5px; margin-bottom: 10px; }
+    label  { font-size: 0.72rem; color: var(--muted); }
+
+    input, select {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      color: var(--text);
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.88rem;
+      padding: 9px 12px;
+      width: 100%;
+      outline: none;
+      transition: border-color 0.2s;
+      -webkit-appearance: none;
+    }
+
+    input:focus, select:focus { border-color: var(--accent); }
+    select option { background: #1a1a1f; }
+
+    .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+
+    /* Coord row */
+    .coord-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin-bottom: 6px;
+    }
+
+    .coord-hint {
+      font-size: 0.72rem;
+      color: var(--muted);
+      margin-bottom: 10px;
+      font-style: italic;
+    }
+
+    .coord-error {
+      font-size: 0.75rem;
+      color: var(--red);
+      display: none;
+      margin-top: 4px;
+    }
+
+    /* Toggles */
+    .toggles { display: flex; gap: 8px; flex-wrap: wrap; }
+
+    .toggle-btn {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      color: var(--muted);
+      cursor: pointer;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.75rem;
+      padding: 6px 14px;
+      transition: all 0.2s;
+      user-select: none;
+    }
+
+    .toggle-btn.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #0f0f11;
+      font-weight: 500;
+    }
+
+    .btn-predict {
+      margin-top: 24px;
+      width: 100%;
+      background: var(--accent);
+      border: none;
+      border-radius: var(--radius);
+      color: #0f0f11;
+      cursor: pointer;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.95rem;
+      font-weight: 500;
+      padding: 14px;
+      transition: opacity 0.2s, transform 0.15s;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+    }
+
+    .btn-predict:hover { opacity: 0.88; transform: translateY(-1px); }
+    .btn-predict:active { transform: translateY(0); }
+    .btn-predict:disabled { opacity: 0.4; cursor: not-allowed; transform: none; }
+
+    .spinner {
+      display: none;
+      width: 16px; height: 16px;
+      border: 2px solid #0f0f11;
+      border-top-color: transparent;
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── RIGHT PANEL ────────────────────────── */
+    .right {
+      display: grid;
+      grid-template-rows: 1fr auto;
+      overflow: hidden;
+    }
+
+    /* Map */
+    #map {
+      width: 100%;
+      height: 100%;
+    }
+
+    .leaflet-container { background: #0f0f11; }
+
+    /* Results drawer */
+    .results-drawer {
+      background: var(--surface);
+      border-top: 1px solid var(--border);
+      padding: 20px 28px;
+      display: none;
+    }
+
+    .results-grid {
+      display: grid;
+      grid-template-columns: auto 1fr 1fr;
+      gap: 20px 32px;
+      align-items: start;
+    }
+
+    .price-block {}
+    .price-label { font-size: 0.65rem; font-weight: 500; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); margin-bottom: 4px; }
+    .price-value { font-family: 'DM Serif Display', serif; font-size: 2.2rem; color: var(--accent); line-height: 1; }
+    .price-sub   { color: var(--muted); font-size: 0.75rem; margin-top: 4px; }
+
+    .group-block {}
+    .group-value { font-family: 'DM Serif Display', serif; font-size: 1.4rem; margin-bottom: 10px; }
+
+    .proba-row { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; }
+    .proba-name { font-size: 0.72rem; color: var(--muted); width: 70px; flex-shrink: 0; }
+    .proba-bar-bg { flex: 1; background: var(--border); border-radius: 999px; height: 5px; overflow: hidden; }
+    .proba-bar { height: 100%; background: var(--accent); border-radius: 999px; transition: width 0.6s cubic-bezier(.4,0,.2,1); }
+    .proba-pct { font-size: 0.75rem; font-weight: 500; width: 36px; text-align: right; }
+
+    .dist-block {}
+    .dist-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+    .dist-card { background: var(--bg); border: 1px solid var(--border); border-radius: 8px; padding: 10px; text-align: center; }
+    .dist-icon { font-size: 1rem; }
+    .dist-val  { font-size: 0.85rem; font-weight: 500; }
+    .dist-name { font-size: 0.65rem; color: var(--muted); }
+
+    .error-msg { color: var(--red); font-size: 0.82rem; padding: 12px; display: none; }
+  </style>
+</head>
+<body>
+
+<!-- ── LEFT ──────────────────────────────────────────────────── -->
+<div class="left">
+  <div class="left-header">
+    <h1>Predikce<br>ceny bytu</h1>
+    <p class="subtitle">Vyber město, klikni na mapu a zadej parametry bytu.</p>
+  </div>
+
+  <div class="left-body">
+
+    <div class="section-title">Lokalita & Poloha</div>
+    <div class="field">
+      <label>Město</label>
+      <select id="locality">
+        {% for city in cities %}
+        <option value="{{ city }}">{{ city }}</option>
+        {% endfor %}
+      </select>
+    </div>
+
+    <p class="coord-hint">📍 Klikni na mapu pro výběr polohy, nebo zadej souřadnice ručně.</p>
+
+    <div class="coord-row">
+      <div class="field">
+        <label>Zeměpisná šířka (lat)</label>
+        <input type="number" id="lat" step="0.00001" placeholder="50.07550">
+      </div>
+      <div class="field">
+        <label>Zeměpisná délka (lon)</label>
+        <input type="number" id="lon" step="0.00001" placeholder="14.43780">
+      </div>
+    </div>
+    <div class="coord-error" id="coord-error">⚠ Souřadnice jsou mimo hranice vybraného města.</div>
+
+    <div class="section-title">Parametry bytu</div>
+    <div class="grid-2">
+      <div class="field">
+        <label>Plocha (m²)</label>
+        <input type="number" id="area" value="65" min="16" max="200">
+      </div>
+      <div class="field">
+        <label>Počet pokojů</label>
+        <select id="rooms">
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3" selected>3</option>
+          <option value="4">4</option>
+          <option value="5">5+</option>
+        </select>
+      </div>
+      <div class="field">
+        <label>Patro</label>
+        <input type="number" id="floor" value="3" min="0" max="17">
+      </div>
+      <div class="field">
+        <label>Stav bytu</label>
+        <select id="condition">
+          <option value="velmi dobre">Velmi dobré</option>
+          <option value="novostavba">Novostavba</option>
+          <option value="dobre">Dobré</option>
+        </select>
+      </div>
+      <div class="field">
+        <label>Vybavení</label>
+        <select id="furnished">
+          <option value="castecne vybavene">Částečně vybavený</option>
+          <option value="vybavene">Vybavený</option>
+          <option value="nevybavene">Nevybavený</option>
+        </select>
+      </div>
+      <div class="field">
+        <label>Vlastnictví</label>
+        <select id="ownership">
+          <option value="osobni">Osobní</option>
+          <option value="druzstevni">Družstevní</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="section-title">Vybavení bytu</div>
+    <div class="toggles">
+      <span class="toggle-btn" data-field="has_kk">Kuchyňský kout</span>
+      <span class="toggle-btn active" data-field="has_lift">Výtah</span>
+      <span class="toggle-btn active" data-field="has_balcony">Balkon</span>
+      <span class="toggle-btn" data-field="has_parking">Parkování</span>
+    </div>
+
+    <button class="btn-predict" id="btn">
+      <span id="btn-text">Predikovat</span>
+      <div class="spinner" id="spinner"></div>
+    </button>
+
+    <div class="error-msg" id="error-msg"></div>
+  </div>
+</div>
+
+<!-- ── RIGHT ─────────────────────────────────────────────────── -->
+<div class="right">
+  <div id="map"></div>
+
+  <div class="results-drawer" id="results">
+    <div class="results-grid">
+
+      <div class="price-block">
+        <div class="price-label">Odhadovaná cena</div>
+        <div class="price-value" id="price-value">—</div>
+        <div class="price-sub"   id="price-sub"></div>
+      </div>
+
+      <div class="group-block">
+        <div class="price-label">Vhodné pro</div>
+        <div class="group-value" id="group-name">—</div>
+        <div id="proba-bars"></div>
+      </div>
+
+      <div class="dist-block">
+        <div class="price-label">Vzdálenosti</div>
+        <div class="dist-grid" id="dist-grid"></div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+  // ── City bounds from Flask ──────────────────────────────────
+  const BOUNDS = {{ bounds | tojson }};
+
+  // ── Map setup ──────────────────────────────────────────────
+  const map = L.map("map", { zoomControl: true }).setView([49.8, 15.5], 7);
+
+  L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
+    attribution: "© OpenStreetMap © CARTO",
+    maxZoom: 19,
+  }).addTo(map);
+
+  // Custom marker
+  const pinIcon = L.divIcon({
+    className: "",
+    html: `<div style="width:14px;height:14px;background:#c8f04a;border:2px solid #0f0f11;border-radius:50%;box-shadow:0 0 0 3px rgba(200,240,74,0.3)"></div>`,
+    iconAnchor: [7, 7],
+  });
+
+  let marker = null;
+
+  function setMarker(lat, lon) {
+    if (marker) map.removeLayer(marker);
+    marker = L.marker([lat, lon], { icon: pinIcon }).addTo(map);
+    document.getElementById("lat").value = lat.toFixed(5);
+    document.getElementById("lon").value = lon.toFixed(5);
+    validateCoords();
+  }
+
+  map.on("click", e => setMarker(e.latlng.lat, e.latlng.lng));
+
+  // ── When city changes → fly map to that city ───────────────
+  document.getElementById("locality").addEventListener("change", function() {
+    const b = BOUNDS[this.value];
+    if (!b) return;
+    const clat = (b.lat_min + b.lat_max) / 2;
+    const clon = (b.lon_min + b.lon_max) / 2;
+    map.flyTo([clat, clon], 13, { duration: 1 });
+    // Clear old marker and coords
+    if (marker) { map.removeLayer(marker); marker = null; }
+    document.getElementById("lat").value = "";
+    document.getElementById("lon").value = "";
+    document.getElementById("coord-error").style.display = "none";
+  });
+
+  // ── Validate coords against city bounds ────────────────────
+  function validateCoords() {
+    const locality = document.getElementById("locality").value;
+    const lat = parseFloat(document.getElementById("lat").value);
+    const lon = parseFloat(document.getElementById("lon").value);
+    const b   = BOUNDS[locality];
+    const err = document.getElementById("coord-error");
+
+    if (!b || isNaN(lat) || isNaN(lon)) { err.style.display = "none"; return true; }
+
+    const valid = lat >= b.lat_min && lat <= b.lat_max &&
+                  lon >= b.lon_min && lon <= b.lon_max;
+    err.style.display = valid ? "none" : "block";
+    return valid;
+  }
+
+  document.getElementById("lat").addEventListener("change", () => {
+    const lat = parseFloat(document.getElementById("lat").value);
+    const lon = parseFloat(document.getElementById("lon").value);
+    if (!isNaN(lat) && !isNaN(lon)) setMarker(lat, lon);
+  });
+  document.getElementById("lon").addEventListener("change", () => {
+    const lat = parseFloat(document.getElementById("lat").value);
+    const lon = parseFloat(document.getElementById("lon").value);
+    if (!isNaN(lat) && !isNaN(lon)) setMarker(lat, lon);
+  });
+
+  // ── Toggle buttons ─────────────────────────────────────────
+  const toggleState = { has_kk: 0, has_lift: 1, has_balcony: 1, has_parking: 0 };
+  document.querySelectorAll(".toggle-btn").forEach(btn => {
+    btn.addEventListener("click", () => {
+      const f = btn.dataset.field;
+      toggleState[f] = toggleState[f] ? 0 : 1;
+      btn.classList.toggle("active", !!toggleState[f]);
+    });
+  });
+
+  // ── Predict ────────────────────────────────────────────────
+  document.getElementById("btn").addEventListener("click", async () => {
+    const lat = parseFloat(document.getElementById("lat").value);
+    const lon = parseFloat(document.getElementById("lon").value);
+
+    if (isNaN(lat) || isNaN(lon)) {
+      showError("Klikni na mapu nebo zadej souřadnice bytu.");
+      return;
+    }
+    if (!validateCoords()) return;
+
+    setBusy(true);
+    clearError();
+
+    const payload = {
+      locality:    document.getElementById("locality").value,
+      lat, lon,
+      area:        document.getElementById("area").value,
+      rooms:       document.getElementById("rooms").value,
+      floor:       document.getElementById("floor").value,
+      condition:   document.getElementById("condition").value,
+      furnished:   document.getElementById("furnished").value,
+      ownership:   document.getElementById("ownership").value,
+      has_kk:      toggleState.has_kk,
+      has_lift:    toggleState.has_lift,
+      has_balcony: toggleState.has_balcony,
+      has_parking: toggleState.has_parking,
+    };
+
+    try {
+      const res  = await fetch("/predict", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload),
+      });
+      const data = await res.json();
+      if (data.error) { showError(data.error); return; }
+      showResult(data, parseFloat(document.getElementById("area").value));
+    } catch {
+      showError("Chyba při komunikaci se serverem.");
+    } finally {
+      setBusy(false);
+    }
+  });
+
+  // ── Helpers ────────────────────────────────────────────────
+  function setBusy(busy) {
+    document.getElementById("btn").disabled            = busy;
+    document.getElementById("btn-text").style.display  = busy ? "none" : "block";
+    document.getElementById("spinner").style.display   = busy ? "block" : "none";
+  }
+
+  function showError(msg) {
+    const el = document.getElementById("error-msg");
+    el.textContent = "⚠ " + msg;
+    el.style.display = "block";
+  }
+
+  function clearError() {
+    document.getElementById("error-msg").style.display = "none";
+  }
+
+  const GROUP_LABELS = { rodina: "👨‍👩‍👧 Rodiny", senior: "🧓 Senioři", ostatni: "🏙️ Ostatní" };
+  const DIST_META = [
+    { key:"stop",     icon:"🚌", name:"Zastávka" },
+    { key:"train",    icon:"🚆", name:"Vlak/Metro" },
+    { key:"school",   icon:"🏫", name:"Škola" },
+    { key:"kinder",   icon:"🧒", name:"Školka" },
+    { key:"market",   icon:"🛒", name:"Supermarket" },
+    { key:"hospital", icon:"🏥", name:"Nemocnice" },
+  ];
+
+  function fmtDist(km) {
+    return km < 1 ? Math.round(km * 1000) + " m" : km.toFixed(2) + " km";
+  }
+
+  function showResult(data, area) {
+    document.getElementById("results").style.display = "block";
+
+    // Cena
+    const p = data.price;
+    document.getElementById("price-value").textContent = (p/1e6).toFixed(2) + " mil. Kč";
+    document.getElementById("price-sub").textContent   =
+      p.toLocaleString("cs-CZ") + " Kč · " + Math.round(p/area).toLocaleString("cs-CZ") + " Kč/m²";
+
+    // Skupina
+    document.getElementById("group-name").textContent = GROUP_LABELS[data.group] ?? data.group;
+
+    const bars = document.getElementById("proba-bars");
+    bars.innerHTML = "";
+    for (const [key, label] of Object.entries(GROUP_LABELS)) {
+      const pct = data.proba[key] ?? 0;
+      bars.innerHTML += `
+        <div class="proba-row">
+          <span class="proba-name">${label.split(" ").slice(1).join(" ")}</span>
+          <div class="proba-bar-bg"><div class="proba-bar" style="width:${pct}%"></div></div>
+          <span class="proba-pct">${pct.toFixed(0)}%</span>
+        </div>`;
+    }
+
+    // Vzdálenosti
+    const grid = document.getElementById("dist-grid");
+    grid.innerHTML = "";
+    for (const m of DIST_META) {
+      grid.innerHTML += `
+        <div class="dist-card">
+          <div class="dist-icon">${m.icon}</div>
+          <div class="dist-val">${fmtDist(data.distances[m.key])}</div>
+          <div class="dist-name">${m.name}</div>
+        </div>`;
+    }
+  }
+</script>
+</body>
+</html>
