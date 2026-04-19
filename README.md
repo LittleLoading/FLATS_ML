@@ -43,7 +43,7 @@ python main.py
 
 Or on Windows double-click `run.bat`.
 
-The application opens at `http://localhost:5000`.
+The application opens at `http://localhost:8081`.
 
 ---
 
