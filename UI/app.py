@@ -5,8 +5,9 @@ import joblib, json, os
 
 app = Flask(__name__, template_folder='../lib/templates')
 
-MODELS = "ModelsAndScalers"
-GEOJSONS = '../scraping/data/geojsons/'
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+MODELS   = os.path.join(BASE_DIR, "ModelsAndScalers")
+GEOJSONS = os.path.join(BASE_DIR, "..", "scraping", "data", "geojsons")
 
 scaler         = joblib.load(f"{MODELS}/scaler.pkl")
 label_encoders = joblib.load(f"{MODELS}/label_encoders.pkl")
@@ -228,4 +229,4 @@ def predict():
     })
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=True, host="0.0.0.0", port=8081)
