@@ -1,0 +1,841 @@
+source,id,name,price_czk,area_m2,flat_type,locality,lat,lon,has_lift,has_balcony,has_parking,floor,condition,furnished,ownership
+bezrealitky,1014269,Prodej bytu 2+kk,3800000,42,2+kk,"Sídliště II., Netvořice - Netvořice, Středočeský kraj",49.81785,14.5249738,0,0,1,2,dobry,vybaveny,osobni
+bezrealitky,1014270,Prodej bytu 3+1,8999999,86,3+1,"Dr. Janského, Černošice - Černošice, Středočeský kraj",49.9409387,14.3279334,0,0,1,1,velmi dobry,nevybaveny,osobni
+bezrealitky,1004572,Prodej bytu 3+1,7890000,86,3+1,"Havlíčkova, Pardubice - Pardubice, Pardubický kraj",50.0347155,15.7667926,0,0,1,4,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1005816,Prodej bytu 2+kk,8295000,58,2+kk,"Žerotínova, Praha - Žižkov",50.0881443,14.4643813,0,0,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,999787,Prodej bytu 3+kk,13200000,80,3+kk,"náměstí Jiřího z Lobkovic, Praha - Vinohrady",50.0769139,14.4660815,1,0,1,5,velmi dobry,castecne vybaveny,osobni
+bezrealitky,998325,Prodej bytu 4+1,5600000,77,4+1,"K Jatkám, Blatná - Blatná, Jihočeský kraj",49.4225925,13.884802,1,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1010585,Prodej bytu 1+kk,4990000,32,1+kk,"Gallašova, Brno - Štýřice, Jihomoravský kraj",49.1812344,16.5980005,0,0,0,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1012477,Prodej bytu 2+1,4450000,56,2+1,"Edvarda Beneše, Příbram - Březové Hory, Středočeský kraj",49.6807585,13.9976031,0,0,0,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1012050,Prodej bytu 1+kk,2590000,34,1+kk,"Palackého, Louny - Louny, Ústecký kraj",50.348621,13.8051278,0,0,1,1,dobry,castecne vybaveny,osobni
+bezrealitky,990183,Prodej bytu 3+kk,10285000,86,3+kk,"Ke Tvrzi, Praha - Královice",50.0390519,14.63862,0,0,1,2,novostavba,castecne vybaveny,osobni
+bezrealitky,1014245,Prodej bytu 2+1,4650000,51,2+1,"Na Vyhlídce, Boskovice - Boskovice, Jihomoravský kraj",49.4878342,16.6683611,0,0,0,1,velmi dobry,vybaveny,osobni
+bezrealitky,865897,Prodej bytu 2+kk,5500000,52,2+kk,"Lavického, Třebíč - Týn u Třebíče, Kraj Vysočina",49.2271163,15.8787501,1,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,981564,Prodej bytu 2+kk,6749000,44,2+kk,"Daškova, Praha - Modřany",50.0132624,14.423394,1,0,0,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,956007,Prodej bytu 2+1,7650000,69,2+1,"Novákových, Praha - Libeň",50.103169,14.4749514,0,0,0,5,dobry,nevybaveny,osobni
+bezrealitky,1012045,Prodej bytu 3+1,9100000,72,3+1,"Boháčova, Praha - Háje",50.0369884,14.5196601,1,0,1,8,dobry,,osobni
+bezrealitky,1002269,Prodej bytu 2+kk,7690000,46,2+kk,"Generála Janouška, Praha - Černý Most",50.1059649,14.5730823,1,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,882272,Prodej bytu 2+kk,9300000,52,2+kk,"Federova, Praha - Kyje",50.1159026,14.5655971,1,0,1,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,983063,Prodej bytu 3+1,5280000,76,3+1,"Kúty, Zlín - Zlín, Zlínský kraj",49.2309176,17.681015,1,0,0,2,dobry,castecne vybaveny,osobni
+bezrealitky,1013703,Prodej bytu 3+1,4600000,63,3+1,"Jiřího Herolda, Ostrava - Hrabůvka, Moravskoslezský kraj",49.7832928,18.2539579,1,0,0,4,dobry,nevybaveny,druzstevni
+bezrealitky,1003171,Prodej bytu 2+kk,6750000,47,2+kk,"Červený kopec, Brno - Štýřice, Jihomoravský kraj",49.1823642,16.5884822,0,0,1,1,dobry,castecne vybaveny,osobni
+bezrealitky,1014224,Prodej bytu 2+kk,2499000,44,2+kk,"Malátova, Městec Králové - Městec Králové, Středočeský kraj",50.204257,15.3022928,0,0,0,2,novostavba,nevybaveny,druzstevni
+bezrealitky,991191,Prodej bytu 3+kk,7990000,97,3+kk,"Plzenecká, Plzeň - Plzeň, Plzeňský kraj",49.7377603,13.3919533,1,0,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1010975,Prodej bytu 2+kk,6640000,43,2+kk,"Kurčatovova, Praha - Petrovice",50.0334329,14.5642109,1,0,1,4,dobry,,osobni
+bezrealitky,1014035,Prodej bytu 2+1,2900000,51,2+1,"9. května, Chvaletice - Telčice, Pardubický kraj",50.0339197,15.4138397,0,0,0,2,dobry,vybaveny,osobni
+bezrealitky,1014079,Prodej bytu 4+1,299000,100,4+1,Landshut Landshut Bayern 84032,48.55389,12.12803,0,1,1,0,dobry,,
+bezrealitky,999739,Prodej bytu 3+kk,11490000,69,3+kk,"Přímětická, Praha - Michle",50.0468373,14.4485922,1,0,0,5,po rekonstrukci,,osobni
+bezrealitky,996577,Prodej bytu 2+kk,5990000,43,2+kk,"Hořelické náměstí, Rudná - Hořelice, Středočeský kraj",50.0262913,14.2232075,0,0,1,1,dobry,,osobni
+bezrealitky,1012038,Prodej bytu 3+1,2900000,76,3+1,"Jindřicha Plachty, Ústí nad Labem - Mojžíř, Ústecký kraj",50.6802511,14.1183456,1,0,1,3,velmi dobry,,osobni
+bezrealitky,1011633,Prodej bytu 2+kk,7200000,69,2+kk,"Hybešova, Brno - Staré Brno, Jihomoravský kraj",49.1893325,16.6041688,0,0,0,1,dobry,,osobni
+bezrealitky,1003215,Prodej bytu 2+1,7310000,54,2+1,"Husníkova, Praha - Stodůlky",50.0477528,14.3415128,0,1,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1014032,Prodej bytu 1+kk,3290000,31,1+kk,"Táborská, Liberec - Dolní Hanychov, Liberecký kraj",50.7497173,15.0283004,0,0,1,1,dobry,castecne vybaveny,osobni
+bezrealitky,1014025,Prodej bytu 2+kk,7499000,49,2+kk,"Žitná, Hostivice - Litovice, Středočeský kraj",50.06108365,14.244075693283,1,0,1,4,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1012919,Prodej bytu 2+kk,7490000,52,2+kk,"Kloboučnická, Praha - Nusle",50.0613151,14.4497492,1,0,0,3,velmi dobry,nevybaveny,osobni
+bezrealitky,1012500,Prodej bytu 2+1,2750000,53,2+1,"Mikulášská, Aš - Aš, Karlovarský kraj",50.2250312,12.1911422,1,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,998340,Prodej bytu 4+kk,9990000,74,4+kk,"Kunínova, Praha - Chodov",50.0369814,14.4998523,1,0,1,5,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,1012018,Prodej bytu 3+1,3260000,81,3+1,"Jižní, Česká Lípa - Česká Lípa, Liberecký kraj",50.6835767,14.5234422,1,0,0,2,pred rekonstrukci,nevybaveny,osobni
+bezrealitky,741497,Prodej bytu 1+kk,6750000,27,1+kk,"Formanská, Praha - Újezd u Průhonic",50.01116,14.54723,1,1,1,3,novostavba,vybaveny,osobni
+bezrealitky,1013674,Prodej bytu 3+kk,7600000,93,3+kk,"Rubínová, Liberec - Rochlice u Liberce, Liberecký kraj",50.7538903,15.0720093,1,0,1,2,velmi dobry,,osobni
+bezrealitky,1012026,Prodej bytu 2+kk,5790000,80,2+kk,"nábř. Dr. Edvarda Beneše, Přerov - Přerov, Olomoucký kraj",49.4534309,17.4414924,1,0,0,4,velmi dobry,castecne vybaveny,osobni
+bezrealitky,997904,Prodej bytu 3+kk,8299000,53,3+kk,"Etiopská, Praha - Vokovice",50.0967243,14.355253,1,0,0,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1003211,Prodej bytu 3+1,8100000,80,3+1,"Ohradní, Praha - Michle",50.0507248,14.451063,1,0,0,1,dobry,nevybaveny,druzstevni
+bezrealitky,1005356,Prodej bytu 2+kk,7799000,43,2+kk,"Ke Krči, Praha - Braník",50.0358604,14.4116458,0,0,0,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1005361,Prodej bytu 2+kk,7199000,39,2+kk,"Průběžná, Praha - Strašnice",50.0669995,14.4966426,0,0,0,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1002295,Prodej bytu 3+kk,8194000,56,3+kk,"Mírová, Brno - Černovice, Jihomoravský kraj",49.1773331,16.6319601,0,0,1,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,999249,Prodej bytu 2+kk,5750000,33,2+kk,"Podle Kačerova, Praha - Michle",50.0448995,14.4661138,0,0,0,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,979626,Prodej bytu 3+kk,8199000,52,3+kk,"Egyptská, Praha - Vokovice",50.0976511,14.3539387,1,0,0,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,987083,Prodej bytu 3+kk,8600000,67,3+kk,"Třebenická, Praha - Kobylisy",50.1290096,14.4787682,0,0,1,1,velmi dobry,,druzstevni
+bezrealitky,903485,Prodej bytu 3+kk,17470000,158,3+kk,"Korunní, Praha - Vinohrady",50.0755284,14.4444199,1,0,0,5,velmi dobry,,osobni
+bezrealitky,1010090,Prodej bytu 2+kk,4900000,53,2+kk,"Heřmánková, Ostrava - Heřmanice, Moravskoslezský kraj",49.8590025,18.3174475,0,0,1,1,velmi dobry,,osobni
+bezrealitky,1014005,Prodej bytu 1+1,7650000,40,1+1,"Francouzská, Praha - Vinohrady",50.0720647,14.444764,0,0,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1003152,Prodej bytu 3+1,940000,74,3+1,"Dukelských hrdinů, Krupka - Maršov u Krupky, Ústecký kraj",50.6872263,13.880230176018,1,0,0,6,dobry,castecne vybaveny,druzstevni
+bezrealitky,978512,Prodej bytu 2+kk,6500000,45,2+kk,"Na Komořsku, Praha - Komořany",49.9889863,14.4138653,1,0,1,2,dobry,castecne vybaveny,osobni
+bezrealitky,1011984,Prodej bytu 2+kk,6990000,45,2+kk,"U Továren, Praha - Hostivař",50.0563773,14.5425782,1,0,1,2,novostavba,nevybaveny,osobni
+bezrealitky,1011670,Prodej bytu 4+kk,10750000,83,4+kk,"Ke Stadionu, Praha - Čakovice",50.1465469,14.5323249,0,0,1,4,velmi dobry,vybaveny,osobni
+bezrealitky,1013981,Prodej bytu 3+kk,275000,71,3+kk,Dresden Cotta Sachsen 01159,51.04266,13.69647,0,1,1,0,dobry,,
+bezrealitky,1012416,Prodej bytu 1+kk,6390000,30,1+kk,"Jeronýmova, Praha - Žižkov",50.0862648,14.4482224,1,0,0,6,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1012427,Prodej bytu 1+1,2490000,37,1+1,"Krušnohorská, Chlumec - Chlumec u Chabařovic, Ústecký kraj",50.699691,13.9404847,0,0,0,3,velmi dobry,nevybaveny,osobni
+bezrealitky,1013873,Prodej bytu 2+1,147000,60,2+1,"Stamsrieder Weg 10, , Sasko",51.03424,13.59849,0,1,1,1,dobry,,
+bezrealitky,1003615,Prodej bytu 2+1,2690000,64,2+1,"Krásný Dvůr - Krásný Dvůr, Ústecký kraj",50.25556,13.3728463,0,0,1,2,pred rekonstrukci,nevybaveny,osobni
+bezrealitky,992728,Prodej bytu 3+kk,3599000,55,3+kk,Praha - Staré Město,49.9710088,12.7021469,0,0,1,4,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1004917,Prodej bytu 2+1,3850000,55,2+1,"U Pivovaru, Jihlava - Jihlava, Kraj Vysočina",49.3961145,15.581889,1,1,0,2,pred rekonstrukci,,osobni
+bezrealitky,1004484,Prodej bytu 3+kk,14890000,71,3+kk,"Vlnitá, Praha - Braník",50.0388316,14.423045,0,1,1,2,po rekonstrukci,,osobni
+bezrealitky,998267,Prodej bytu 3+kk,6950000,110,3+kk,"Palackého náměstí, Vlašim - Vlašim, Středočeský kraj",49.7087013,14.8933213,1,0,0,3,novostavba,castecne vybaveny,osobni
+bezrealitky,998286,Prodej bytu 2+1,2990000,44,2+1,"Na Valtické, Břeclav - Charvátská Nová Ves, Jihomoravský kraj",48.7577519,16.8578075,1,0,0,6,pred rekonstrukci,nevybaveny,osobni
+bezrealitky,994384,Prodej bytu 3+1,4590000,63,3+1,"Nedomická, Všetaty - Všetaty, Středočeský kraj",50.27944,14.5949375,0,1,0,2,dobry,castecne vybaveny,druzstevni
+bezrealitky,995480,Prodej bytu 3+1,3290000,74,3+1,"Flemingova, Karviná - Karviná-město, Moravskoslezský kraj",49.865959,18.5577269,1,0,0,4,velmi dobry,castecne vybaveny,osobni
+bezrealitky,994328,Prodej bytu 2+kk,8990000,54,2+kk,"5. května, Praha - Nusle",50.0559165,14.4376493,0,1,0,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,990545,Prodej bytu 3+kk,10990000,67,3+kk,"Psárská, Praha - Michle",50.0522707,14.4613036,1,1,1,3,velmi dobry,,osobni
+bezrealitky,992030,Prodej bytu 3+1,7790000,57,3+1,"Verneřická, Praha - Střížkov",50.1240347,14.4981042,0,1,0,3,dobry,nevybaveny,osobni
+bezrealitky,990852,Prodej bytu 1+1,6890000,45,1+1,"Na Václavce, Praha - Smíchov",50.0649748,14.392909,0,0,0,1,dobry,castecne vybaveny,osobni
+bezrealitky,983114,Prodej bytu 1+1,4890000,52,1+1,"Charbulova, Brno - Černovice, Jihomoravský kraj",49.1856067,16.63532,0,0,0,1,after_partial_reconstruction,nevybaveny,osobni
+bezrealitky,987810,Prodej bytu 2+kk,5170000,52,2+kk,"Lipová-lázně - Horní Lipová, Olomoucký kraj",50.2242839,17.0907915,1,0,1,5,novostavba,castecne vybaveny,osobni
+bezrealitky,981200,Prodej bytu 1+1,2890000,49,1+1,"28. října, Ostrava - Moravská Ostrava, Moravskoslezský kraj",49.83214335,18.280086601285,0,0,1,5,after_partial_reconstruction,nevybaveny,osobni
+bezrealitky,980848,Prodej bytu 1+kk,2299000,22,1+kk,"Hilarova, Ústí nad Labem - Ústí nad Labem, Ústecký kraj",50.6665329,14.0381824,1,1,0,9,after_partial_reconstruction,,osobni
+bezrealitky,979616,Prodej bytu 3+1,3880000,59,3+1,"4. května, Vsetín - Vsetín, Zlínský kraj",49.3422143,17.989416508417,0,1,0,4,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,1002816,Prodej bytu 3+1,5100000,65,3+1,"Sídliště Za Stadionem, Kyjov - Nětčice u Kyjova, Jihomoravský kraj",49.01761115,17.129461617481,0,0,0,4,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1011618,Prodej bytu 1+1,5300000,35,1+1,"Absolonova, Brno - Komín, Jihomoravský kraj",49.2202849,16.5558368,0,0,1,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,198817,Prodej bytu 3+kk,9900000,75,3+kk,"Litoměřická, Praha - Prosek",50.1188063,14.4937472,1,1,0,8,velmi dobry,,osobni
+bezrealitky,982706,Prodej bytu 2+1,4590000,50,2+1,"L. M. Pařízka, České Budějovice - České Budějovice 7, Jihočeský kraj",48.9613102,14.4734026,1,1,1,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1002810,Prodej bytu 2+kk,14490000,69,2+kk,"Argentinská, Praha - Holešovice",50.1062914,14.4440223,1,0,1,6,velmi dobry,,osobni
+bezrealitky,1007155,Prodej bytu 2+kk,9199900,53,2+kk,"Kralická, Praha - Strašnice",50.0759548,14.4918795,0,0,0,4,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1003599,Prodej bytu 4+kk,13799900,75,4+kk,"Pod Lipami, Praha - Žižkov",50.0903632,14.495364,1,0,0,6,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1002814,Prodej bytu 1+kk,9250000,40,1+kk,"Argentinská, Praha - Holešovice",50.1062914,14.4440223,1,0,1,7,velmi dobry,,osobni
+bezrealitky,1007172,Prodej bytu 3+kk,13999900,78,3+kk,"Hyacintová, Praha - Záběhlice",50.0549571,14.494788,1,0,0,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,934864,Prodej bytu 2+kk,13999900,54,2+kk,"Chodská, Praha - Vinohrady",50.075748,14.4459807,1,0,0,5,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1007151,Prodej bytu 4+kk,14999900,76,4+kk,"Kolátorova, Praha - Břevnov",50.0850728,14.3689741,1,0,0,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1005326,Prodej bytu 4+kk,11799900,97,4+kk,"Merhautova, Brno - Zábrdovice, Jihomoravský kraj",49.2038132,16.6223567,0,0,0,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,966520,Prodej bytu 5+kk,25999900,139,5+kk,"Chodská, Praha - Vinohrady",50.075748,14.4459807,1,0,0,6,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1005332,Prodej bytu 5+kk,9999900,84,5+kk,"Blatnická, Brno - Židenice, Jihomoravský kraj",49.2091385,16.660726,1,0,0,5,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1003656,Prodej bytu 3+kk,14999900,81,3+kk,"Ukrajinská, Praha - Vršovice",50.0652027,14.450711,1,0,0,4,velmi dobry,castecne vybaveny,osobni
+bezrealitky,966517,Prodej bytu 4+kk,19999900,117,4+kk,"Chodská, Praha - Vinohrady",50.075748,14.4459807,1,0,0,6,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1003595,Prodej bytu 3+kk,10199900,57,3+kk,"Gruzínská, Praha - Vršovice",50.0702397,14.4704631,1,0,0,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,995485,Prodej bytu 2+kk,8999900,54,2+kk,"Ruská, Praha - Vršovice",50.0733658,14.479062,0,0,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,974557,Prodej bytu 4+kk,12799900,94,4+kk,"V Dolině, Praha - Michle",50.0579963,14.4682887,1,0,0,8,velmi dobry,castecne vybaveny,osobni
+bezrealitky,987063,Prodej bytu 2+kk,8649900,42,2+kk,"Bulharská, Praha - Vršovice",50.0718178,14.4625272,1,0,0,5,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1005329,Prodej bytu 4+kk,13699900,85,4+kk,"Nerudova, Brno - Veveří, Jihomoravský kraj",49.2059788,16.5953853,1,0,0,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1003614,Prodej bytu 1+kk,6590000,33,1+kk,"K Louži, Praha - Vršovice",50.0659867,14.4589751,1,0,1,4,after_partial_reconstruction,nevybaveny,osobni
+bezrealitky,1013693,Prodej bytu 3+1,4490000,68,3+1,"Vančurova, Nový Jičín - Nový Jičín-Dolní Předměstí, Moravskoslezský kraj",49.5979863,18.005895,0,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1010551,Prodej bytu 3+kk,7390000,77,3+kk,"Kapitána Jaroše, Boskovice - Boskovice, Jihomoravský kraj",49.4875165,16.6623346,0,0,0,2,novostavba,nevybaveny,osobni
+bezrealitky,1004529,Prodej bytu 2+kk,6990000,37,2+kk,"Přemyšlenská, Praha - Kobylisy",50.1261901,14.4491741,0,0,0,1,po rekonstrukci,,osobni
+bezrealitky,1002774,Prodej bytu 1+kk,8300000,28,1+kk,"Legerova, Praha - Nové Město",50.0742362,14.4301142,1,0,0,4,velmi dobry,,osobni
+bezrealitky,1010553,Prodej bytu 2+kk,5260000,55,2+kk,"Kapitána Jaroše, Boskovice - Boskovice, Jihomoravský kraj",49.4875165,16.6623346,0,0,0,2,novostavba,nevybaveny,osobni
+bezrealitky,797632,Prodej bytu 2+kk,6200000,43,2+kk,"Přeštická, Praha - Hostivař",50.04529,14.51359,1,0,1,6,dobry,nevybaveny,osobni
+bezrealitky,1011602,Prodej bytu 3+1,17500000,80,3+1,"Na Folimance, Praha - Vinohrady",50.0665304,14.4327754,1,0,1,5,velmi dobry,nevybaveny,osobni
+bezrealitky,993166,Prodej bytu 2+1,4799000,69,2+1,"Komenského, Trutnov - Trutnov, Královéhradecký kraj",50.559425,15.9025688,0,0,1,3,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,1013662,Prodej bytu 2+kk,2150000,40,2+kk,"Josefa Ševčíka, Most - Most II, Ústecký kraj",50.4955672,13.6614793,1,0,0,7,velmi dobry,castecne vybaveny,druzstevni
+bezrealitky,1002842,Prodej bytu 2+kk,7999000,48,2+kk,"Kloboukova, Praha - Chodov",50.0376569,14.4839206,0,0,1,2,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,1002767,Prodej bytu 2+kk,8990000,53,2+kk,"Studentská, Brno - Bohunice, Jihomoravský kraj",49.1796207,16.5689204,1,0,1,4,novostavba,castecne vybaveny,osobni
+bezrealitky,996987,Prodej bytu 3+kk,19200000,96,3+kk,Praha - Velká Chuchle,50.00162375,14.375167651725,1,0,1,2,novostavba,castecne vybaveny,osobni
+bezrealitky,1013639,Prodej bytu 3+kk,4700000,146,3+kk,"Lubná - Lubná u Rakovníka, Středočeský kraj",50.0770953,13.7221767,0,0,1,1,dobry,vybaveny,osobni
+bezrealitky,904871,Prodej bytu 4+kk,21890000,117,4+kk,"U Pergamenky, Praha - Holešovice",50.1102824,14.446798,0,0,1,6,novostavba,,osobni
+bezrealitky,930514,Prodej bytu 2+kk,4750000,52,2+kk,"Železná Ruda - Špičák, Plzeňský kraj",49.1625348,13.2258759,0,0,1,3,velmi dobry,,druzstevni
+bezrealitky,1013655,Prodej bytu 4+kk,6399000,77,4+kk,"Bezručova, Mělník - Mělník, Středočeský kraj",50.3532705,14.4813253,1,0,0,5,velmi dobry,castecne vybaveny,druzstevni
+bezrealitky,1011584,Prodej bytu 3+1,2990000,72,3+1,"Smetanova, Chodov - Dolní Chodov, Karlovarský kraj",50.2401524,12.7442174,1,0,0,11,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1011429,Prodej bytu 1+kk,2690000,27,1+kk,"Dolní Jasenka, Vsetín - Vsetín, Zlínský kraj",49.34738,17.9962163,1,0,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,976082,Prodej bytu 1+kk,8900000,38,1+kk,"Vršovická, Praha - Vršovice",50.0667832,14.4440128,1,0,0,5,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1003943,Prodej bytu 1+kk,6890000,36,1+kk,"Davídkova, Praha - Libeň",50.1195535,14.4698951,1,0,1,4,dobry,nevybaveny,osobni
+bezrealitky,1005353,Prodej bytu 2+kk,10990000,58,2+kk,"Poděbradská, Praha - Hloubětín",50.1037699,14.5201769,1,0,1,4,novostavba,nevybaveny,osobni
+bezrealitky,1002725,Prodej bytu 2+kk,3599000,45,2+kk,"K Háječku, Písek - Hradiště u Písku, Jihočeský kraj",49.2997219,14.1200398,1,0,1,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,936886,Prodej bytu 3+kk,18940013,119,3+kk,"Nad Koulkou, Praha - Smíchov",50.0607425,14.4020053,1,0,1,4,novostavba,nevybaveny,osobni
+bezrealitky,1002722,Prodej bytu 3+1,13499000,88,3+1,"Nad Kajetánkou, Praha - Břevnov",50.0866434,14.3758994,0,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,908676,Prodej bytu 2+kk,5800000,40,2+kk,"Vestecká, Nehvizdy - Nehvizdy, Středočeský kraj",50.1326372,14.7446367,0,0,1,3,novostavba,nevybaveny,osobni
+bezrealitky,1011971,Prodej bytu 2+kk,7500000,42,2+kk,"Vlastina, Praha - Ruzyně",50.0883463,14.3064766,1,0,0,7,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1012429,Prodej bytu 4+kk,24900000,124,4+kk,"V Lukách, Praha - Horní Počernice",50.1050456,14.6165002,0,0,1,0,velmi dobry,castecne vybaveny,osobni
+bezrealitky,913507,Prodej bytu 2+kk,9794081,61,2+kk,"Na Neklance, Praha - Smíchov",50.0610208,14.4020098,1,0,1,2,novostavba,vybaveny,osobni
+bezrealitky,1000908,Prodej bytu 2+1,6800000,81,2+1,"třída Edvarda Beneše, Hradec Králové - Nový Hradec Králové, Královéhradecký kraj",50.1965544,15.8382105,1,0,1,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1011419,Prodej bytu 3+kk,14990000,103,3+kk,"U Dvou srpů, Praha - Smíchov",50.0706239,14.3732465,0,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1013622,Prodej bytu 1+1,6660000,39,1+1,"Křížová, Praha - Smíchov",50.0516096,14.4066557,0,0,0,3,velmi dobry,nevybaveny,osobni
+bezrealitky,1011416,Prodej bytu 1+1,2590000,35,1+1,"Okružní, Ústí nad Orlicí - Ústí nad Orlicí, Pardubický kraj",49.9720066,16.391843,1,0,1,3,dobry,nevybaveny,osobni
+bezrealitky,1013473,Prodej bytu 3+1,68000,72,3+1,", Sasko",50.97321,13.12242,0,1,1,0,dobry,,
+bezrealitky,1013341,Prodej bytu 5+kk,19900000,126,5+kk,"Podbělohorská, Praha - Smíchov",50.0728376,14.3813513,1,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1013364,Prodej bytu 1+kk,2580000,25,1+kk,"Rýchorské náměstí, Žacléř - Žacléř, Královéhradecký kraj",50.6526701,15.9064438,0,0,1,1,velmi dobry,,osobni
+bezrealitky,1013365,Prodej bytu 2+kk,7490000,44,2+kk,"Ostravská, Praha - Letňany",50.1384397,14.5155794,1,0,0,1,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,480585,Prodej bytu 4+kk,9199999,70,4+kk,"Ružinovská, Praha - Krč",50.0265112,14.4523275,1,1,0,9,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1013326,Prodej bytu 1+1,2700000,32,1+1,"Hranická, Lipník nad Bečvou - Lipník nad Bečvou, Olomoucký kraj",49.5279184,17.5966145,1,0,0,5,velmi dobry,nevybaveny,osobni
+bezrealitky,1013327,Prodej bytu 2+kk,9950000,62,2+kk,"Bělocerkevská, Praha - Vršovice",50.0709886,14.4697961,1,0,0,6,velmi dobry,vybaveny,osobni
+bezrealitky,1013334,Prodej bytu 2+kk,10990000,53,2+kk,"Kolbenova, Praha - Vysočany",50.1113213,14.5106858,1,0,1,3,novostavba,vybaveny,osobni
+bezrealitky,902934,Prodej bytu 1+kk,2550000,19,1+kk,"Černá v Pošumaví - Černá v Pošumaví, Jihočeský kraj",48.7397601,14.112125,1,0,1,1,novostavba,vybaveny,osobni
+bezrealitky,881282,Prodej bytu 5+kk,20,220,5+kk,"Na Okraji, Praha - Veleslavín",50.0896805,14.3422562,0,0,1,7,velmi dobry,vybaveny,osobni
+bezrealitky,879828,Prodej bytu 3+kk,7900000,80,3+kk,"Horská, Vrchlabí - Hořejší Vrchlabí, Královéhradecký kraj",50.641415,15.6087588,1,0,1,1,novostavba,vybaveny,osobni
+bezrealitky,1013333,Prodej bytu 3+kk,12490000,88,3+kk,"Ostromečská, Praha - Žižkov",50.0879554,14.4603874,0,0,0,1,dobry,,osobni
+bezrealitky,1013319,Prodej bytu 3+kk,2100000,97,3+kk,"Holany - Holany, Liberecký kraj",50.6163313,14.4903987,0,0,0,2,dobry,vybaveny,druzstevni
+bezrealitky,1007574,Prodej bytu 3+1,19980000,143,3+1,"Na Okraji, Praha - Veleslavín",50.0891114,14.3420498,1,0,1,6,pred rekonstrukci,nevybaveny,osobni
+bezrealitky,1002349,Prodej bytu 2+1,3000000,61,2+1,"Švestková, Ústí nad Labem - Ústí nad Labem, Ústecký kraj",50.6779338,14.0339705,0,0,0,5,dobry,castecne vybaveny,druzstevni
+bezrealitky,1013304,Prodej bytu 2+kk,9999900,50,2+kk,"U Městských domů, Praha - Holešovice",50.106951,14.4458964,1,0,0,4,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1013317,Prodej bytu 3+kk,6490000,77,3+kk,"Benešovo náměstí, Pardubice - Pardubice, Pardubický kraj",50.0256674,15.7748293,0,0,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1013324,Prodej bytu 2+kk,17490000,92,2+kk,"Opatovická, Praha - Nové Město",50.0794856,14.4170326,0,0,0,3,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,1013306,Prodej bytu 4+kk,10999900,79,4+kk,"Hrusická, Praha - Záběhlice",50.0483454,14.484308,1,0,0,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,980192,Prodej bytu 4+1,14000000,110,4+1,"Skřivanova, Brno - Ponava, Jihomoravský kraj",49.2095855,16.6058915,1,0,1,5,velmi dobry,nevybaveny,osobni
+bezrealitky,1013303,Prodej bytu 2+kk,8799900,41,2+kk,"Jakutská, Praha - Vršovice",50.0729373,14.4747115,0,0,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1001951,Prodej bytu 3+kk,4599000,68,3+kk,"17. listopadu, Ústí nad Labem - Bukov, Ústecký kraj",50.685174,13.995329520067,0,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1002318,Prodej bytu 1+1,5500000,32,1+1,"Lamačova, Praha - Hlubočepy",50.036642516819,14.3736086087,0,0,1,3,dobry,castecne vybaveny,osobni
+bezrealitky,1013291,Prodej bytu 3+1,4550000,80,3+1,"Tř. 1. máje, Hranice - Hranice, Olomoucký kraj",49.5540836,17.7352914,1,0,1,7,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1002311,Prodej bytu 2+1,8415000,70,2+1,"Rybářská, Brno - Staré Brno, Jihomoravský kraj",49.1858978,16.5865315,0,0,0,3,dobry,castecne vybaveny,osobni
+bezrealitky,916624,Prodej bytu ,3500000,75,,"Mattoniho nábřeží, Karlovy Vary - Drahovice, Karlovarský kraj",50.2396832,12.8886519,0,0,1,5,velmi dobry,,osobni
+bezrealitky,1013290,Prodej bytu 2+kk,5790000,43,2+kk,"Faměrovo náměstí, Brno - Černovice, Jihomoravský kraj",49.1761445,16.6379376,0,0,1,3,novostavba,nevybaveny,osobni
+bezrealitky,1013289,Prodej bytu 2+1,7350000,56,2+1,"Purkyňova, Brno - Královo Pole, Jihomoravský kraj",49.2298158,16.5799536,0,0,0,4,velmi dobry,,osobni
+bezrealitky,867416,Prodej bytu 2+1,3690000,61,2+1,"Bratislavská, Břeclav - Břeclav, Jihomoravský kraj",48.750818,16.8939616,0,0,1,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1002300,Prodej bytu 2+1,8490000,73,2+1,"Výtoňská, Praha - Nedvězí u Říčan",50.0159141,14.6565338,0,0,1,3,velmi dobry,vybaveny,osobni
+bezrealitky,1012991,Prodej bytu 1+kk,19800000,58,1+kk,"Kamenická, Praha - Holešovice",50.0981388,14.4279259,1,0,0,5,velmi dobry,vybaveny,osobni
+bezrealitky,992706,Prodej bytu 1+kk,6590000,29,1+kk,"K Botiči, Praha - Vršovice",50.0638962,14.4536964,1,0,0,4,project,nevybaveny,osobni
+bezrealitky,992049,Prodej bytu 2+kk,9125000,47,2+kk,"K Botiči, Praha - Vršovice",50.0638962,14.4536964,1,0,1,2,novostavba,nevybaveny,osobni
+bezrealitky,992708,Prodej bytu 1+kk,2499000,29,1+kk,"K Botiči, Praha - Vršovice",50.0638962,14.4536964,1,0,0,4,project,nevybaveny,druzstevni
+bezrealitky,899731,Prodej bytu 2+kk,4900000,61,2+kk,"Pod Karlovem, Praha - Vinohrady",50.0676313,14.432498,1,0,0,1,novostavba,nevybaveny,druzstevni
+bezrealitky,992052,Prodej bytu 2+kk,3999000,47,2+kk,"K Botiči, Praha - Vršovice",50.0638962,14.4536964,1,0,1,2,novostavba,nevybaveny,druzstevni
+bezrealitky,146722,Prodej bytu 2+1,12500000,80,2+1,"U kříže, Praha - Jinonice",50.053864,14.3681114,1,0,1,4,velmi dobry,castecne vybaveny,osobni
+bezrealitky,868801,Prodej bytu 3+kk,7299000,109,3+kk,"Pod Karlovem, Praha - Vinohrady",50.0676313,14.432498,1,0,0,5,po rekonstrukci,nevybaveny,druzstevni
+bezrealitky,899730,Prodej bytu 2+kk,11490000,61,2+kk,"Pod Karlovem, Praha - Vinohrady",50.0676313,14.432498,1,0,0,1,novostavba,nevybaveny,osobni
+bezrealitky,907446,Prodej bytu 2+kk,11500000,54,2+kk,"Pod Karlovem, Praha - Vinohrady",50.0676313,14.432498,1,0,0,,novostavba,nevybaveny,osobni
+bezrealitky,868790,Prodej bytu 3+kk,21990000,106,3+kk,"Pod Karlovem, Praha - Vinohrady",50.0676313,14.432498,1,0,0,2,po rekonstrukci,nevybaveny,osobni
+bezrealitky,907450,Prodej bytu 2+kk,5060000,54,2+kk,"Pod Karlovem, Praha - Vinohrady",50.0676313,14.432498,1,0,0,,novostavba,nevybaveny,druzstevni
+bezrealitky,868795,Prodej bytu 3+kk,6299000,106,3+kk,"Pod Karlovem, Praha - Vinohrady",50.0676313,14.432498,1,0,0,2,po rekonstrukci,nevybaveny,druzstevni
+bezrealitky,868796,Prodej bytu 3+kk,21990000,109,3+kk,"Pod Karlovem, Praha - Vinohrady",50.0676313,14.432498,1,0,0,5,po rekonstrukci,nevybaveny,osobni
+bezrealitky,1002294,Prodej bytu 3+kk,4521600,52,3+kk,"Moravská, Prostějov - Prostějov, Olomoucký kraj",49.4668573,17.087936,1,0,1,7,velmi dobry,nevybaveny,osobni
+bezrealitky,997902,Prodej bytu 2+kk,5700000,47,2+kk,"B. Němcové, Horoměřice - Horoměřice, Středočeský kraj",50.1282919,14.3328607,0,0,1,1,novostavba,castecne vybaveny,osobni
+bezrealitky,1013268,Prodej bytu 3+1,4750000,68,3+1,"Špičák, Český Krumlov - Český Krumlov, Jihočeský kraj",48.8158751,14.3154884,0,0,1,4,dobry,nevybaveny,osobni
+bezrealitky,1013016,Prodej bytu 4+1,250000,127,4+1,"Armanspergstraße 5, , Bavorsko",48.88526,12.92233,0,1,1,0,pred rekonstrukci,,
+bezrealitky,1011059,Prodej bytu 2+kk,6990000,40,2+kk,"Petrohradská, Praha - Vršovice",50.0635461,14.4531225,1,0,1,2,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,978115,Prodej bytu 3+kk,16500000,98,3+kk,"Zvěřinova, Praha - Strašnice",50.0850783,14.486461,1,1,1,2,velmi dobry,,osobni
+bezrealitky,967565,Prodej bytu 3+1,8700000,77,3+1,"Prosecká, Praha - Prosek",50.1212909,14.5034434,1,0,0,8,velmi dobry,castecne vybaveny,osobni
+bezrealitky,976576,Prodej bytu 3+kk,4800000,75,3+kk,"U Náspu, Liberec - Liberec, Liberecký kraj",50.7717739,15.0617283,0,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,879627,Prodej bytu 2+kk,12100000,53,2+kk,"Viklefova, Praha - Žižkov",50.0895142,14.4741609,1,0,0,2,po rekonstrukci,vybaveny,osobni
+bezrealitky,1001987,Prodej bytu 2+1,3800000,59,2+1,"Obchodní, Slavičín - Slavičín, Zlínský kraj",49.0839905,17.8863879,0,0,0,4,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1001959,Prodej bytu 2+1,3490000,48,2+1,"Kubánská, Ostrava - Poruba, Moravskoslezský kraj",49.8238746,18.18700875,1,0,0,8,velmi dobry,nevybaveny,osobni
+bezrealitky,1001977,Prodej bytu 3+1,4950000,65,3+1,"Na Výšině, Jablonec nad Nisou - Jablonec nad Nisou, Liberecký kraj",50.7254548,15.1535844,0,0,0,1,dobry,vybaveny,osobni
+bezrealitky,1012961,Prodej bytu 1+kk,6950000,30,1+kk,"Kubelíkova, Praha - Žižkov",50.0817778,14.4470497,0,0,0,4,velmi dobry,vybaveny,osobni
+bezrealitky,1001964,Prodej bytu 3+1,4500000,62,3+1,"Maroldova, Ostrava - Moravská Ostrava, Moravskoslezský kraj",49.84702735,18.274380177954,0,0,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1012984,Prodej bytu 1+kk,7900000,40,1+kk,"Třinecká, Praha - Letňany",50.1351182,14.5100869,1,0,1,1,velmi dobry,,osobni
+bezrealitky,1012971,Prodej bytu 2+1,3090000,51,2+1,"Na Lani, Nový Jičín - Loučka u Nového Jičína, Moravskoslezský kraj",49.5916588,17.9871525,1,0,0,2,dobry,nevybaveny,osobni
+bezrealitky,1001955,Prodej bytu 5+kk,5790000,100,5+kk,"Karlovarská, Pernink - Pernink, Karlovarský kraj",50.3637253,12.7847485,0,0,1,2,velmi dobry,vybaveny,osobni
+bezrealitky,1012931,Prodej bytu 4+1,10150000,80,4+1,"Hurbanova, Praha - Krč",50.0247031,14.4542511,1,0,1,11,dobry,castecne vybaveny,osobni
+bezrealitky,777630,Prodej bytu 2+kk,8200000,49,2+kk,"Křižanská, Praha - Ďáblice",50.1467094,14.4733585,1,0,1,1,novostavba,,osobni
+bezrealitky,685007,Prodej bytu 2+kk,8748475,84,2+kk,"U Konečné, Praha - Dolní Počernice",50.08289,14.5766,1,0,1,1,novostavba,nevybaveny,osobni
+bezrealitky,1012940,Prodej bytu 2+kk,9250000,49,2+kk,"Poděbradská, Praha - Vysočany",50.1026212,14.5192052,1,0,1,4,novostavba,castecne vybaveny,osobni
+bezrealitky,1012894,Prodej bytu 3+1,3990000,78,3+1,"Dukelská, Mikulov - Mikulov na Moravě, Jihomoravský kraj",48.8144677,16.6483099,0,0,0,2,spatny,nevybaveny,osobni
+bezrealitky,1012935,Prodej bytu 2+kk,7500000,41,2+kk,"Poděbradská, Praha - Vysočany",50.1026212,14.5192052,1,0,1,3,novostavba,castecne vybaveny,osobni
+bezrealitky,1012918,Prodej bytu 2+1,9690000,68,2+1,"Kloboučnická, Praha - Nusle",50.0613151,14.4497492,1,0,0,1,velmi dobry,nevybaveny,osobni
+bezrealitky,1011020,Prodej bytu 3+1,2490000,60,3+1,"Loučná pod Klínovcem - Loučná pod Klínovcem, Ústecký kraj",50.4167335,12.9762332,0,0,0,1,velmi dobry,,osobni
+bezrealitky,1012910,Prodej bytu 2+kk,8500000,52,2+kk,"V Olšinách, Praha - Strašnice",50.0708732,14.481157,1,0,0,2,velmi dobry,nevybaveny,osobni
+bezrealitky,993134,Prodej bytu 2+kk,9500000,59,2+kk,"Pod Harfou, Praha - Vysočany",50.1043042,14.5103128,1,0,1,6,velmi dobry,,osobni
+bezrealitky,985593,Prodej bytu 2+1,7450000,72,2+1,"Křenová, Brno - Trnitá, Jihomoravský kraj",49.1921389,16.6173768,1,0,0,2,dobry,vybaveny,osobni
+bezrealitky,1012896,Prodej bytu 3+1,9741220,75,3+1,"Jablonecká, Praha - Prosek",50.1216666,14.500052,1,0,0,10,velmi dobry,,osobni
+bezrealitky,1012897,Prodej bytu 2+kk,6290000,64,2+kk,"Loučná pod Klínovcem - Háj u Loučné pod Klínovcem, Ústecký kraj",50.4270564,13.0029963,0,0,1,1,novostavba,,osobni
+bezrealitky,1006162,Prodej bytu 3+kk,12900000,75,3+kk,"Škrábkových, Praha - Letňany",50.1408731,14.5188315,1,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,994839,Prodej bytu 2+kk,10955000,65,2+kk,"Učňovská, Praha - Hrdlořezy",50.09315465,14.504305676929,0,0,1,2,novostavba,castecne vybaveny,osobni
+bezrealitky,1010574,Prodej bytu 2+kk,6800000,44,2+kk,"Lodžská, Praha - Bohnice",50.1297434,14.4179033,0,0,1,1,pred rekonstrukci,nevybaveny,osobni
+bezrealitky,1012885,Prodej bytu 3+1,1790000,68,3+1,"Na Výsluní, Orlová - Horní Lutyně, Moravskoslezský kraj",49.8748186,18.4394886,1,0,0,7,pred rekonstrukci,nevybaveny,druzstevni
+bezrealitky,1011954,Prodej bytu 2+kk,4230000,50,2+kk,"L. M. Pařízka, České Budějovice - České Budějovice 7, Jihočeský kraj",48.9606833,14.4748066,0,1,0,4,dobry,vybaveny,osobni
+bezrealitky,1012585,Prodej bytu 2+kk,215000,67,2+kk,Weiden Weiden in der Oberpfalz Bayern 92637,49.67414,12.15638,0,1,0,5,po rekonstrukci,,
+bezrealitky,990222,Prodej bytu 3+1,3590000,74,3+1,"Tlapákova, Ostrava - Hrabůvka, Moravskoslezský kraj",49.7837144,18.258969,1,0,0,8,pred rekonstrukci,nevybaveny,osobni
+bezrealitky,1012861,Prodej bytu 2+1,7350000,56,2+1,"Palackého třída, Brno - Královo Pole, Jihomoravský kraj",49.2304679,16.5902992,1,0,0,7,velmi dobry,castecne vybaveny,osobni
+bezrealitky,966561,Prodej bytu 3+kk,11490000,96,3+kk,"Pastevců, Praha - Újezd u Průhonic",50.019324,14.5196128,0,1,1,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1012881,Prodej bytu 3+kk,8550000,96,3+kk,"Českobratrská, Ostrava - Moravská Ostrava, Moravskoslezský kraj",49.83879665,18.286130814446,0,0,0,3,velmi dobry,vybaveny,osobni
+bezrealitky,1008900,Prodej bytu 2+kk,7990000,51,2+kk,"Chudenická, Praha - Hostivař",50.046763,14.5196772,0,0,1,2,novostavba,castecne vybaveny,druzstevni
+bezrealitky,999225,Prodej bytu 3+kk,12820000,79,3+kk,"Roháčova, Praha - Žižkov",50.0870867,14.4566089,0,0,0,7,po rekonstrukci,vybaveny,osobni
+bezrealitky,1012534,Prodej bytu 3+1,9600000,67,3+1,"Lohniského, Praha - Hlubočepy",50.0376245,14.3751217,1,0,0,7,velmi dobry,vybaveny,osobni
+bezrealitky,1012510,Prodej bytu 3+kk,6990000,84,3+kk,"Dómská, Litoměřice - Litoměřice, Ústecký kraj",50.5335272,14.1279734,0,0,0,1,velmi dobry,,osobni
+bezrealitky,1012531,Prodej bytu 2+1,4700000,64,2+1,"Soukenická, Liberec - Rochlice u Liberce, Liberecký kraj",50.7591514,15.0708454,1,0,0,4,dobry,castecne vybaveny,osobni
+bezrealitky,1010644,Prodej bytu 3+kk,14990000,90,3+kk,"Hrašeho, Praha - Čimice",50.1386228,14.425371,1,0,1,1,novostavba,castecne vybaveny,osobni
+bezrealitky,1004918,Prodej bytu 2+kk,9538000,46,2+kk,"Pod Drinopolem, Praha - Břevnov",50.0851334,14.3720231,0,0,0,1,velmi dobry,nevybaveny,osobni
+bezrealitky,1009812,Prodej bytu 1+kk,6990000,37,1+kk,"Olgy Havlové, Praha - Žižkov",50.0877645,14.4778401,1,0,0,5,novostavba,castecne vybaveny,osobni
+bezrealitky,653967,Prodej bytu 3+1,6420000,73,3+1,"Jateční, Kolín - Kolín, Středočeský kraj",50.01871,15.19989,1,1,1,2,velmi dobry,,osobni
+bezrealitky,1012502,Prodej bytu 3+kk,9700000,96,3+kk,"U Ježíška, Plzeň - Plzeň, Plzeňský kraj",49.7407937,13.384871,1,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,994449,Prodej bytu 1+kk,5350000,26,1+kk,"K Barrandovu, Praha - Hlubočepy",50.0267317,14.368063,1,0,0,3,novostavba,castecne vybaveny,osobni
+bezrealitky,1012493,Prodej bytu 1+kk,6000000,33,1+kk,"Sicherova, Praha - Kyje",50.1152878,14.5627532,1,0,0,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1012496,Prodej bytu 3+kk,9495000,63,3+kk,"Hartigova, Praha - Žižkov",50.0915676,14.4738791,0,0,0,1,velmi dobry,vybaveny,osobni
+bezrealitky,1001549,Prodej bytu 3+kk,6950000,121,3+kk,"Luční, Nové Město na Moravě - Nové Město na Moravě, Kraj Vysočina",49.5652575,16.0838313,0,0,1,1,velmi dobry,nevybaveny,osobni
+bezrealitky,1012503,Prodej bytu 3+1,5000000,70,3+1,"Slovenská, Chrudim - Chrudim, Pardubický kraj",49.9528233,15.8083349,0,0,1,1,dobry,vybaveny,druzstevni
+bezrealitky,918058,Prodej bytu 2+kk,7496900,46,2+kk,"Pec pod Sněžkou - Velká Úpa I, Královéhradecký kraj",50.6907101,15.7521752,0,0,1,1,velmi dobry,,osobni
+bezrealitky,999365,Prodej bytu 3+1,8460000,64,3+1,"Křenická, Praha - Strašnice",50.0657534,14.5117942,1,1,0,3,dobry,nevybaveny,osobni
+bezrealitky,846507,Prodej bytu 3+kk,16700000,104,3+kk,"Miloše Havla, Praha - Hlubočepy",50.0313128,14.3625769,1,0,1,8,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1011620,Prodej bytu 1+kk,4690000,34,1+kk,"třída Generála Píky, Brno - Černá Pole, Jihomoravský kraj",49.2193936,16.616276,1,0,1,6,velmi dobry,,osobni
+bezrealitky,954511,Prodej bytu 2+1,2690000,62,2+1,"Slavíčkova, Sokolov - Sokolov, Karlovarský kraj",50.1722196,12.6742767,1,0,0,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,984944,Prodej bytu 2+kk,6500000,40,2+kk,"Čestmírova, Praha - Nusle",50.0642565,14.4431866,0,0,1,1,velmi dobry,,druzstevni
+bezrealitky,1012413,Prodej bytu 3+1,3715700,60,3+1,"Lidická, Karlovy Vary - Drahovice, Karlovarský kraj",50.2325686,12.8853169,1,0,0,11,dobry,vybaveny,osobni
+bezrealitky,1005308,Prodej bytu 3+kk,10800000,76,3+kk,"Přecechtělova, Praha - Stodůlky",50.036626,14.3399995,1,0,1,7,po rekonstrukci,,osobni
+bezrealitky,995148,Prodej bytu 2+1,5300000,56,2+1,"Čestmírova, Praha - Nusle",50.0642565,14.4431866,0,0,1,,po rekonstrukci,nevybaveny,druzstevni
+bezrealitky,873965,Prodej bytu 2+kk,14990000,138,2+kk,"Slavíkova, Praha - Žižkov",50.0799141,14.4476306,1,0,0,1,po rekonstrukci,vybaveny,osobni
+bezrealitky,1006122,Prodej bytu 3+kk,12250000,80,3+kk,"Stochovská, Praha - Ruzyně",50.0836939,14.3132414,0,0,1,4,velmi dobry,,osobni
+bezrealitky,999824,Prodej bytu 5+kk,14500000,185,5+kk,"Plzeňská, Praha - Košíře",50.0704661,14.3791243,1,0,0,6,velmi dobry,nevybaveny,osobni
+bezrealitky,1012079,Prodej bytu 1+1,44900,38,1+1,", Bavorsko",49.00242,12.82014,0,0,0,0,undefined,,
+bezrealitky,1012086,Prodej bytu 2+1,249000,50,2+1,"Rottenburger Straße 31 E, , Bavorsko",48.57503,12.17462,1,1,1,2,po rekonstrukci,,
+bezrealitky,990553,Prodej bytu 2+kk,6780000,54,2+kk,"Zvoncovitá, Praha - Stodůlky",50.0448804,14.3354086,1,0,0,8,velmi dobry,castecne vybaveny,druzstevni
+bezrealitky,1001320,Prodej bytu 1+kk,5650000,27,1+kk,"Sokolovská, Praha - Karlín",50.0925008,14.4438167,0,0,0,2,velmi dobry,vybaveny,druzstevni
+bezrealitky,1012052,Prodej bytu 1+1,3699000,44,1+1,"Bezdrevská, České Budějovice - České Budějovice 2, Jihočeský kraj",48.9923824,14.4535926,1,0,1,7,in_reconstruction,vybaveny,druzstevni
+bezrealitky,1009811,Prodej bytu 3+1,6590000,64,3+1,"Janského, Olomouc - Povel, Olomoucký kraj",49.5776409,17.2428451,1,0,0,6,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1010207,Prodej bytu 1+1,2700000,42,1+1,"Gen. Hrušky, Ostrava - Mariánské Hory, Moravskoslezský kraj",49.8361869,18.2578155,0,0,0,14,dobry,castecne vybaveny,druzstevni
+bezrealitky,1012060,Prodej bytu 2+kk,8700000,57,2+kk,"Laudonova, Praha - Štěrboholy",50.0744839,14.5503039,1,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1003930,Prodej bytu 3+1,8650000,80,3+1,"Imrychova, Praha - Kamýk",50.014495,14.4294526,1,0,0,1,pred rekonstrukci,nevybaveny,osobni
+bezrealitky,1009153,Prodej bytu 3+1,4490000,80,3+1,"Mládeže, Ostrava - Hrabůvka, Moravskoslezský kraj",49.7943558,18.2577576,0,0,1,3,dobry,,druzstevni
+bezrealitky,1009144,Prodej bytu 1+kk,7980000,32,1+kk,"U Lihovaru, Praha - Smíchov",50.0533351,14.4098648,1,0,0,2,novostavba,castecne vybaveny,osobni
+bezrealitky,1012014,Prodej bytu 3+kk,17000000,79,3+kk,"Grafická, Praha - Smíchov",50.0731858,14.3959459,1,0,1,3,velmi dobry,,osobni
+bezrealitky,1001301,Prodej bytu 1+1,2518500,33,1+1,"Anglická, Mariánské Lázně - Úšovice, Karlovarský kraj",49.9677531,12.7063187,0,0,1,1,velmi dobry,vybaveny,osobni
+bezrealitky,1012028,Prodej bytu 3+kk,6180000,54,3+kk,"M. D. Rettigové, Hradec Králové - Hradec Králové, Královéhradecký kraj",50.2171236,15.8240388,0,0,0,1,po rekonstrukci,nevybaveny,osobni
+bezrealitky,1001300,Prodej bytu 3+kk,10000000,83,3+kk,"Davídkova, Praha - Libeň",50.1193704,14.4697772,0,0,1,1,dobry,,osobni
+bezrealitky,1001291,Prodej bytu 4+1,7990000,101,4+1,"Kaštanová, Rosice - Rosice u Brna, Jihomoravský kraj",49.1859977,16.3806685,1,0,1,1,dobry,castecne vybaveny,osobni
+bezrealitky,1008941,Prodej bytu 2+kk,7455500,81,2+kk,"Gruzínská, Plzeň - Plzeň, Plzeňský kraj",49.7325405,13.394023,0,0,1,3,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,1012000,Prodej bytu 3+1,6390000,78,3+1,"Brožíkova, Hradec Králové - Nový Hradec Králové, Královéhradecký kraj",50.190867,15.8465201,0,0,0,1,dobry,nevybaveny,osobni
+bezrealitky,1011995,Prodej bytu 2+kk,6800000,41,2+kk,"Mendelova, Praha - Háje",50.0323357,14.5329286,1,0,0,10,velmi dobry,castecne vybaveny,druzstevni
+bezrealitky,1011992,Prodej bytu 3+kk,12875000,70,3+kk,"Do Zahrádek Ⅰ, Praha - Třebonice",50.0566341,14.2918364,1,0,1,3,novostavba,vybaveny,osobni
+bezrealitky,1006558,Prodej bytu 2+1,8790000,56,2+1,"Královická, Praha - Strašnice",50.065065,14.5103611,0,0,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1011961,Prodej bytu 3+kk,12000000,93,3+kk,"Dub - Dub u Prachatic, Jihočeský kraj",49.1077509,14.0137489,0,0,1,1,po rekonstrukci,nevybaveny,osobni
+bezrealitky,1011994,Prodej bytu 3+1,11200000,80,3+1,"5. května, Praha - Nusle",50.0604096,14.4326302,1,0,0,1,velmi dobry,,osobni
+bezrealitky,1009786,Prodej bytu 2+kk,3702000,55,2+kk,"Arnošta Valenty, Praha - Černý Most",50.1013786,14.5704543,1,0,0,3,novostavba,nevybaveny,druzstevni
+bezrealitky,1011990,Prodej bytu 3+kk,7690000,70,3+kk,"Severní, Hradec Králové - Slezské Předměstí, Královéhradecký kraj",50.2210988,15.8486888,0,0,0,1,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,1011983,Prodej bytu 3+kk,10450000,82,3+kk,"U Lipové aleje, Praha - Dubeč",50.0581259,14.579355,0,0,1,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,978858,Prodej bytu 3+1,9650000,75,3+1,"Počernická, Praha - Malešice",50.0806775,14.4951475,1,0,1,1,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,1011659,Prodej bytu 1+1,3500000,35,1+1,"Budovatelská, Písek - Písek, Jihočeský kraj",49.3022837,14.1608474,0,0,0,8,po rekonstrukci,vybaveny,osobni
+bezrealitky,1001263,Prodej bytu 3+kk,13490000,80,3+kk,"Krupská, Praha - Strašnice",50.0686755,14.4963011,0,0,1,2,velmi dobry,,osobni
+bezrealitky,950064,Prodej bytu 2+kk,7790000,40,2+kk,"Bártlova, Praha - Horní Počernice",50.123192357795,14.635096327507,0,0,1,2,novostavba,vybaveny,osobni
+bezrealitky,995119,Prodej bytu 2+1,12739000,69,2+1,"Pernerova, Praha - Karlín",50.0894748,14.4455204,1,0,1,1,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,1011947,Prodej bytu 3+1,4900000,75,3+1,"Ratibořská, Opava - Kateřinky u Opavy, Moravskoslezský kraj",49.9414012,17.9123607,1,0,1,8,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1011952,Prodej bytu 1+kk,7100000,32,1+kk,"Granitova, Praha - Hloubětín",50.1085953,14.5273547,1,1,1,2,novostavba,vybaveny,osobni
+bezrealitky,1011942,Prodej bytu 3+kk,2900000,69,3+kk,"Sídl. Míru, Volary - Volary, Jihočeský kraj",48.9118401,13.8946114,1,0,0,4,after_partial_reconstruction,castecne vybaveny,druzstevni
+bezrealitky,1011945,Prodej bytu 1+kk,7150000,60,1+kk,"Vorařská, Praha - Modřany",50.0129855,14.3999726,1,0,1,2,velmi dobry,,osobni
+bezrealitky,1002266,Prodej bytu 3+kk,11500000,79,3+kk,"Pivovarnická, Praha - Libeň",50.1094516,14.4746725,0,0,0,1,po rekonstrukci,nevybaveny,osobni
+bezrealitky,997918,Prodej bytu 2+1,3485000,64,2+1,"1. máje, Vimperk - Vimperk, Jihočeský kraj",49.0665969,13.7815733,0,0,1,2,velmi dobry,,osobni
+bezrealitky,1005691,Prodej bytu 1+kk,4390740,28,1+kk,"Huťská, Kladno - Kladno, Středočeský kraj",50.1509532,14.1148909,1,0,0,1,novostavba,nevybaveny,osobni
+bezrealitky,1006169,Prodej bytu 3+kk,5787000,68,3+kk,"Michalovická, Brandýs nad Labem-Stará Boleslav - Brandýs nad Labem, Středočeský kraj",50.1869846,14.6595043,0,0,0,3,po rekonstrukci,,druzstevni
+bezrealitky,1000497,Prodej bytu 3+1,5975880,67,3+1,"Fügnerova, Hluboká nad Vltavou - Hluboká nad Vltavou, Jihočeský kraj",49.0596447,14.4290172,1,1,0,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1005715,Prodej bytu 1+kk,4139137,28,1+kk,"Huťská, Kladno - Kladno, Středočeský kraj",50.1509532,14.1148909,1,0,0,3,novostavba,nevybaveny,osobni
+bezrealitky,998313,Prodej bytu 4+kk,15460000,179,4+kk,"Pečárková, Praha - Pitkovice",50.0159125,14.5839525,0,1,1,3,velmi dobry,nevybaveny,osobni
+bezrealitky,1001893,Prodej bytu 1+1,7977000,40,1+1,"Kafkova, Praha - Dejvice",50.0989245,14.3920772,1,0,0,4,velmi dobry,,druzstevni
+bezrealitky,1005279,Prodej bytu 3+1,11250000,88,3+1,"Na Vyhlídce, Praha - Prosek",50.1178661,14.4872539,0,1,1,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1010164,Prodej bytu 3+1,4695000,71,3+1,"V Mišpulkách, Kutná Hora - Kutná Hora, Středočeský kraj",49.9493943,15.2602304,0,0,0,3,pred rekonstrukci,nevybaveny,osobni
+bezrealitky,980811,Prodej bytu 2+1,5500000,58,2+1,"Matoušova, Liberec - Liberec, Liberecký kraj",50.7647425,15.0493753,1,1,1,6,velmi dobry,nevybaveny,osobni
+bezrealitky,947463,Prodej bytu 3+1,13490000,96,3+1,"Vinohradská, Praha - Vinohrady",50.0775056,14.4579736,1,0,1,4,dobry,nevybaveny,druzstevni
+bezrealitky,971811,Prodej bytu 3+kk,6253800,74,3+kk,"Alešova, Plzeň - Plzeň, Plzeňský kraj",49.7330264,13.3713784,0,0,1,3,po rekonstrukci,nevybaveny,osobni
+bezrealitky,972967,Prodej bytu 1+1,6240000,37,1+1,"Jaromírova, Praha - Nusle",50.0648946,14.4261878,0,0,0,2,pred rekonstrukci,,osobni
+bezrealitky,978866,Prodej bytu 3+kk,6385000,69,3+kk,"Drásov - Drásov, Jihomoravský kraj",49.3318339,16.477985,0,0,1,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,948654,Prodej bytu 4+kk,27900000,122,4+kk,"Tomášská, Praha - Malá Strana",50.0890821,14.4049602,0,0,0,2,velmi dobry,nevybaveny,osobni
+bezrealitky,969596,Prodej bytu 3+kk,6500000,74,3+kk,"Jablonec nad Jizerou - Bratrouchov, Liberecký kraj",50.7007683,15.4678674,1,1,1,1,novostavba,,osobni
+bezrealitky,992716,Prodej bytu 3+kk,12990000,115,3+kk,"Pod Kotlaskou, Praha - Libeň",50.1055831,14.4780656,0,0,0,0,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,974324,Prodej bytu 2+kk,6580637,61,2+kk,"Huťská, Kladno - Kladno, Středočeský kraj",50.1509532,14.1148909,1,0,0,1,novostavba,nevybaveny,osobni
+bezrealitky,1011652,Prodej bytu 2+kk,5900000,35,2+kk,"Kapraďová, Praha - Záběhlice",50.0556449,14.508378,1,0,0,1,velmi dobry,nevybaveny,osobni
+bezrealitky,1005285,Prodej bytu 5+1,19800000,117,5+1,"Paťanka, Praha - Dejvice",50.1125392,14.390009,1,0,1,6,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1000970,Prodej bytu 3+kk,5850000,59,3+kk,"Palackého, Rakovník - Rakovník, Středočeský kraj",50.1051291,13.7259933,0,0,1,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,953436,Prodej bytu 2+kk,11900000,48,2+kk,"Orelská, Praha - Vršovice",50.0679462,14.4562718,1,0,0,3,po rekonstrukci,,osobni
+bezrealitky,1009809,Prodej bytu 2+kk,4490000,40,2+kk,"Vitry, Kladno - Kročehlavy, Středočeský kraj",50.133992,14.1296923,0,0,1,6,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1011640,Prodej bytu 4+1,8790000,82,4+1,"Bořetická, Brno - Židenice, Jihomoravský kraj",49.2028229,16.6611772,0,0,0,4,velmi dobry,nevybaveny,osobni
+bezrealitky,1011650,Prodej bytu 1+kk,5795000,26,1+kk,"Nademlejnská, Praha - Hloubětín",50.1031924,14.5291509,1,0,1,6,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1009777,Prodej bytu 1+1,2700000,47,1+1,"Karlovarská, Pernink - Pernink, Karlovarský kraj",50.3643012,12.783517,0,0,1,2,velmi dobry,,osobni
+bezrealitky,1011644,Prodej bytu 2+kk,6380000,33,2+kk,"Vosmíkových, Praha - Libeň",50.1152155,14.4712862,0,0,0,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1011643,Prodej bytu 2+kk,5546000,47,2+kk,"Oblá, Brno - Nový Lískovec, Jihomoravský kraj",49.17639365,16.554558057959,1,0,1,1,velmi dobry,vybaveny,druzstevni
+bezrealitky,1011617,Prodej bytu 3+kk,6750000,66,3+kk,"Sokolovská, Pardubice - Pardubice, Pardubický kraj",50.021922,15.7554729,0,0,0,1,po rekonstrukci,,osobni
+bezrealitky,1006213,Prodej bytu 3+kk,5200000,51,3+kk,"U Školky, Sedlčany - Sedlčany, Středočeský kraj",49.6607126,14.4180463,0,0,0,2,dobry,castecne vybaveny,osobni
+bezrealitky,1011595,Prodej bytu 3+1,6250000,115,3+1,"Pražská, Jablonec nad Nisou - Jablonec nad Nisou, Liberecký kraj",50.7185026,15.16325,0,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1011626,Prodej bytu 1+kk,7490000,22,1+kk,"Plzeňská, Praha - Smíchov",50.0721035,14.3973054,1,0,0,5,novostavba,vybaveny,osobni
+bezrealitky,1000948,Prodej bytu 2+kk,3890000,41,2+kk,"Palliardiho, Znojmo - Znojmo-město, Jihomoravský kraj",48.862652,16.0489321,0,0,1,2,novostavba,castecne vybaveny,osobni
+bezrealitky,982377,Prodej bytu 3+kk,12798000,108,3+kk,"K Haltýři, Praha - Troja",50.126157,14.432605966443,1,0,1,2,dobry,nevybaveny,osobni
+bezrealitky,1011600,Prodej bytu 3+1,3700000,60,3+1,"Sídliště T. G. Masaryka, Kardašova Řečice - Kardašova Řečice, Jihočeský kraj",49.1837846,14.8486226,1,0,1,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1007910,Prodej bytu 2+kk,5840000,52,2+kk,"Merklín - Pstruží u Merklína, Karlovarský kraj",50.3458672,12.8272108,0,0,1,1,velmi dobry,,osobni
+bezrealitky,1009716,Prodej bytu 5+kk,22188000,129,5+kk,"Kohoutových, Praha - Jinonice",50.0534795,14.3659307,1,0,1,1,velmi dobry,vybaveny,osobni
+bezrealitky,1011588,Prodej bytu 2+kk,7200000,50,2+kk,"Kladivova, Brno - Černá Pole, Jihomoravský kraj",49.2040769,16.6195834,0,0,0,1,velmi dobry,,osobni
+bezrealitky,997037,Prodej bytu 2+kk,7890000,46,2+kk,"Viklefova, Praha - Žižkov",50.0905269,14.4740159,1,0,0,1,velmi dobry,,osobni
+bezrealitky,1001278,Prodej bytu 2+1,5287400,83,2+1,"Mánesova, Opava - Opava-Předměstí, Moravskoslezský kraj",49.9394851,17.8909112,0,0,1,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,775602,Prodej bytu 2+kk,6190000,63,2+kk,"Jablonec nad Jizerou - Bratrouchov, Liberecký kraj",50.70136,15.4677,1,0,1,2,novostavba,,osobni
+bezrealitky,1011581,Prodej bytu 3+kk,9700000,67,3+kk,"Chabařovická, Praha - Kobylisy",50.1299817,14.4765961,1,0,1,10,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,1009733,Prodej bytu 3+kk,10490000,91,3+kk,"Běhounkova, Praha - Stodůlky",50.053969,14.3422039,1,1,0,12,velmi dobry,nevybaveny,osobni
+bezrealitky,1011586,Prodej bytu 3+1,7900000,69,3+1,"Rubensova, Praha - Strašnice",50.0682814,14.511752,1,0,1,8,velmi dobry,castecne vybaveny,druzstevni
+bezrealitky,996976,Prodej bytu 2+1,4880000,57,2+1,"Cihlářská, Liberec - Rochlice u Liberce, Liberecký kraj",50.7455656,15.0609439,1,1,1,3,po rekonstrukci,nevybaveny,osobni
+bezrealitky,999308,Prodej bytu 2+1,4242000,58,2+1,"Kamenný Přívoz - Kamenný Přívoz, Středočeský kraj",49.8629925,14.5033864,0,0,1,3,pred rekonstrukci,,osobni
+bezrealitky,1003168,Prodej bytu 4+kk,13990000,90,4+kk,"Drnovská, Praha - Ruzyně",50.0904019,14.3009151,0,1,1,2,novostavba,,druzstevni
+bezrealitky,1010107,Prodej bytu 3+kk,13480000,77,3+kk,"Čerpadlová, Praha - Vysočany",50.1015275,14.5054764,1,1,1,6,novostavba,castecne vybaveny,osobni
+bezrealitky,1004489,Prodej bytu 1+kk,5790000,38,1+kk,"Luční, Brno - Žabovřesky, Jihomoravský kraj",49.2160467,16.5744144,1,0,0,5,velmi dobry,,osobni
+bezrealitky,1010131,Prodej bytu 2+kk,9200000,58,2+kk,"V Háji, Praha - Holešovice",50.103295,14.4541489,0,0,1,4,dobry,,osobni
+bezrealitky,1001935,Prodej bytu 2+kk,6090000,43,2+kk,"Werichova, Praha - Hlubočepy",50.0319937,14.3717223,1,0,0,2,pred rekonstrukci,nevybaveny,druzstevni
+bezrealitky,998906,Prodej bytu 2+kk,8550000,82,2+kk,"Ecksteinova, Chýně - Chýně, Středočeský kraj",50.0562355,14.223450606957,0,0,1,1,velmi dobry,,osobni
+bezrealitky,954923,Prodej bytu 4+1,18970000,138,4+1,"Vršovické náměstí, Praha - Vršovice",50.0687931,14.4526417,1,1,0,5,velmi dobry,nevybaveny,osobni
+bezrealitky,970518,Prodej bytu 2+1,2149000,51,2+1,"Sídl. Míru, Volary - Volary, Jihočeský kraj",48.9120261,13.8973464,1,0,0,1,po rekonstrukci,castecne vybaveny,druzstevni
+bezrealitky,981901,Prodej bytu 3+kk,4995000,70,3+kk,"Uhlířské Janovice - Uhlířské Janovice, Středočeský kraj",49.8801886,15.0648144,0,0,1,1,novostavba,,osobni
+bezrealitky,1000576,Prodej bytu 3+kk,6690000,86,3+kk,"Kaštanová, Milovice - Milovice nad Labem, Středočeský kraj",50.2269332,14.8749255,0,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,991440,Prodej bytu 1+kk,7700000,41,1+kk,"Hartigova, Praha - Žižkov",50.0878956,14.4574445,1,0,0,1,novostavba,nevybaveny,osobni
+bezrealitky,1000569,Prodej bytu 2+kk,8990000,44,2+kk,"Maroldova, Praha - Nusle",50.0611415,14.4515814,1,0,1,3,novostavba,nevybaveny,osobni
+bezrealitky,1011434,Prodej bytu 2+1,6990000,47,2+1,"Mirošovická, Praha - Strašnice",50.0731156,14.5102764,0,0,0,2,dobry,castecne vybaveny,druzstevni
+bezrealitky,1011424,Prodej bytu 4+1,16940000,134,4+1,"Renoirova, Praha - Hlubočepy",50.0378504,14.3838812,1,0,1,3,velmi dobry,,osobni
+bezrealitky,992442,Prodej bytu 4+1,5000000,72,4+1,"Žilinská, Ostrava - Poruba-sever, Moravskoslezský kraj",49.83721285,18.18148575,0,0,0,3,velmi dobry,castecne vybaveny,druzstevni
+bezrealitky,998289,Prodej bytu 3+kk,16490000,96,3+kk,"Švédská, Praha - Smíchov",50.0746757,14.3948993,1,0,1,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1007238,Prodej bytu 2+kk,7290000,45,2+kk,"5. května, Praha - Nusle",50.060899,14.4311863,1,0,0,1,velmi dobry,nevybaveny,osobni
+bezrealitky,1011417,Prodej bytu 3+kk,4499000,55,3+kk,"Rýchorské sídliště, Svoboda nad Úpou - Maršov I, Královéhradecký kraj",50.6345026,15.8109613,0,0,1,2,velmi dobry,nevybaveny,osobni
+bezrealitky,998288,Prodej bytu 3+kk,14900000,80,3+kk,"Růžová, Praha - Nové Město",50.0833408,14.4304397,1,0,0,4,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,1000538,Prodej bytu 3+kk,3330000,78,3+kk,"Nová Tesla, Pardubice - Pardubičky, Pardubický kraj",50.0301087,15.7917229,1,0,1,2,novostavba,castecne vybaveny,druzstevni
+bezrealitky,1011407,Prodej bytu 2+kk,11100000,77,2+kk,"Kolbenova, Praha - Vysočany",50.1113213,14.5106858,0,0,0,3,novostavba,nevybaveny,osobni
+bezrealitky,1011412,Prodej bytu 3+kk,6800000,76,3+kk,"U Větrolamu, Hustopeče - Hustopeče u Brna, Jihomoravský kraj",48.941866,16.7236745,0,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,995491,Prodej bytu 3+kk,8680000,51,3+kk,"Krumlovská, Praha - Michle",50.0433172,14.4582629,1,1,0,7,velmi dobry,vybaveny,osobni
+bezrealitky,1011418,Prodej bytu 1+kk,4590000,33,1+kk,"Krymská, Brno - Starý Lískovec, Jihomoravský kraj",49.16717235,16.55294129227,1,0,1,2,dobry,castecne vybaveny,osobni
+bezrealitky,1011409,Prodej bytu 3+kk,14699000,80,3+kk,"Kolbenova, Praha - Vysočany",50.1113213,14.5106858,1,0,1,3,novostavba,vybaveny,osobni
+bezrealitky,1007885,Prodej bytu 2+1,10490000,68,2+1,"Lvovská, Praha - Vršovice",50.0694672,14.474834,1,0,0,7,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1011396,Prodej bytu 3+1,5500000,67,3+1,"Nám. V. Čtvrtka, Jičín - Jičín, Královéhradecký kraj",50.4376954,15.363698,0,0,0,2,dobry,nevybaveny,osobni
+bezrealitky,977485,Prodej bytu 2+kk,5490000,55,2+kk,"Lipno nad Vltavou - Lipno nad Vltavou, Jihočeský kraj",48.6380152,14.2292801,0,0,1,1,velmi dobry,,osobni
+bezrealitky,831884,Prodej bytu 4+kk,11366478,106,4+kk,"Mořina - Mořina, Středočeský kraj",49.9505407,14.2203464,0,0,1,1,construction,nevybaveny,osobni
+bezrealitky,1001318,Prodej bytu 2+kk,8550000,54,2+kk,"Šatrova, Praha - Libuš",50.0127289,14.4453504,0,0,1,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1000502,Prodej bytu 3+kk,6553500,73,3+kk,"Štolmířská, Český Brod - Český Brod, Středočeský kraj",50.0741797,14.8488263,0,0,1,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1007964,Prodej bytu 5+1,24300000,190,5+1,"U Dvojdomů, Praha - Hostivař",50.0496522,14.5420174,0,0,1,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1011380,Prodej bytu 3+kk,6499000,92,3+kk,"Rýchorské sídliště, Svoboda nad Úpou - Maršov I, Královéhradecký kraj",50.6345026,15.8109613,0,0,1,3,velmi dobry,vybaveny,osobni
+bezrealitky,1010991,Prodej bytu 2+kk,4200000,13,2+kk,"Arbesova, Kladno - Kročehlavy, Středočeský kraj",50.1418508,14.1124565,1,0,0,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1001314,Prodej bytu 1+kk,5490000,30,1+kk,"Šatrova, Praha - Libuš",50.0127289,14.4453504,0,0,1,4,velmi dobry,castecne vybaveny,osobni
+bezrealitky,982201,Prodej bytu 4+kk,9399000,71,4+kk,"Třebenická, Praha - Kobylisy",50.1288672,14.4783022,1,0,0,1,po rekonstrukci,nevybaveny,osobni
+bezrealitky,1009409,Prodej bytu 3+kk,9650000,68,3+kk,"Na Zámyšli, Praha - Košíře",50.0693525,14.3742584,1,0,0,5,dobry,castecne vybaveny,osobni
+bezrealitky,1006870,Prodej bytu 2+kk,8399000,49,2+kk,"Pšeničná, Hostivice - Litovice, Středočeský kraj",50.0598155,14.2449559,1,0,1,5,novostavba,castecne vybaveny,osobni
+bezrealitky,1005341,Prodej bytu 3+1,9999000,81,3+1,"Jordana Jovkova, Praha - Modřany",50.0067296,14.420471,1,1,0,6,velmi dobry,vybaveny,osobni
+bezrealitky,1007888,Prodej bytu 3+1,8960000,80,3+1,"Nedašovská, Praha - Zličín",50.0593558,14.2907475,0,1,1,4,dobry,nevybaveny,osobni
+bezrealitky,1008292,Prodej bytu 2+kk,5590000,55,2+kk,"Janov nad Nisou - Janov nad Nisou, Liberecký kraj",50.7720394,15.1691336,0,0,1,1,po rekonstrukci,,osobni
+bezrealitky,999736,Prodej bytu 2+kk,8390000,50,2+kk,"Českomoravská, Praha - Libeň",50.1028137,14.4968113,1,1,0,7,velmi dobry,,osobni
+bezrealitky,1005280,Prodej bytu 3+1,4160000,70,3+1,"Gen. Svobody, Uničov - Uničov, Olomoucký kraj",49.7754267,17.1130725,0,0,1,5,po rekonstrukci,,osobni
+bezrealitky,1010089,Prodej bytu 2+1,11990000,63,2+1,"Litevská, Praha - Vršovice",50.0725378,14.4765569,1,0,0,6,velmi dobry,vybaveny,osobni
+bezrealitky,1005785,Prodej bytu 4+kk,16999000,143,4+kk,"Evropská, Praha - Dejvice",50.1001082,14.3801223,0,0,0,5,novostavba,nevybaveny,osobni
+bezrealitky,1002730,Prodej bytu 2+kk,9490000,55,2+kk,"Jateční, Praha - Holešovice",50.100861,14.4456865,1,1,0,5,dobry,,osobni
+bezrealitky,1007548,Prodej bytu 2+kk,9490000,49,2+kk,"Strakošová, Praha - Pitkovice",50.0153561,14.5861747,0,1,1,4,velmi dobry,,osobni
+bezrealitky,1008308,Prodej bytu 1+kk,5750000,36,1+kk,"Kosatcová, Říčany - Říčany-Radošovice, Středočeský kraj",50.0060656,14.6636383,0,1,1,2,velmi dobry,,osobni
+bezrealitky,1004539,Prodej bytu 2+1,8500000,60,2+1,"Kapraďová, Praha - Záběhlice",50.0555917,14.5078867,0,0,0,7,po rekonstrukci,,osobni
+bezrealitky,950315,Prodej bytu 3+kk,14990000,97,3+kk,"Na Hroudě, Praha - Strašnice",50.0700914,14.4870065,1,1,0,3,velmi dobry,,osobni
+bezrealitky,971823,Prodej bytu 2+kk,7338800,59,2+kk,"K Dálnici, Praha - Pitkovice",50.0165178,14.5833307,0,0,1,5,novostavba,,osobni
+bezrealitky,971080,Prodej bytu 2+kk,7125000,49,2+kk,"Záběhlická, Praha - Záběhlice",50.0557483,14.4810386,0,0,1,2,velmi dobry,,osobni
+bezrealitky,986735,Prodej bytu 3+1,2958360,67,3+1,"Sídliště, Cvikov - Cvikov, Liberecký kraj",50.7808776,14.6258975,1,1,1,8,dobry,nevybaveny,osobni
+bezrealitky,992393,Prodej bytu 2+kk,8290400,45,2+kk,"Dittrichova, Praha - Nové Město",50.0738221,14.4161589,0,0,0,,velmi dobry,nevybaveny,osobni
+bezrealitky,985852,Prodej bytu 2+kk,9600000,75,2+kk,"Šternovská, Praha - Chodov",50.0407295,14.500897,0,1,1,5,velmi dobry,castecne vybaveny,druzstevni
+bezrealitky,992714,Prodej bytu 2+kk,7990000,55,2+kk,"Veletržní, Praha - Holešovice",50.1007796,14.4260772,0,0,0,6,po rekonstrukci,,druzstevni
+bezrealitky,989079,Prodej bytu 1+1,5350000,30,1+1,"Matúškova, Praha - Háje",50.0371465,14.5174288,0,0,0,4,velmi dobry,vybaveny,druzstevni
+bezrealitky,1011141,Prodej bytu 3+1,324800,89,3+1,", Bavorsko",48.99338,12.1964,0,1,1,2,po rekonstrukci,,
+bezrealitky,1011104,Prodej bytu 2+1,179000,58,2+1,Passau Passau Bayern 94036,48.56484,13.3723,1,1,1,3,po rekonstrukci,,
+bezrealitky,1011073,Prodej bytu 1+kk,6950000,38,1+kk,"Vosmíkových, Praha - Libeň",50.1157212,14.4700213,0,0,1,5,velmi dobry,vybaveny,osobni
+bezrealitky,1008645,Prodej bytu 1+1,3640000,35,1+1,"Horky nad Jizerou - Horky nad Jizerou, Středočeský kraj",50.3279888,14.8535263,0,0,1,1,po rekonstrukci,nevybaveny,osobni
+bezrealitky,1011094,Prodej bytu 2+1,5649000,56,2+1,"V Prokopě, Čelákovice - Čelákovice, Středočeský kraj",50.1631438,14.7345813,0,0,1,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,673808,Prodej bytu 1+kk,2990000,26,1+kk,"Strakonická, Praha - Smíchov",50.05684,14.41101,0,1,1,1,velmi dobry,,osobni
+bezrealitky,1009142,Prodej bytu 3+1,5290000,78,3+1,"Dukelská, Zlín - Zlín, Zlínský kraj",49.2266788,17.6985438,1,0,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1011061,Prodej bytu 2+kk,10490000,56,2+kk,"Přibyslavská, Praha - Žižkov",50.0841414,14.4478149,0,0,0,2,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,854891,Prodej bytu 4+kk,5990000,83,4+kk,"Lidická, Kyjov - Kyjov, Jihomoravský kraj",49.0068759,17.119736516837,0,0,1,4,velmi dobry,,osobni
+bezrealitky,1004191,Prodej bytu 2+1,3975000,53,2+1,"Smetanova, Přeštice - Přeštice, Plzeňský kraj",49.5776984,13.3239086,0,0,0,3,after_partial_reconstruction,nevybaveny,osobni
+bezrealitky,1011044,Prodej bytu 3+1,6490000,71,3+1,"Sazená - Sazená, Středočeský kraj",50.3094713,14.2848125,0,0,1,1,velmi dobry,,druzstevni
+bezrealitky,1011017,Prodej bytu 2+kk,8975000,56,2+kk,"Kabešova, Praha - Vysočany",50.1036064,14.5081927,1,0,0,5,novostavba,nevybaveny,osobni
+bezrealitky,1000172,Prodej bytu 2+kk,4550000,43,2+kk,"Pazderkova, Liberec - Rochlice u Liberce, Liberecký kraj",50.7516957,15.069266,1,0,0,4,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1011036,Prodej bytu 2+kk,5190000,72,2+kk,"Za Školou, Velký Újezd - Velký Újezd, Olomoucký kraj",49.5767901,17.4782937,0,0,1,3,velmi dobry,,osobni
+bezrealitky,994862,Prodej bytu 1+1,5890000,43,1+1,"Hartigova, Praha - Žižkov",50.0897654,14.4657851,0,0,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,944753,Prodej bytu 1+1,5690000,44,1+1,"5. května, Praha - Nusle",50.0585805,14.4350366,1,0,1,1,dobry,castecne vybaveny,osobni
+bezrealitky,1011028,Prodej bytu 2+kk,5842000,48,2+kk,"V Bytovkách, Praha - Uhříněves",50.0372469,14.5942154,0,0,0,2,velmi dobry,,osobni
+bezrealitky,1011034,Prodej bytu 3+1,18990000,108,3+1,"Podskalská, Praha - Nové Město",50.071161,14.4153725,0,0,0,2,po rekonstrukci,,osobni
+bezrealitky,1010994,Prodej bytu 2+kk,6690000,45,2+kk,"Amforová, Praha - Stodůlky",50.0434369,14.3272473,0,0,1,6,dobry,nevybaveny,osobni
+bezrealitky,1000513,Prodej bytu 3+1,9990000,86,3+1,"Janského, Praha - Stodůlky",50.0395285,14.3414701,1,0,0,1,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,835420,Prodej bytu 3+kk,19490000,86,3+kk,"Dělnická, Praha - Holešovice",50.1026789,14.4479417,1,0,0,1,novostavba,vybaveny,osobni
+bezrealitky,1000132,Prodej bytu 1+kk,5500000,25,1+kk,"V Domově, Praha - Žižkov",50.0929338,14.4817701,0,0,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,988504,Prodej bytu 3+kk,8000000,82,3+kk,"Šternberská, Divišov - Divišov u Benešova, Středočeský kraj",49.790795,14.87955,0,0,1,1,novostavba,vybaveny,osobni
+bezrealitky,1006121,Prodej bytu 3+kk,18490000,112,3+kk,"Kurta Konráda, Praha - Libeň",50.1048475,14.4881547,1,1,1,6,novostavba,castecne vybaveny,osobni
+bezrealitky,1010116,Prodej bytu 3+1,4990000,55,3+1,"Havlíčkova, Valašské Meziříčí - Valašské Meziříčí-město, Zlínský kraj",49.4676663,17.9685525,0,0,0,2,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,1007903,Prodej bytu 3+kk,12750000,87,3+kk,"Sazovická, Praha - Zličín",50.0563884,14.282155,1,0,1,1,velmi dobry,nevybaveny,osobni
+bezrealitky,1010972,Prodej bytu 2+1,6490000,85,2+1,"Starodružiníků, Olomouc - Olomouc-město, Olomoucký kraj",49.5958586,17.2712017,0,1,0,4,dobry,nevybaveny,osobni
+bezrealitky,1009730,Prodej bytu 2+kk,7254000,45,2+kk,"Jeseniova, Praha - Žižkov",50.0894096,14.473901,1,0,0,4,dobry,nevybaveny,osobni
+bezrealitky,1010970,Prodej bytu ,110000,55,,"M. Rázusa, Prievidza - Prievidza, Trenčiansky kraj",48.7850739,18.619692,1,0,0,1,velmi dobry,vybaveny,osobni
+bezrealitky,1002307,Prodej bytu 4+1,16990000,115,4+1,"U Smaltovny, Praha - Holešovice",50.1044724,14.4354051,1,1,0,2,dobry,nevybaveny,osobni
+bezrealitky,1002322,Prodej bytu 2+kk,4190000,55,2+kk,"Zajcevova, Ostrava - Zábřeh nad Odrou, Moravskoslezský kraj",49.7922747,18.23327,0,1,0,3,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,1005759,Prodej bytu 3+kk,7471961,75,3+kk,"Huťská, Kladno - Kladno, Středočeský kraj",50.1509532,14.1148909,1,1,0,4,novostavba,nevybaveny,osobni
+bezrealitky,1004889,Prodej bytu 2+kk,11490000,114,2+kk,"Slavojova, Praha - Nusle",50.0639351,14.4248842,0,0,0,2,po rekonstrukci,nevybaveny,osobni
+bezrealitky,996994,Prodej bytu 3+kk,21635000,83,3+kk,"Břevnovská, Praha - Břevnov",50.0843117,14.3640928,1,1,1,2,velmi dobry,,osobni
+bezrealitky,1005668,Prodej bytu 3+1,9490000,76,3+1,"Mazurská, Praha - Troja",50.1276901,14.4139898,1,1,0,8,dobry,,osobni
+bezrealitky,988489,Prodej bytu 2+kk,9590000,50,2+kk,"Českomoravská, Praha - Libeň",50.1028137,14.4968113,1,1,1,7,velmi dobry,,osobni
+bezrealitky,990838,Prodej bytu 3+kk,8350000,88,3+kk,"gen. Píky, Olomouc - Neředín, Olomoucký kraj",49.5991172,17.22609,1,1,1,4,velmi dobry,,osobni
+bezrealitky,971116,Prodej bytu 4+kk,18878000,114,4+kk,"U Hotelu, Praha - Suchdol",50.1354403,14.3810278,1,1,1,3,novostavba,nevybaveny,osobni
+bezrealitky,1010921,Prodej bytu 2+1,192000,45,2+1,Regensburg Steinweg-Pfaffenstein Bayern 93059,49.03353,12.11494,0,0,1,2,dobry,,
+bezrealitky,999802,Prodej bytu 1+1,7500000,46,1+1,"Zárubova, Praha - Kamýk",50.0151362,14.4350367,1,0,1,1,velmi dobry,castecne vybaveny,druzstevni
+bezrealitky,1010659,Prodej bytu 2+kk,3600000,56,2+kk,"Dukelských hrdinů, Rakovník - Rakovník, Středočeský kraj",50.1081165,13.7127203,0,0,1,1,dobry,vybaveny,osobni
+bezrealitky,1010934,Prodej bytu 3+1,80000,83,3+1,Chemnitz Altchemnitz Sachsen 09120,50.80367,12.9107,0,1,1,2,po rekonstrukci,,
+bezrealitky,1010723,Prodej bytu 4+1,334000,93,4+1,", Sasko",50.99342,13.71727,0,1,1,0,undefined,,
+bezrealitky,992712,Prodej bytu 2+kk,8702000,75,2+kk,"Mileny Hážové, Mladá Boleslav - Mladá Boleslav, Středočeský kraj",50.4051778,14.9062803,0,0,1,2,novostavba,,osobni
+bezrealitky,967142,Prodej bytu 3+kk,11648000,78,3+kk,"Na Míčánkách, Praha - Vršovice",50.0713284,14.4638722,1,0,0,6,dobry,,osobni
+bezrealitky,1010670,Prodej bytu 3+1,174000,67,3+1,Dresden Cotta Sachsen 01169,51.03859,13.66129,0,1,0,2,po rekonstrukci,,
+bezrealitky,993111,Prodej bytu 2+kk,8873000,67,2+kk,"Jeseniova, Praha - Žižkov",50.0886182,14.4693212,1,0,0,7,dobry,nevybaveny,osobni
+bezrealitky,1010615,Prodej bytu 2+1,7150000,58,2+1,"Purkyňova, Brno - Královo Pole, Jihomoravský kraj",49.2298158,16.5799536,0,0,0,3,velmi dobry,,osobni
+bezrealitky,1010640,Prodej bytu 3+1,6000000,70,3+1,"Valachův Žleb, Zlín - Zlín, Zlínský kraj",49.2435363,17.6704463,1,0,1,1,velmi dobry,vybaveny,osobni
+bezrealitky,1010593,Prodej bytu 2+kk,6990000,43,2+kk,"Frýdlantská, Praha - Kobylisy",50.1318309,14.4773611,1,0,0,3,dobry,castecne vybaveny,osobni
+bezrealitky,1009729,Prodej bytu 2+kk,8390000,47,2+kk,"Kloboučnická, Praha - Nusle",50.0613151,14.4497492,1,0,0,6,velmi dobry,vybaveny,osobni
+bezrealitky,1010624,Prodej bytu 2+kk,9990000,88,2+kk,"Zimova, Praha - Kamýk",50.0065275,14.4543265,1,0,1,1,novostavba,,osobni
+bezrealitky,981912,Prodej bytu 2+kk,11490000,100,2+kk,"Československého exilu, Praha - Modřany",50.0162255,14.4050676,1,0,0,7,novostavba,nevybaveny,osobni
+bezrealitky,1010598,Prodej bytu 3+kk,12200000,118,3+kk,"Geologická, Praha - Hlubočepy",50.0349107,14.3865128,1,0,0,2,novostavba,castecne vybaveny,osobni
+bezrealitky,1010573,Prodej bytu 2+kk,11490000,66,2+kk,"Pod Stolovou horou, Praha - Jinonice",50.0561732,14.34803,1,1,1,3,novostavba,,osobni
+bezrealitky,952382,Prodej bytu 2+1,3500000,45,2+1,"Habrová, Jeseník - Bukovice u Jeseníka, Olomoucký kraj",50.22310585,17.208806009538,1,0,0,7,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1010137,Prodej bytu 1+kk,7614999,24,1+kk,"Sokolská, Praha - Nové Město",50.0701318,14.4296796,1,0,0,3,novostavba,vybaveny,osobni
+bezrealitky,1010473,Prodej bytu 3+1,414900,84,3+1,"Eibenstraße 15, , Bavorsko",48.62388,12.3491,1,1,1,0,novostavba,,
+bezrealitky,1008315,Prodej bytu 2+1,4400000,60,2+1,"Vaňurova, Liberec - Liberec, Liberecký kraj",50.7647333,15.0476175,0,0,1,4,pred rekonstrukci,nevybaveny,osobni
+bezrealitky,1010192,Prodej bytu 1+kk,5500000,29,1+kk,"Nad Opatovem, Praha - Chodov",50.0264689,14.5105494,1,0,0,1,velmi dobry,nevybaveny,osobni
+bezrealitky,1010408,Prodej bytu 2+1,262900,53,2+1,"Eibenstrasse 15, , Bavorsko",48.62388,12.3491,1,1,1,0,novostavba,,
+bezrealitky,999565,Prodej bytu 1+1,6490000,55,1+1,"Katovická, Praha - Bohnice",50.1315759,14.4258976,1,0,0,4,after_partial_reconstruction,vybaveny,druzstevni
+bezrealitky,977093,Prodej bytu 1+kk,5200000,26,1+kk,"Hornoměcholupská, Praha - Horní Měcholupy",50.0435405,14.5676641,1,0,1,2,novostavba,castecne vybaveny,osobni
+bezrealitky,692079,Prodej bytu 4+kk,10999000,68,4+kk,"Hurbanova, Praha - Krč",50.02494,14.45238,1,1,0,9,novostavba,nevybaveny,druzstevni
+bezrealitky,1010401,Prodej bytu 5+1,597900,120,5+1,"Eibenstrasse 13, , Bavorsko",48.62395,12.34935,0,0,1,2,novostavba,,
+bezrealitky,999253,Prodej bytu 2+kk,7516900,47,2+kk,"Svornosti, Praha - Smíchov",50.0714824,14.4087881,1,0,0,4,velmi dobry,vybaveny,osobni
+bezrealitky,1008632,Prodej bytu 2+1,5100000,63,2+1,"Vrchlického, Kyjov - Kyjov, Jihomoravský kraj",49.00628955,17.125204834709,0,0,1,2,velmi dobry,vybaveny,osobni
+bezrealitky,1009830,Prodej bytu 4+1,530000,108,4+1,Dresden Blasewitz Sachsen 01309,51.04305,13.79341,1,1,1,0,velmi dobry,,
+bezrealitky,1010160,Prodej bytu 1+kk,4800000,23,1+kk,"Vokovická, Praha - Vokovice",50.09681285,14.347595468571,1,0,0,7,velmi dobry,castecne vybaveny,osobni
+bezrealitky,999251,Prodej bytu 3+kk,10000000,78,3+kk,"Bellušova, Praha - Stodůlky",50.0411714,14.3222204,1,0,0,7,velmi dobry,vybaveny,osobni
+bezrealitky,1010087,Prodej bytu 2+kk,4770000,53,2+kk,"Blahoslavova, Olomouc - Olomouc-město, Olomoucký kraj",49.595052,17.2672801,0,0,1,1,velmi dobry,,osobni
+bezrealitky,999218,Prodej bytu 2+kk,7490000,51,2+kk,"Okružní, Vestec - Vestec u Prahy, Středočeský kraj",49.9795213,14.505635,0,0,1,1,velmi dobry,,osobni
+bezrealitky,1004946,Prodej bytu 2+1,7600000,66,2+1,"Štolcova, Brno - Černovice, Jihomoravský kraj",49.1862096,16.6364838,0,0,1,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,998992,Prodej bytu 3+kk,12790000,70,3+kk,"Rižská, Praha - Hostivař",50.0440929,14.5139276,1,0,1,1,novostavba,,osobni
+bezrealitky,1006591,Prodej bytu 1+kk,4897900,37,1+kk,"Roztocká, Úholičky - Úholičky, Středočeský kraj",50.1579041,14.3355285,1,0,1,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1009808,Prodej bytu 1+kk,6900000,32,1+kk,"M. J. Lermontova, Praha - Bubeneč",50.1104129,14.3956917,0,0,0,4,velmi dobry,castecne vybaveny,druzstevni
+bezrealitky,1009799,Prodej bytu 1+kk,4290000,32,1+kk,"Bzenecká, Brno - Židenice, Jihomoravský kraj",49.2075793,16.6608395,1,0,1,1,dobry,castecne vybaveny,druzstevni
+bezrealitky,1009794,Prodej bytu 4+1,1999999,81,4+1,"5. května, Plesná - Plesná, Karlovarský kraj",50.2192727,12.3479495,0,0,1,1,dobry,nevybaveny,osobni
+bezrealitky,1009783,Prodej bytu 2+kk,6900000,45,2+kk,"Merklín - Pstruží u Merklína, Karlovarský kraj",50.3460893,12.8249487,0,0,1,1,velmi dobry,vybaveny,osobni
+bezrealitky,1009793,Prodej bytu 3+1,5500000,75,3+1,"Zádušní, Mělník - Mělník, Středočeský kraj",50.3548072,14.4717123,0,0,1,1,dobry,castecne vybaveny,osobni
+bezrealitky,998941,Prodej bytu 3+kk,15100000,80,3+kk,"Odborů, Praha - Nové Město",50.0776617,14.4187439,1,0,0,,velmi dobry,castecne vybaveny,osobni
+bezrealitky,997448,Prodej bytu 1+kk,5850000,24,1+kk,"Evropská, Praha - Vokovice",50.0976536,14.3558008,1,0,0,13,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,998956,Prodej bytu 2+kk,7800000,40,2+kk,"Jičínská, Praha - Žižkov",50.0804403,14.45976,0,0,0,1,velmi dobry,vybaveny,osobni
+bezrealitky,1009776,Prodej bytu 2+1,10490000,85,2+1,"Hlinky, Brno - Staré Brno, Jihomoravský kraj",49.1900865,16.590197,0,0,0,4,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1004462,Prodej bytu 2+1,7350000,46,2+1,"V křovinách, Praha - Braník",50.0424971,14.4250804,1,0,1,4,velmi dobry,castecne vybaveny,druzstevni
+bezrealitky,1004515,Prodej bytu 2+kk,6149000,42,2+kk,"Bendlova, Praha - Miškovice",50.15633085,14.54403134393,0,0,1,4,velmi dobry,,druzstevni
+bezrealitky,1009772,Prodej bytu 1+1,1800000,36,1+1,"Chomutovská, Kadaň - Kadaň, Ústecký kraj",50.3925671,13.2736379,0,0,0,5,velmi dobry,vybaveny,osobni
+bezrealitky,899444,Prodej bytu 2+kk,4990000,52,2+kk,"Nová, Kouřim - Kouřim, Středočeský kraj",50.0035082,14.9683466,0,0,1,2,construction,nevybaveny,osobni
+bezrealitky,881936,Prodej bytu 4+kk,7690000,87,4+kk,"Nová, Kouřim - Kouřim, Středočeský kraj",50.00312255,14.96860935317,0,0,1,1,novostavba,nevybaveny,osobni
+bezrealitky,1008293,Prodej bytu 1+kk,4640000,34,1+kk,"Svatojánská, Hradec Králové - Třebeš, Královéhradecký kraj",50.1824619,15.8283453,0,0,1,4,novostavba,vybaveny,osobni
+bezrealitky,872182,Prodej bytu 3+kk,6490000,70,3+kk,"Nová, Kouřim - Kouřim, Středočeský kraj",50.00312255,14.96860935317,0,0,1,1,construction,nevybaveny,osobni
+bezrealitky,1008255,Prodej bytu 2+kk,8990000,69,2+kk,"K Beranovu, Praha - Dolní Chabry",50.1401598,14.4483663,0,0,0,3,novostavba,castecne vybaveny,osobni
+bezrealitky,1008258,Prodej bytu 1+kk,5500000,45,1+kk,"Ve Stromkách, Vestec - Vestec u Prahy, Středočeský kraj",49.9794088,14.5036537,0,0,1,1,novostavba,castecne vybaveny,osobni
+bezrealitky,1009756,Prodej bytu 2+kk,6699990,49,2+kk,"Makovského, Praha - Řepy",50.0632765,14.3107686,1,0,1,12,novostavba,castecne vybaveny,osobni
+bezrealitky,1004895,Prodej bytu 4+1,10800000,94,4+1,"Kovářova, Praha - Stodůlky",50.0485656,14.3156683,0,0,0,4,velmi dobry,nevybaveny,osobni
+bezrealitky,1006151,Prodej bytu 2+kk,3220000,47,2+kk,"Arnošta Valenty, Praha - Černý Most",50.1013354,14.5704583,1,0,0,6,novostavba,vybaveny,druzstevni
+bezrealitky,1009375,Prodej bytu 1+kk,6800000,37,1+kk,"Na Výrovně, Praha - Stodůlky",50.0396832,14.3176826,1,0,1,1,velmi dobry,,osobni
+bezrealitky,1009539,Prodej bytu 3+1,93000,76,3+1,"Roßbacher Str. 11, , Sasko",50.2835,12.23058,0,1,0,0,undefined,,
+bezrealitky,1007976,Prodej bytu 2+1,12950000,106,2+1,"Novákových, Praha - Libeň",50.1034771,14.4758735,0,0,0,6,velmi dobry,castecne vybaveny,osobni
+bezrealitky,976114,Prodej bytu 3+kk,18200000,116,3+kk,"Ke Kapslovně, Praha - Žižkov",50.0858941,14.4688444,1,0,1,2,velmi dobry,vybaveny,osobni
+bezrealitky,1004148,Prodej bytu 2+kk,8700000,56,2+kk,"U Družstva Život, Praha - Nusle",50.0560568,14.4464936,0,0,1,2,after_partial_reconstruction,castecne vybaveny,osobni
+bezrealitky,998689,Prodej bytu 1+kk,3590000,40,1+kk,"Kosmonautů, Mělník - Mělník, Středočeský kraj",50.3511911,14.4846712,0,0,0,4,velmi dobry,castecne vybaveny,druzstevni
+bezrealitky,1009366,Prodej bytu 5+kk,16840000,123,5+kk,"Boleslavova, Praha - Nusle",50.0642584,14.4397178,0,0,0,4,dobry,castecne vybaveny,osobni
+bezrealitky,1009359,Prodej bytu 3+1,5190000,75,3+1,"Konečná, Karlovy Vary - Rybáře, Karlovarský kraj",50.24009745,12.8517577268,1,0,1,1,velmi dobry,,osobni
+bezrealitky,1007599,Prodej bytu 2+1,4250000,51,2+1,"Gen. Sochora, Ostrava - Poruba-sever, Moravskoslezský kraj",49.8338779,18.185307505603,0,0,0,3,velmi dobry,,osobni
+bezrealitky,961480,Prodej bytu 2+kk,9990000,47,2+kk,"Na Cikorce, Praha - Modřany",50.0135016,14.4117477,1,0,0,1,project,nevybaveny,osobni
+bezrealitky,936912,Prodej bytu 2+kk,5470000,38,2+kk,"Merklín - Pstruží u Merklína, Karlovarský kraj",50.3460387,12.8267722,0,0,1,1,velmi dobry,,osobni
+bezrealitky,1007900,Prodej bytu 3+kk,12300000,86,3+kk,"Starochodovská, Praha - Chodov",50.0314709,14.5021236,1,0,1,4,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1009344,Prodej bytu 3+kk,6200000,83,3+kk,"Na Pile, Zásmuky - Zásmuky, Středočeský kraj",49.960017,15.029963,1,0,1,1,novostavba,castecne vybaveny,osobni
+bezrealitky,998663,Prodej bytu 2+1,9500000,57,2+1,"Mydlářka, Praha - Dejvice",50.1006915,14.3845407,0,0,0,5,velmi dobry,nevybaveny,osobni
+bezrealitky,1009350,Prodej bytu 4+kk,5890000,66,4+kk,"Pekárenská, České Budějovice - České Budějovice 3, Jihočeský kraj",48.9832081,14.4781822,1,0,1,8,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1009140,Prodej bytu 2+kk,7200000,43,2+kk,"Neapolská, Praha - Horní Měcholupy",50.0435401,14.5553394,1,0,1,2,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,1009336,Prodej bytu 2+kk,7190000,39,2+kk,"Šluknovská, Praha - Střížkov",50.1272321,14.4930773,0,0,0,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,998661,Prodej bytu 2+kk,3679000,43,2+kk,"Na Vršku, Jablonec nad Nisou - Jablonec nad Nisou, Liberecký kraj",50.7250913,15.1594263,1,0,0,7,velmi dobry,nevybaveny,osobni
+bezrealitky,880588,Prodej bytu 1+kk,2590000,38,1+kk,"Náměstí míru, Protivín - Protivín, Jihočeský kraj",49.19785965,14.217443046379,0,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,993698,Prodej bytu 3+1,9590000,80,3+1,"Nedašovská, Praha - Zličín",50.0595097,14.2884989,0,0,0,4,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1009325,Prodej bytu 3+kk,11990000,90,3+kk,"Sicherova, Praha - Kyje",50.1152594,14.5659365,0,0,1,2,velmi dobry,nevybaveny,osobni
+bezrealitky,1009180,Prodej bytu 2+1,169000,37,2+1,Hermann-Geib-Straße 41 Regensburg Kasernenviertel Bayern 93053,49.0069,12.10912,0,0,0,1,dobry,,
+bezrealitky,998352,Prodej bytu 2+kk,7500000,59,2+kk,"Sazovická, Praha - Zličín",50.0563512,14.2840056,1,0,1,1,velmi dobry,,osobni
+bezrealitky,1009164,Prodej bytu 2+1,3300000,53,2+1,"Na Podlesí, Kadaň - Kadaň, Ústecký kraj",50.3848787,13.2614398,1,0,1,3,velmi dobry,nevybaveny,osobni
+bezrealitky,998337,Prodej bytu 3+1,3500000,68,3+1,"Tábor - Tábor, Jihočeský kraj",49.3900028,14.6815893,1,0,1,1,dobry,vybaveny,osobni
+bezrealitky,1007601,Prodej bytu 2+1,3820000,52,2+1,"Vyšehrad, Český Krumlov - Český Krumlov, Jihočeský kraj",48.8188051,14.3190152,0,0,1,2,velmi dobry,vybaveny,osobni
+bezrealitky,1007622,Prodej bytu 2+1,4490000,59,2+1,"Svinařovská, Smečno - Smečno, Středočeský kraj",50.18728,14.0443975,0,0,0,1,velmi dobry,nevybaveny,osobni
+bezrealitky,1009148,Prodej bytu 3+1,12100000,81,3+1,"Aubrechtové, Praha - Záběhlice",50.053642,14.4997335,1,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1009161,Prodej bytu 3+kk,10970000,72,3+kk,"Na Zlatnici, Praha - Podolí",50.0575988,14.4241517,1,0,1,1,velmi dobry,nevybaveny,osobni
+bezrealitky,962505,Prodej bytu 3+kk,15800000,71,3+kk,"Boleslavova, Praha - Nusle",50.0637402,14.4355001,1,0,1,2,novostavba,castecne vybaveny,osobni
+bezrealitky,992041,Prodej bytu 4+kk,25900000,159,4+kk,"Sokolovská, Praha - Karlín",50.094933,14.4560509,1,0,0,5,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,853225,Prodej bytu 3+1,7890000,97,3+1,"Žižkova tř., České Budějovice - České Budějovice 6, Jihočeský kraj",48.971915,14.4819229,0,0,1,2,velmi dobry,,osobni
+bezrealitky,1009019,Prodej bytu 4+1,200000,93,4+1,", Sasko",50.54106,12.78686,0,1,1,1,dobry,vybaveny,
+bezrealitky,1007582,Prodej bytu 2+1,4450000,60,2+1,"Ppor. Příhody, Vlašim - Vlašim, Středočeský kraj",49.7135863,14.8976738,0,0,0,1,velmi dobry,nevybaveny,osobni
+bezrealitky,998278,Prodej bytu 1+kk,3690000,27,1+kk,"Edvarda Beneše, Olomouc - Řepčín, Olomoucký kraj",49.5990133,17.2226319,1,0,1,2,novostavba,castecne vybaveny,osobni
+bezrealitky,1009124,Prodej bytu 1+kk,6390000,30,1+kk,"Modenská, Praha - Horní Měcholupy",50.0401464,14.5687139,0,0,1,6,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1008924,Prodej bytu 2+1,7790000,53,2+1,"Šumperská, Praha - Letňany",50.13705365,14.509375670456,0,0,0,3,velmi dobry,nevybaveny,osobni
+bezrealitky,986486,Prodej bytu 2+1,5250000,62,2+1,"Pařížská, Kladno - Kročehlavy, Středočeský kraj",50.134063,14.1315142,1,0,1,2,pred rekonstrukci,vybaveny,osobni
+bezrealitky,963163,Prodej bytu 4+kk,10500000,100,4+kk,"Hrnčířská, Jesenice - Zdiměřice u Prahy, Středočeský kraj",49.9806876,14.5288088,0,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1005274,Prodej bytu 2+1,11990000,56,2+1,"Štefánikova, Praha - Smíchov",50.0772376,14.4039601,1,0,0,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1002709,Prodej bytu 1+kk,4750000,30,1+kk,"Technická, Plzeň - Plzeň, Plzeňský kraj",49.7265727,13.352402,1,0,1,3,novostavba,nevybaveny,osobni
+bezrealitky,1008912,Prodej bytu 4+kk,12800000,141,4+kk,"Podstránská, Brno - Slatina, Jihomoravský kraj",49.1864641,16.6675087,0,0,1,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,997429,Prodej bytu 1+kk,4290000,24,1+kk,"Čenětická, Praha - Chodov",50.0418147,14.4988773,1,0,0,7,velmi dobry,castecne vybaveny,osobni
+bezrealitky,763093,Prodej bytu 2+1,9399000,63,2+1,"Vltavská, Praha - Smíchov",50.06963,14.40678,1,0,1,2,dobry,vybaveny,osobni
+bezrealitky,1005365,Prodej bytu 2+1,2700000,56,2+1,"Vojtěcha Martínka, Orlová - Horní Lutyně, Moravskoslezský kraj",49.8667651,18.4258975,0,0,0,3,velmi dobry,vybaveny,druzstevni
+bezrealitky,1008911,Prodej bytu 2+kk,6900000,71,2+kk,"Podstránská, Brno - Slatina, Jihomoravský kraj",49.1864641,16.6675087,0,0,1,1,velmi dobry,nevybaveny,osobni
+bezrealitky,973212,Prodej bytu 4+kk,11850000,84,4+kk,"Tylova, Brno - Královo Pole, Jihomoravský kraj",49.2324708,16.5925574,0,0,1,1,novostavba,nevybaveny,osobni
+bezrealitky,1008909,Prodej bytu 3+kk,6450000,85,3+kk,"Frymburk - Frymburk, Jihočeský kraj",48.66903,14.1631932,0,0,0,1,velmi dobry,vybaveny,osobni
+bezrealitky,1006801,Prodej bytu 1+kk,5950000,42,1+kk,"Teyschlova, Brno - Bystrc, Jihomoravský kraj",49.2172329,16.5015038,1,0,0,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1008668,Prodej bytu 3+1,4790000,72,3+1,"Příbramská, Neumětely - Neumětely, Středočeský kraj",49.85106,14.0285188,0,0,1,1,velmi dobry,,osobni
+bezrealitky,1008663,Prodej bytu 1+kk,6190000,26,1+kk,"Heřmanova, Praha - Holešovice",50.1003272,14.429568,1,0,1,1,velmi dobry,vybaveny,osobni
+bezrealitky,997485,Prodej bytu 2+kk,7950000,51,2+kk,"Biskupcova, Praha - Žižkov",50.0897553,14.471232,0,0,0,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,998300,Prodej bytu 2+kk,13099900,50,2+kk,"Chodská, Praha - Vinohrady",50.075748,14.4459807,1,0,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1008633,Prodej bytu 2+kk,4990000,50,2+kk,"Hronovická, Pardubice - Pardubice, Pardubický kraj",50.0336081,15.7750646,0,0,0,2,velmi dobry,vybaveny,osobni
+bezrealitky,1006858,Prodej bytu 1+1,2690000,46,1+1,"Dukelská, Příbor - Příbor, Moravskoslezský kraj",49.6361154,18.1371682,1,0,0,9,velmi dobry,castecne vybaveny,osobni
+bezrealitky,998299,Prodej bytu 2+kk,13399900,51,2+kk,"Chodská, Praha - Vinohrady",50.075748,14.4459807,1,0,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1008353,Prodej bytu 1+kk,2499000,27,1+kk,"Staškova, Liberec - Ruprechtice, Liberecký kraj",50.7906515,15.0689265,0,0,1,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1008311,Prodej bytu 3+1,4890000,90,3+1,"Víchová nad Jizerou - Horní Sytová, Liberecký kraj",50.6291188,15.4763269,0,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,924811,Prodej bytu 3+kk,12990000,75,3+kk,"Waltariho, Praha - Hloubětín",50.1076717,14.5248559,1,0,1,4,novostavba,castecne vybaveny,osobni
+bezrealitky,1008602,Prodej bytu 3+1,8250000,77,3+1,"Benkova, Praha - Chodov",50.035746,14.5006637,1,0,1,1,velmi dobry,castecne vybaveny,druzstevni
+bezrealitky,951437,Prodej bytu 3+kk,12495000,78,3+kk,"Toufarova, Praha - Stodůlky",50.0431811,14.3112944,1,0,1,2,novostavba,castecne vybaveny,osobni
+bezrealitky,1006590,Prodej bytu 1+1,2231600,47,1+1,"Žežická, Ústí nad Labem - Krásné Březno, Ústecký kraj",50.6700833,14.0761137,1,0,1,4,dobry,vybaveny,osobni
+bezrealitky,1008326,Prodej bytu 4+kk,11999000,87,4+kk,"Brdičkova, Praha - Stodůlky",50.0433138,14.3304417,1,0,1,1,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,1008562,Prodej bytu ,275000,116,,", Bavorsko",49.00242,12.82014,0,1,1,1,po rekonstrukci,,
+bezrealitky,1006562,Prodej bytu 2+kk,2700000,35,2+kk,"Revoluční, Litoměřice - Litoměřice, Ústecký kraj",50.5429295,14.1251887,1,0,1,3,dobry,nevybaveny,osobni
+bezrealitky,1008294,Prodej bytu 3+kk,7850000,70,3+kk,"Františka Jelena, České Budějovice - České Budějovice 5, Jihočeský kraj",48.9693338,14.5147838,1,0,1,5,novostavba,castecne vybaveny,osobni
+bezrealitky,1008310,Prodej bytu 3+kk,10988000,65,3+kk,"Františka Štěpánka, Praha - Hostivař",50.0567921,14.5428443,1,0,1,7,novostavba,castecne vybaveny,osobni
+bezrealitky,961478,Prodej bytu 2+kk,9985000,47,2+kk,"Na Cikorce, Praha - Modřany",50.0135016,14.4117477,1,1,0,1,project,nevybaveny,osobni
+bezrealitky,1008298,Prodej bytu 3+kk,10235000,71,3+kk,"Jažlovická, Praha - Chodov",50.0255976,14.5260417,1,0,1,3,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,998901,Prodej bytu 1+kk,1710000,18,1+kk,"Fibichova, Karlovy Vary - Stará Role, Karlovarský kraj",50.239102,12.8396798,1,1,0,3,velmi dobry,,osobni
+bezrealitky,934871,Prodej bytu 3+1,6320000,72,3+1,"Labská kotlina, Hradec Králové - Hradec Králové, Královéhradecký kraj",50.2044706,15.8212581,0,0,1,1,dobry,castecne vybaveny,druzstevni
+bezrealitky,996937,Prodej bytu 3+kk,14990000,100,3+kk,"Jeřabinová, Praha - Motol",50.0746658,14.3588175,1,0,1,2,velmi dobry,nevybaveny,osobni
+bezrealitky,1007975,Prodej bytu 2+kk,13333333,49,2+kk,"Dlouhá, Praha - Staré Město",50.0905448,14.426107,1,0,0,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,996562,Prodej bytu 3+1,4799200,90,3+1,"Jabkenice - Jabkenice, Středočeský kraj",50.3264463,15.0143737,0,0,1,3,dobry,nevybaveny,osobni
+bezrealitky,1008146,Prodej bytu 4+1,169000,97,4+1,Chemnitz Altchemnitz Sachsen 09125,50.77747,12.92725,0,1,1,1,dobry,,
+bezrealitky,996588,Prodej bytu 4+kk,10590000,93,4+kk,"Turgeněvova, Brno - Černovice, Jihomoravský kraj",49.1888005,16.6450125,1,0,0,7,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1008053,Prodej bytu 2+1,190000,57,2+1,"Jägerhölzlstraße 17, , Bavorsko",48.84425,13.13398,0,1,1,0,velmi dobry,,
+bezrealitky,920847,Prodej bytu 1+kk,5199000,55,1+kk,"Kapitána Jaroše, Boskovice - Boskovice, Jihomoravský kraj",49.4875165,16.6623346,0,0,0,2,project,nevybaveny,osobni
+bezrealitky,996554,Prodej bytu 2+1,2750000,58,2+1,"Smetanova, Chvaletice - Telčice, Pardubický kraj",50.0331767,15.4150075,0,0,1,3,after_partial_reconstruction,castecne vybaveny,osobni
+bezrealitky,953453,Prodej bytu 1+kk,5500000,43,1+kk,"Náměstí Joachima Barranda, Beroun - Beroun, Středočeský kraj",49.9648942,14.0726128,0,0,1,1,velmi dobry,,druzstevni
+bezrealitky,1007946,Prodej bytu 1+1,3590000,42,1+1,"Hraniční, Olomouc - Nová Ulice, Olomoucký kraj",49.5774079,17.2326098,1,0,0,1,dobry,castecne vybaveny,osobni
+bezrealitky,996522,Prodej bytu 2+kk,5600000,58,2+kk,"Huppnerova, Praha - Ruzyně",50.0917219,14.2986072,1,0,1,1,novostavba,castecne vybaveny,druzstevni
+bezrealitky,1007966,Prodej bytu 2+kk,9873500,56,2+kk,"Ortenovo náměstí, Praha - Holešovice",50.1081988,14.4504704,0,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1007939,Prodej bytu 2+kk,10000000,59,2+kk,"Pískařská, Praha - Modřany",50.0137075,14.4006315,1,0,1,6,velmi dobry,,osobni
+bezrealitky,920849,Prodej bytu 1+kk,7299000,77,1+kk,"Kapitána Jaroše, Boskovice - Boskovice, Jihomoravský kraj",49.4875165,16.6623346,0,0,0,2,project,nevybaveny,osobni
+bezrealitky,1005682,Prodej bytu 4+1,6750000,85,4+1,"Cyrila Boudy, Slaný - Slaný, Středočeský kraj",50.2285599,14.0718108,1,0,0,4,po rekonstrukci,,osobni
+bezrealitky,1007934,Prodej bytu 3+kk,9970000,76,3+kk,"Janovská, Praha - Horní Měcholupy",50.0425998,14.5658151,1,0,1,7,novostavba,castecne vybaveny,osobni
+bezrealitky,1007905,Prodej bytu 3+1,3200000,76,3+1,"Na Kopci, Karviná - Karviná-město, Moravskoslezský kraj",49.8590675,18.5616475,1,0,1,1,velmi dobry,castecne vybaveny,druzstevni
+bezrealitky,1007935,Prodej bytu 3+kk,9990000,69,3+kk,"Hrudičkova, Praha - Chodov",50.0340629,14.4784882,1,0,1,3,novostavba,castecne vybaveny,osobni
+bezrealitky,1007817,Prodej bytu 3+1,449000,72,3+1,Georg-Aichinger-Straße 8 Regensburg Ostenviertel Bayern 93055,49.01348,12.12333,1,1,1,1,velmi dobry,,
+bezrealitky,1007879,Prodej bytu 2+1,2400000,56,2+1,"Sídliště, Počátky - Počátky, Kraj Vysočina",49.2644932,15.2353878,1,0,1,3,velmi dobry,castecne vybaveny,druzstevni
+bezrealitky,956337,Prodej bytu 3+1,9350000,141,3+1,"Cementářská, Praha - Lochkov",50.0034197,14.3523907,0,0,1,1,novostavba,castecne vybaveny,osobni
+bezrealitky,996481,Prodej bytu 2+kk,7350000,46,2+kk,"Podbělová, Brno - Líšeň, Jihomoravský kraj",49.2140322,16.6834411,0,0,0,2,novostavba,castecne vybaveny,osobni
+bezrealitky,1007626,Prodej bytu 2+1,4400000,55,2+1,"Pod Nemocnicí, Hranice - Hranice, Olomoucký kraj",49.5527563,17.7450575,0,0,0,1,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,1006812,Prodej bytu 3+kk,9590000,58,3+kk,"Nad Šutkou, Praha - Kobylisy",50.1227886,14.4533135,0,0,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1006848,Prodej bytu 2+1,1599000,53,2+1,"Kpt. Jaroše, Orlová - Horní Lutyně, Moravskoslezský kraj",49.867895,18.429775,0,0,1,3,dobry,nevybaveny,druzstevni
+bezrealitky,943124,Prodej bytu 2+1,3350000,66,2+1,"Lipová-lázně - Horní Lipová, Olomoucký kraj",50.2239013,17.09049,0,0,1,4,velmi dobry,vybaveny,osobni
+bezrealitky,1007589,Prodej bytu 2+1,1650000,68,2+1,"Hlavní, Hanušovice - Hanušovice, Olomoucký kraj",50.0801689,16.9365421,0,0,1,2,dobry,nevybaveny,osobni
+bezrealitky,1005681,Prodej bytu 3+1,5390000,63,3+1,"Zahradní, Zliv - Zliv u Českých Budějovic, Jihočeský kraj",49.0694065,14.3624184,1,0,1,1,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,742902,Prodej bytu 3+kk,17571554,107,3+kk,"Na Neklance, Praha - Smíchov",50.06102,14.40291,1,1,1,5,novostavba,nevybaveny,osobni
+bezrealitky,1006156,Prodej bytu 1+kk,4950000,28,1+kk,"Hlavatého, Praha - Háje",50.0309494,14.5345976,1,0,0,1,dobry,castecne vybaveny,osobni
+bezrealitky,1007577,Prodej bytu 2+kk,5500000,48,2+kk,"Armádní, Milovice - Benátecká Vrutice, Středočeský kraj",50.2309821,14.8569635,1,0,0,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1007585,Prodej bytu ,70000,84,,"Okružná, Handlová - Handlová, Trenčiansky kraj",48.7378283,18.7557549,1,0,1,4,dobry,castecne vybaveny,osobni
+bezrealitky,1007580,Prodej bytu 3+1,4200000,88,3+1,"Kruh - Kruh, Liberecký kraj",50.5672113,15.48089,0,0,1,2,pred rekonstrukci,nevybaveny,osobni
+bezrealitky,996110,Prodej bytu 3+kk,4888000,68,3+kk,"Palackého, Tachov - Tachov, Plzeňský kraj",49.7898526,12.6268638,1,0,0,3,novostavba,castecne vybaveny,osobni
+bezrealitky,1007555,Prodej bytu 2+1,4200000,42,2+1,"Holandská, Kladno - Kročehlavy, Středočeský kraj",50.1296275,14.12065,1,0,1,4,dobry,,osobni
+bezrealitky,983423,Prodej bytu 3+kk,7800000,66,3+kk,"Olivova, Říčany - Říčany u Prahy, Středočeský kraj",49.9899644,14.6632474,0,0,1,1,velmi dobry,nevybaveny,osobni
+bezrealitky,1004570,Prodej bytu 1+1,2700000,40,1+1,"Korunní, Ostrava - Mariánské Hory, Moravskoslezský kraj",49.8308174,18.2584832,1,0,1,6,velmi dobry,castecne vybaveny,druzstevni
+bezrealitky,966603,Prodej bytu 3+kk,8290000,62,3+kk,"Sportovců, Hostivice - Litovice, Středočeský kraj",50.079763,14.2421198,0,0,1,4,velmi dobry,castecne vybaveny,osobni
+bezrealitky,996091,Prodej bytu 2+1,3625000,52,2+1,"Čsl. armády, Šumperk - Šumperk, Olomoucký kraj",49.9676034,16.9853178,0,0,0,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,807835,Prodej bytu 1+1,6100000,52,1+1,"Příční, Brno - Zábrdovice, Jihomoravský kraj",49.20071,16.61566,1,0,0,4,dobry,,osobni
+bezrealitky,983425,Prodej bytu 2+kk,7999000,82,2+kk,"Palackého, Poděbrady - Poděbrady, Středočeský kraj",50.1416289,15.1251442,1,0,1,2,novostavba,castecne vybaveny,osobni
+bezrealitky,982375,Prodej bytu 3+1,2590000,73,3+1,"Loučovice - Loučovice, Jihočeský kraj",48.6222959,14.2571755,1,0,1,7,dobry,castecne vybaveny,osobni
+bezrealitky,1003680,Prodej bytu 2+kk,9500000,66,2+kk,"Uzbecká, Praha - Vršovice",50.0670257,14.4624196,1,0,1,3,velmi dobry,,osobni
+bezrealitky,981581,Prodej bytu 2+kk,3290300,52,2+kk,"Krále Jiřího, Karlovy Vary - Karlovy Vary, Karlovarský kraj",50.2290936,12.871187,0,0,0,3,dobry,castecne vybaveny,osobni
+bezrealitky,1007396,Prodej bytu 3+1,320000,114,3+1,Chemnitz Adelsberg Sachsen 09127,50.81412,12.98758,1,1,1,2,dobry,,
+bezrealitky,968835,Prodej bytu 3+1,11780000,78,3+1,"Budějovická, Praha - Krč",50.0477375,14.444299,1,0,1,2,velmi dobry,vybaveny,osobni
+bezrealitky,999276,Prodej bytu 3+kk,10700000,63,3+kk,"Na Stárce, Praha - Košíře",50.0646401,14.3698558,0,0,0,1,velmi dobry,,osobni
+bezrealitky,1007207,Prodej bytu 2+kk,5277000,39,2+kk,"Hrubínova, Hradec Králové - Pražské Předměstí, Královéhradecký kraj",50.1990044,15.8140721,1,0,0,1,po rekonstrukci,,osobni
+bezrealitky,1006825,Prodej bytu 2+kk,2799000,37,2+kk,"Horní, Ostrava - Hrabůvka, Moravskoslezský kraj",49.7924182,18.2504792,0,0,0,3,velmi dobry,castecne vybaveny,druzstevni
+bezrealitky,1007231,Prodej bytu 3+kk,6590000,52,3+kk,"U Nemocnice, Brandýs nad Labem-Stará Boleslav - Brandýs nad Labem, Středočeský kraj",50.187789,14.6531334,0,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,995878,Prodej bytu 2+kk,10000000,59,2+kk,"Poděbradská, Praha - Hloubětín",50.1034743,14.5234628,1,0,1,5,novostavba,nevybaveny,osobni
+bezrealitky,1007188,Prodej bytu 2+kk,5555000,44,2+kk,"Vysokoškolská, Praha - Suchdol",50.1346293,14.3722976,0,0,0,1,dobry,nevybaveny,osobni
+bezrealitky,993165,Prodej bytu 2+1,8770000,49,2+1,"U Mrázovky, Praha - Smíchov",50.068119,14.3920008,0,0,0,2,velmi dobry,,osobni
+bezrealitky,1005302,Prodej bytu 1+kk,6390000,26,1+kk,"Krymská, Praha - Vršovice",50.0716344,14.4499603,1,0,0,5,novostavba,nevybaveny,osobni
+bezrealitky,993994,Prodej bytu 3+kk,14490000,86,3+kk,"Bělohorská, Praha - Břevnov",50.0841292,14.3695736,0,0,0,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1007170,Prodej bytu 2+kk,7590000,50,2+kk,"Lihovarská, Praha - Libeň",50.1044539,14.4867698,1,0,1,5,velmi dobry,castecne vybaveny,osobni
+bezrealitky,342451,Prodej bytu 2+1,8225000,47,2+1,"Biskupcova, Praha - Žižkov",50.0902852,14.4742978442,1,0,0,2,velmi dobry,,osobni
+bezrealitky,992779,Prodej bytu 3+1,5450000,122,3+1,"Hlavní, Břeclav - Poštorná, Jihomoravský kraj",48.7579937,16.8603291,0,0,1,3,velmi dobry,nevybaveny,osobni
+bezrealitky,981886,Prodej bytu 1+kk,5199000,25,1+kk,"Počernická, Praha - Malešice",50.0808422,14.5002496,1,0,1,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1005282,Prodej bytu 3+1,11750000,91,3+1,"V Dolině, Praha - Michle",50.0586974,14.4691794,1,0,1,5,dobry,castecne vybaveny,osobni
+bezrealitky,1007137,Prodej bytu 2+kk,7800000,47,2+kk,"Herlíkovická, Praha - Kbely",50.1397861,14.5486863,1,1,1,1,velmi dobry,vybaveny,osobni
+bezrealitky,993106,Prodej bytu 4+kk,21812000,136,4+kk,"Československého exilu, Praha - Modřany",50.0162255,14.4050676,1,0,1,8,novostavba,nevybaveny,osobni
+bezrealitky,995819,Prodej bytu 3+kk,7690000,64,3+kk,"Sportovců, Kladno - Kladno, Středočeský kraj",50.1375513,14.0849388,0,0,1,1,velmi dobry,vybaveny,osobni
+bezrealitky,988503,Prodej bytu 3+kk,4850000,60,3+kk,"Šternberská, Divišov - Divišov u Benešova, Středočeský kraj",49.790795,14.87955,0,0,1,1,novostavba,vybaveny,osobni
+bezrealitky,900217,Prodej bytu 3+kk,7930000,72,3+kk,"Na Perštýně, Liberec - Liberec, Liberecký kraj",50.7640316,15.060062,1,0,1,4,novostavba,vybaveny,osobni
+bezrealitky,982423,Prodej bytu 2+1,12990000,56,2+1,"Všehrdova, Praha - Malá Strana",50.083074,14.4051923,0,0,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1006873,Prodej bytu 2+kk,8800000,55,2+kk,"Mantovská, Praha - Horní Měcholupy",50.0402781,14.5692136,1,0,1,5,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1006878,Prodej bytu 3+kk,18990000,75,3+kk,"Sázavská, Praha - Vinohrady",50.0742303,14.4407201,1,0,0,6,velmi dobry,,osobni
+bezrealitky,999804,Prodej bytu 2+kk,17990000,101,2+kk,"Naskové, Praha - Košíře",50.0622273,14.3620269,1,0,1,4,novostavba,,osobni
+bezrealitky,1006855,Prodej bytu 2+kk,7250000,42,2+kk,"Teplická, Praha - Střížkov",50.123255,14.4841691,1,0,1,3,dobry,castecne vybaveny,osobni
+bezrealitky,995535,Prodej bytu 3+1,2000000,73,3+1,"Obrnice - Obrnice, Ústecký kraj",50.5049767,13.6953975,1,1,1,1,velmi dobry,,osobni
+bezrealitky,995556,Prodej bytu 1+kk,2600000,33,1+kk,"Lázeňská, Lanškroun - Lanškroun, Pardubický kraj",49.908655,16.6123074,0,0,0,1,velmi dobry,nevybaveny,osobni
+bezrealitky,1005375,Prodej bytu 3+1,8190000,73,3+1,"Merhautova, Brno - Černá Pole, Jihomoravský kraj",49.215761,16.6279034,1,0,1,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,958788,Prodej bytu 1+kk,6990000,31,1+kk,"Poděbradská, Praha - Hloubětín",50.1035393,14.5247596,1,0,1,1,novostavba,castecne vybaveny,osobni
+bezrealitky,1006837,Prodej bytu 2+kk,10850000,47,2+kk,"Jáchymovská, Praha - Řeporyje",50.0374788,14.3159294,1,0,1,2,novostavba,vybaveny,osobni
+bezrealitky,1004938,Prodej bytu 2+1,2210000,59,2+1,"Palackého, Chodov - Dolní Chodov, Karlovarský kraj",50.2399468,12.7463675,1,0,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,923639,Prodej bytu 3+1,7290000,75,3+1,"Mikulčická, Brno - Slatina, Jihomoravský kraj",49.1782678,16.6870295,1,0,0,5,dobry,castecne vybaveny,osobni
+bezrealitky,1006230,Prodej bytu 1+kk,3980000,22,1+kk,"Felklova, Roztoky - Roztoky u Prahy, Středočeský kraj",50.1675018,14.3848575,0,0,1,,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,995476,Prodej bytu 3+kk,8890000,63,3+kk,"Jaroslava Foglara, Praha - Stodůlky",50.0390792,14.3311642,0,0,1,1,novostavba,vybaveny,druzstevni
+bezrealitky,1006815,Prodej bytu 3+kk,7800000,81,3+kk,"Lipno nad Vltavou - Lipno nad Vltavou, Jihočeský kraj",48.6372179,14.2253601,0,0,1,1,velmi dobry,,osobni
+bezrealitky,1006804,Prodej bytu 5+kk,12300000,93,5+kk,"Na Valentince, Praha - Smíchov",50.0673043,14.4079063,0,0,0,1,po rekonstrukci,nevybaveny,osobni
+bezrealitky,1004869,Prodej bytu 2+1,3100000,50,2+1,"U Stadiónu, Ústí nad Labem - Klíše, Ústecký kraj",50.6746684,14.0181504,0,0,0,1,dobry,nevybaveny,osobni
+bezrealitky,1006710,Prodej bytu 2+1,210000,55,2+1,"Lugstr., , Sasko",50.97372,13.94181,0,1,1,3,po rekonstrukci,,
+bezrealitky,995193,Prodej bytu 3+kk,7500000,89,3+kk,"Šantova, Olomouc - Olomouc-město, Olomoucký kraj",49.5881199,17.2589942,0,0,0,1,velmi dobry,nevybaveny,osobni
+bezrealitky,1006556,Prodej bytu 2+kk,7999999,58,2+kk,"K Lesu, Praha - Kamýk",50.0110177,14.4463419,0,0,1,4,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1006588,Prodej bytu 1+kk,5990000,39,1+kk,"Francouzská, Brno - Zábrdovice, Jihomoravský kraj",49.2014676,16.617133,1,0,0,5,velmi dobry,vybaveny,osobni
+bezrealitky,995207,Prodej bytu 2+kk,3200000,47,2+kk,"Honzíkova, Praha - Dolní Měcholupy",50.0678918,14.5551471,1,0,1,3,novostavba,nevybaveny,druzstevni
+bezrealitky,1006577,Prodej bytu 2+kk,4950000,64,2+kk,"Dlouhá, Tišnov - Tišnov, Jihomoravský kraj",49.3525137,16.4311688,0,0,1,1,velmi dobry,castecne vybaveny,druzstevni
+bezrealitky,1006570,Prodej bytu 3+kk,6249000,63,3+kk,"Havlíčkova, Mladá Boleslav - Mladá Boleslav, Středočeský kraj",50.4272883,14.9110605,1,0,0,7,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1002825,Prodej bytu 2+1,4600000,63,2+1,"Puklicova, České Budějovice - České Budějovice 3, Jihočeský kraj",48.9848518,14.4744552,1,0,0,7,dobry,castecne vybaveny,druzstevni
+bezrealitky,968838,Prodej bytu 2+kk,5299000,46,2+kk,"Lonkova, Pardubice - Pardubice, Pardubický kraj",50.0461418,15.760035,1,0,1,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,960227,Prodej bytu 3+kk,15000000,80,3+kk,"V Třešňovce, Praha - Hrdlořezy",50.0937121,14.4983841,1,0,1,6,novostavba,castecne vybaveny,osobni
+bezrealitky,1006551,Prodej bytu 3+kk,4950000,51,3+kk,"Žižkova, Český Brod - Český Brod, Středočeský kraj",50.0723303,14.8567935,0,0,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,995145,Prodej bytu 3+1,7000000,95,3+1,"Dr. Horákové, Poděbrady - Poděbrady, Středočeský kraj",50.147084,15.1152046,1,0,1,3,dobry,,osobni
+bezrealitky,995143,Prodej bytu 1+kk,6500000,35,1+kk,"Tupolevova, Praha - Letňany",50.1333956,14.5052067,1,0,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,997342,Prodej bytu 3+1,3500000,83,3+1,"Na Vinici I., Nepomuk - Nepomuk, Plzeňský kraj",49.491171,13.5863921,0,0,0,1,dobry,castecne vybaveny,osobni
+bezrealitky,982703,Prodej bytu 2+kk,7092000,43,2+kk,"Františka Štěpánka, Praha - Hostivař",50.056817028651,14.541808789717,1,0,0,7,construction,castecne vybaveny,osobni
+bezrealitky,941938,Prodej bytu 1+kk,6100000,51,1+kk,"V Borovičkách, Praha - Stodůlky",50.0594528,14.327091,0,0,1,1,velmi dobry,vybaveny,osobni
+bezrealitky,1003678,Prodej bytu 3+1,7800000,75,3+1,"Janského, Praha - Stodůlky",50.0394972,14.3394728,1,0,1,5,velmi dobry,castecne vybaveny,druzstevni
+bezrealitky,982669,Prodej bytu 3+kk,7414000,56,3+kk,"Arnošta Staňka, Praha - Hostivař",50.057305140173,14.54214950271,1,0,0,6,construction,castecne vybaveny,osobni
+bezrealitky,995133,Prodej bytu 2+1,3450000,52,2+1,"Opavská, Ostrava - Poruba, Moravskoslezský kraj",49.83033145,18.183509682533,1,0,0,2,velmi dobry,castecne vybaveny,druzstevni
+bezrealitky,982712,Prodej bytu 1+kk,5828000,34,1+kk,"Františka Štěpánka, Praha - Hostivař",50.056816978576,14.541810869816,1,0,0,2,construction,castecne vybaveny,osobni
+bezrealitky,1006540,Prodej bytu 4+kk,7990000,80,4+kk,"Sportovní, Ivančice - Ivančice, Jihomoravský kraj",49.1018846,16.3675215,0,0,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,984681,Prodej bytu 3+1,4050000,68,3+1,"Dlouhá, Slavičín - Slavičín, Zlínský kraj",49.0813968,17.8881376,0,0,1,4,velmi dobry,,osobni
+bezrealitky,878034,Prodej bytu 2+kk,9800000,63,2+kk,"Dolní Morava - Velká Morava, Pardubický kraj",50.1571238,16.8157369,0,0,1,1,novostavba,vybaveny,osobni
+bezrealitky,917373,Prodej bytu 2+kk,8200000,44,2+kk,"Jana Želivského, Praha - Žižkov",50.0892191,14.4687508,0,0,0,2,velmi dobry,,osobni
+bezrealitky,1004153,Prodej bytu 2+kk,4390000,40,2+kk,"Holandská, Kladno - Kročehlavy, Středočeský kraj",50.1301245,14.1222072,1,0,1,7,dobry,castecne vybaveny,osobni
+bezrealitky,1006529,Prodej bytu 4+kk,10999000,108,4+kk,"Lomená, Jesenice - Jesenice u Prahy, Středočeský kraj",49.97435,14.5079063,0,0,1,3,velmi dobry,,osobni
+bezrealitky,1006466,Prodej bytu 5+1,198500,104,5+1,", Bavorsko",49.87812,12.33779,1,1,0,4,po rekonstrukci,,
+bezrealitky,1006511,Prodej bytu 3+1,189000,81,3+1,", Sasko",50.99342,13.71727,0,1,0,0,dobry,,
+bezrealitky,1006340,Prodej bytu 3+1,390000,84,3+1,", Bavorsko",49.02479,12.17297,0,1,1,1,po rekonstrukci,,
+bezrealitky,883240,Prodej bytu 2+1,6900000,44,2+1,"Psohlavců, Praha - Braník",50.0270103,14.4266827,1,0,0,8,dobry,castecne vybaveny,osobni
+bezrealitky,950098,Prodej bytu 3+kk,9490000,110,3+kk,"Balbínova, Olomouc - Hejčín, Olomoucký kraj",49.6045485,17.2342404,0,0,1,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,866479,Prodej bytu 2+kk,3490000,52,2+kk,"Černá - Černá, Kraj Vysočina",49.4240788,15.8649325,0,0,1,1,po rekonstrukci,vybaveny,osobni
+bezrealitky,994850,Prodej bytu 4+kk,13600000,103,4+kk,"Dygrýnova, Praha - Černý Most",50.1041877,14.5715043,1,0,1,7,velmi dobry,,osobni
+bezrealitky,1006212,Prodej bytu 2+1,4490000,69,2+1,"Havlíčkova, Jihlava - Jihlava, Kraj Vysočina",49.4124658,15.5955251,0,0,0,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1006227,Prodej bytu 2+kk,8890000,54,2+kk,"K Berance, Praha - Horní Počernice",50.1125355,14.6262571,0,1,1,1,novostavba,,osobni
+bezrealitky,1006232,Prodej bytu 2+kk,6490000,50,2+kk,"Harrachov - Harrachov, Liberecký kraj",50.7803363,15.408366,1,0,1,2,velmi dobry,vybaveny,osobni
+bezrealitky,1006228,Prodej bytu 1+1,7790000,41,1+1,"Na Zbořenci, Praha - Nové Město",50.0770098,14.4170545,1,0,0,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1006205,Prodej bytu 1+kk,5750000,26,1+kk,"Perucká, Praha - Vinohrady",50.0688117,14.4379424,1,0,0,5,velmi dobry,vybaveny,osobni
+bezrealitky,983086,Prodej bytu 3+1,6950000,60,3+1,"Veltrusy - Veltrusy, Středočeský kraj",50.2710734,14.3277379,0,0,0,2,velmi dobry,nevybaveny,osobni
+bezrealitky,1006197,Prodej bytu 3+kk,2100000,77,3+kk,"Hlinsko - Chlum u Hlinska, Pardubický kraj",49.7184238,15.86152,0,0,1,1,pred rekonstrukci,castecne vybaveny,druzstevni
+bezrealitky,1003579,Prodej bytu 2+kk,7220000,45,2+kk,"U Továren, Praha - Hostivař",50.0563773,14.5425782,1,0,1,2,novostavba,nevybaveny,osobni
+bezrealitky,1004157,Prodej bytu 2+kk,7000000,43,2+kk,"Kettnerova, Praha - Stodůlky",50.0465849,14.322746,1,0,0,2,dobry,castecne vybaveny,osobni
+bezrealitky,1006158,Prodej bytu 1+1,3700000,49,1+1,"Sázavská, Světlá nad Sázavou - Světlá nad Sázavou, Kraj Vysočina",49.6670771,15.4027347,0,0,1,1,velmi dobry,,osobni
+bezrealitky,994834,Prodej bytu 3+kk,6700000,82,3+kk,"Dubinská, Pardubice - Studánka, Pardubický kraj",50.0464098,15.8138282,1,0,0,5,novostavba,,osobni
+bezrealitky,994802,Prodej bytu 1+1,8500000,58,1+1,"Veletržní, Praha - Holešovice",50.1015999,14.4309391,1,0,0,2,pred rekonstrukci,castecne vybaveny,osobni
+bezrealitky,994433,Prodej bytu 1+1,2950000,24,1+1,"Gen. Sochora, Ostrava - Poruba-sever, Moravskoslezský kraj",49.83378835,18.186010759222,0,0,0,1,dobry,castecne vybaveny,osobni
+bezrealitky,602156,Prodej bytu 3+kk,14760000,130,3+kk,"Škroupova, Karlovy Vary, Karlovarský kraj",50.219417,12.883056,1,1,1,2,novostavba,castecne vybaveny,osobni
+bezrealitky,994768,Prodej bytu 5+1,11750000,119,5+1,"Dominova, Praha - Stodůlky",50.0529129,14.3417717,1,0,0,7,dobry,castecne vybaveny,osobni
+bezrealitky,997435,Prodej bytu 2+1,5953100,74,2+1,"Luďka Matury, Pardubice - Studánka, Pardubický kraj",50.0424376,15.8067123,1,0,1,2,velmi dobry,,osobni
+bezrealitky,936266,Prodej bytu 2+kk,7990000,47,2+kk,"Slávy Horníka, Praha - Košíře",50.0682839,14.368269,0,0,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,994434,Prodej bytu 3+1,8490000,82,3+1,"Kukelská, Praha - Hloubětín",50.1061082,14.5528579,1,0,0,1,pred rekonstrukci,nevybaveny,osobni
+bezrealitky,1006025,Prodej bytu 2+1,239000,71,2+1,Meußlitzer Straße Dresden Leuben Sachsen 01259,51.01158,13.84826,0,0,1,3,po rekonstrukci,,
+bezrealitky,1005321,Prodej bytu 2+kk,7300000,50,2+kk,"Na Jezerce, Praha - Nusle",50.0555849,14.4425022,0,0,0,1,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,1004154,Prodej bytu 2+1,2599000,62,2+1,"Mánesova, Sokolov - Sokolov, Karlovarský kraj",50.1737982,12.6764889,1,0,1,7,velmi dobry,castecne vybaveny,osobni
+bezrealitky,978572,Prodej bytu 2+kk,9900000,46,2+kk,"Heinemannova, Praha - Dejvice",50.1119638,14.3917959,1,0,0,4,velmi dobry,castecne vybaveny,osobni
+bezrealitky,994386,Prodej bytu 2+1,4100000,70,2+1,"Franze Kafky, Mariánské Lázně - Úšovice, Karlovarský kraj",49.9483491,12.7059498,0,0,1,1,velmi dobry,,osobni
+bezrealitky,1005675,Prodej bytu 3+kk,13490000,88,3+kk,"Spojovací, Praha - Vysočany",50.1001759,14.4920788,1,0,1,3,novostavba,nevybaveny,osobni
+bezrealitky,1005800,Prodej bytu 3+1,9990000,85,3+1,"Hlinky, Brno - Staré Brno, Jihomoravský kraj",49.1898381,16.5855121,0,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1005777,Prodej bytu 2+1,4250000,54,2+1,"U Hřbitova, Jihlava - Jihlava, Kraj Vysočina",49.3910478,15.5747125,0,0,0,4,dobry,castecne vybaveny,osobni
+bezrealitky,981890,Prodej bytu 3+1,12980000,84,3+1,"Novákových, Praha - Libeň",50.103273,14.4746894,1,0,0,2,po rekonstrukci,nevybaveny,osobni
+bezrealitky,994369,Prodej bytu 3+kk,9745000,65,3+kk,"Pernerova, Praha - Karlín",50.090539,14.4505833,0,0,0,3,velmi dobry,castecne vybaveny,druzstevni
+bezrealitky,1000133,Prodej bytu 3+kk,13200000,78,3+kk,"Jeřabinová, Praha - Motol",50.0749772,14.3584064,1,0,1,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,953410,Prodej bytu 2+kk,6990000,45,2+kk,"Zahradníčkova, Praha - Košíře",50.0690666,14.3525036,0,0,0,1,dobry,castecne vybaveny,osobni
+bezrealitky,1005661,Prodej bytu 2+1,11800000,70,2+1,"Vrchlického, Praha - Košíře",50.0697628,14.3801328,1,0,1,4,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1001613,Prodej bytu 2+kk,6850000,45,2+kk,"Kurzova, Praha - Stodůlky",50.0362635,14.3405291,1,0,0,2,dobry,vybaveny,osobni
+bezrealitky,1004951,Prodej bytu 2+kk,3950000,51,2+kk,"Školní, Vsetín - Vsetín, Zlínský kraj",49.33974565,17.988675914423,0,0,0,3,velmi dobry,,osobni
+bezrealitky,1005347,Prodej bytu 3+1,6100000,65,3+1,"U Růžáku, Nymburk - Nymburk, Středočeský kraj",50.183386,15.0312897,0,0,1,1,velmi dobry,,osobni
+bezrealitky,1005312,Prodej bytu 2+1,3900000,53,2+1,"Sokolská třída, Ostrava - Moravská Ostrava, Moravskoslezský kraj",49.8493753,18.2818306,0,0,0,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1005337,Prodej bytu 3+kk,3900000,70,3+kk,"Hlinsko - Chlum u Hlinska, Pardubický kraj",49.7184238,15.86152,0,0,1,1,in_reconstruction,nevybaveny,druzstevni
+bezrealitky,994014,Prodej bytu 2+kk,3600000,54,2+kk,"Na Jezerce, Praha - Nusle",50.0592992,14.4459356,0,0,0,1,dobry,nevybaveny,druzstevni
+bezrealitky,993971,Prodej bytu 3+kk,3990000,62,3+kk,"Palackého, Chotěboř - Chotěboř, Kraj Vysočina",49.7229714,15.6716944,0,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1004524,Prodej bytu 1+1,7500000,43,1+1,"Strančická, Praha - Strašnice",50.066015,14.497005,1,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1005289,Prodej bytu 2+1,5690000,63,2+1,"Nová Pec - Nová Pec, Jihočeský kraj",48.7861836,13.9593163,0,0,1,1,velmi dobry,vybaveny,osobni
+bezrealitky,1003597,Prodej bytu 3+kk,6700000,89,3+kk,"Nemocniční, Mělník - Mělník, Středočeský kraj",50.3475679,14.4869188,0,0,0,6,dobry,castecne vybaveny,osobni
+bezrealitky,993740,Prodej bytu 3+kk,6200000,72,3+kk,"Generála Selnera, Kladno - Kročehlavy, Středočeský kraj",50.1341525,14.1411967,1,0,1,1,velmi dobry,vybaveny,druzstevni
+bezrealitky,993751,Prodej bytu 4+1,5900000,77,4+1,"Kubelíkova, Liberec - Horní Růžodol, Liberecký kraj",50.7514678,15.0323373,0,0,1,2,velmi dobry,,osobni
+bezrealitky,1003586,Prodej bytu 2+kk,6800000,47,2+kk,"Milánská, Praha - Horní Měcholupy",50.0423758,14.554747,0,0,1,1,dobry,vybaveny,osobni
+bezrealitky,993732,Prodej bytu 3+1,19180000,95,3+1,"Křižíkova, Praha - Karlín",50.0926733,14.4512708,1,0,0,1,velmi dobry,nevybaveny,osobni
+bezrealitky,1004972,Prodej bytu 2+1,3790000,54,2+1,"Nádražní, Jindřichův Hradec - Jindřichův Hradec, Jihočeský kraj",49.151253,15.0028957,0,0,0,5,velmi dobry,nevybaveny,osobni
+bezrealitky,979242,Prodej bytu 2+kk,5750000,45,2+kk,"V Jezírkách, Praha - Chodov",50.026532,14.5188013,1,0,0,3,velmi dobry,castecne vybaveny,druzstevni
+bezrealitky,993759,Prodej bytu 3+kk,8700000,78,3+kk,"Dukelských hrdinů, Kolín - Kolín, Středočeský kraj",50.0236848,15.2119002,0,0,1,1,dobry,,osobni
+bezrealitky,993719,Prodej bytu 2+kk,4680000,51,2+kk,"Bezručova, Otrokovice - Otrokovice, Zlínský kraj",49.2026813,17.5352,0,0,0,2,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,1004962,Prodej bytu 2+kk,10500000,62,2+kk,"Sochorova, Brno - Žabovřesky, Jihomoravský kraj",49.2133235,16.5656205,1,0,0,2,velmi dobry,vybaveny,osobni
+bezrealitky,1004943,Prodej bytu 3+1,4000000,69,3+1,"Václava Košaře, Ostrava - Dubina u Ostravy, Moravskoslezský kraj",49.775094,18.2578711,0,0,0,2,spatny,nevybaveny,druzstevni
+bezrealitky,1003143,Prodej bytu 4+kk,8700000,115,4+kk,"Malá Hraštice - Malá Hraštice, Středočeský kraj",49.8102038,14.2701708,0,0,1,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,994817,Prodej bytu 1+kk,6435000,38,1+kk,"Boloňská, Praha - Horní Měcholupy",50.0485627,14.5593618,1,0,0,6,novostavba,castecne vybaveny,osobni
+bezrealitky,1004559,Prodej bytu 3+kk,8990000,65,3+kk,"Jaromírova, Praha - Nusle",50.0651719,14.4299354,0,0,0,1,dobry,castecne vybaveny,osobni
+bezrealitky,1000548,Prodej bytu 2+kk,6180000,40,2+kk,"Makovského, Praha - Řepy",50.0632765,14.3107686,1,0,0,11,velmi dobry,castecne vybaveny,osobni
+bezrealitky,993459,Prodej bytu 3+kk,11690000,81,3+kk,"Ohradní, Praha - Michle",50.0507207,14.4523363,1,0,1,7,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,708384,Prodej bytu 3+kk,13900000,90,3+kk,"Údolní, Brno - Veveří, Jihomoravský kraj",49.1985063,16.5909764,1,0,0,5,novostavba,,osobni
+bezrealitky,1004475,Prodej bytu 3+1,4950000,79,3+1,"Štefánikova, Zlín - Zlín, Zlínský kraj",49.2247799,17.677219,0,0,1,1,pred rekonstrukci,nevybaveny,osobni
+bezrealitky,1004560,Prodej bytu 2+1,3690000,47,2+1,"Masarykova, Nové Město na Moravě - Nové Město na Moravě, Kraj Vysočina",49.5640675,16.0785338,1,0,0,4,velmi dobry,nevybaveny,druzstevni
+bezrealitky,1004493,Prodej bytu 2+kk,4489200,42,2+kk,"Nad Stadionem, Králův Dvůr - Králův Dvůr, Středočeský kraj",49.9451354,14.0258141,0,0,0,4,spatny,vybaveny,osobni
+bezrealitky,1004530,Prodej bytu 3+1,3500000,64,3+1,"Výškovická, Ostrava - Zábřeh nad Odrou, Moravskoslezský kraj",49.79482775,18.232179,1,0,1,7,pred rekonstrukci,vybaveny,osobni
+bezrealitky,1004205,Prodej bytu 3+1,4900000,71,3+1,"Baarova, Litoměřice - Litoměřice, Ústecký kraj",50.5382963,14.1404728,0,0,1,1,velmi dobry,nevybaveny,osobni
+bezrealitky,1002387,Prodej bytu 2+kk,7990000,44,2+kk,"Vlastina, Praha - Ruzyně",50.0893611,14.3080773,1,0,0,4,novostavba,,osobni
+bezrealitky,1003196,Prodej bytu 2+kk,8984000,107,2+kk,"Milana Ticháka, Olomouc - Nová Ulice, Olomoucký kraj",49.5807702,17.2199621,1,0,1,2,novostavba,castecne vybaveny,osobni
+bezrealitky,991687,Prodej bytu 4+kk,20800000,132,4+kk,"Sokolovská, Praha - Vysočany",50.1100514,14.4978025,1,0,1,1,after_partial_reconstruction,castecne vybaveny,osobni
+bezrealitky,998984,Prodej bytu 1+1,6490000,45,1+1,"Katovická, Praha - Bohnice",50.1315759,14.4258976,1,0,1,4,after_partial_reconstruction,castecne vybaveny,osobni
+bezrealitky,1004207,Prodej bytu 3+1,6990000,80,3+1,"Kupkova, Břeclav - Břeclav, Jihomoravský kraj",48.763903,16.8843191,0,0,0,1,velmi dobry,vybaveny,osobni
+bezrealitky,1004229,Prodej bytu 4+kk,11290000,80,4+kk,"Emilie Hyblerové, Praha - Háje",50.0331558,14.5266554,1,0,0,2,velmi dobry,,osobni
+bezrealitky,982395,Prodej bytu 3+kk,7990000,75,3+kk,"Peškova, Olomouc - Povel, Olomoucký kraj",49.5709133,17.2530341,1,0,1,1,velmi dobry,vybaveny,osobni
+bezrealitky,1002822,Prodej bytu 4+kk,4490000,107,4+kk,"náměstí Míru, Svitavy - Svitavy-předměstí, Pardubický kraj",49.7553162,16.4713511,0,0,0,2,velmi dobry,nevybaveny,osobni
+bezrealitky,993702,Prodej bytu 3+kk,5300000,81,3+kk,"Okružní, Žďár nad Sázavou - Město Žďár, Kraj Vysočina",49.5657991,15.9240461,0,0,1,1,velmi dobry,castecne vybaveny,
+bezrealitky,1004195,Prodej bytu 3+kk,13995860,83,3+kk,"Kytlická, Praha - Prosek",50.1267779,14.5050594,1,0,1,3,velmi dobry,vybaveny,osobni
+bezrealitky,977957,Prodej bytu 3+1,4200000,84,3+1,"17. listopadu, Louny - Louny, Ústecký kraj",50.3574374,13.7842017,1,0,0,2,po rekonstrukci,castecne vybaveny,druzstevni
+bezrealitky,1004186,Prodej bytu 3+kk,5690000,69,3+kk,"třída Svobody, Zlín - Malenovice u Zlína, Zlínský kraj",49.2051541,17.5852363,0,0,1,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1004176,Prodej bytu 2+1,5490000,55,2+1,"Nejedlého, Sezemice - Sezemice nad Loučnou, Pardubický kraj",50.0688737,15.8497324,0,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1002301,Prodej bytu 2+kk,8900000,59,2+kk,"V Dolině, Praha - Michle",50.0576089,14.4687153,1,0,1,2,velmi dobry,,osobni
+bezrealitky,1004194,Prodej bytu 1+1,3268000,40,1+1,"Moravská, Rožnov pod Radhoštěm - Rožnov pod Radhoštěm, Zlínský kraj",49.4649551,18.1253738,1,0,0,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1002275,Prodej bytu 1+1,7280000,50,1+1,"Prvního pluku, Praha - Karlín",50.0909007,14.4428604,0,0,0,1,velmi dobry,castecne vybaveny,druzstevni
+bezrealitky,992781,Prodej bytu 1+kk,2190000,26,1+kk,"Celní, Nové Město pod Smrkem - Nové Město pod Smrkem, Liberecký kraj",50.923751,15.2521378,1,0,1,1,novostavba,nevybaveny,osobni
+bezrealitky,1002274,Prodej bytu 2+kk,8925280,46,2+kk,"Thomasova, Praha - Třebonice",50.047665,14.299330894958,1,0,1,3,novostavba,castecne vybaveny,druzstevni
+bezrealitky,1003966,Prodej bytu 1+1,2590000,41,1+1,"U Nemocnice, Česká Lípa - Česká Lípa, Liberecký kraj",50.6879461,14.5493375,1,0,1,5,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1003972,Prodej bytu 2+1,3100000,65,2+1,"9. května, Lužná - Lužná u Rakovníka, Středočeský kraj",50.144186010963,13.771198847229,0,0,1,1,velmi dobry,castecne vybaveny,druzstevni
+bezrealitky,992768,Prodej bytu 3+1,3590000,68,3+1,"Křivsoudov - Křivsoudov, Středočeský kraj",49.6302688,15.082955,0,0,1,1,pred rekonstrukci,nevybaveny,osobni
+bezrealitky,555300,Prodej bytu 2+kk,9300000,88,2+kk,"Hrnčířská, Brno - Ponava, Jihomoravský kraj",49.2103261,16.6012937,1,1,0,3,dobry,castecne vybaveny,osobni
+bezrealitky,987040,Prodej bytu 2+1,4790000,60,2+1,"Brněnská, Olomouc - Nová Ulice, Olomoucký kraj",49.5790259,17.2383877,1,1,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,996129,Prodej bytu 4+1,8780000,125,4+1,"Pražská, Lety - Lety u Dobřichovic, Středočeský kraj",49.9198395,14.2490665,0,0,1,2,dobry,castecne vybaveny,osobni
+bezrealitky,1003660,Prodej bytu 1+1,3290000,27,1+1,"Thámova, Plzeň - Plzeň, Plzeňský kraj",49.7384091,13.3674131,1,0,0,6,dobry,castecne vybaveny,osobni
+bezrealitky,992429,Prodej bytu 2+kk,7829999,51,2+kk,"Záhoří, Kuřim - Kuřim, Jihomoravský kraj",49.307155,16.5467071,0,0,1,5,novostavba,castecne vybaveny,osobni
+bezrealitky,1001983,Prodej bytu 2+1,3450000,57,2+1,"Horní, Ostrava - Hrabůvka, Moravskoslezský kraj",49.7908261,18.2507331,0,0,1,3,velmi dobry,,druzstevni
+bezrealitky,880767,Prodej bytu 2+1,4200000,54,2+1,"Zahradní čtvrť, Luhačovice - Luhačovice, Zlínský kraj",49.0922951,17.738695,0,0,0,4,velmi dobry,vybaveny,osobni
+bezrealitky,1003631,Prodej bytu 1+kk,1999000,33,1+kk,"Mládeže, Zruč nad Sázavou - Zruč nad Sázavou, Středočeský kraj",49.7428728,15.0907571,0,0,1,1,dobry,,osobni
+bezrealitky,1001571,Prodej bytu 1+1,4920000,32,1+1,"Pražského, Praha - Hlubočepy",50.0364074,14.3833733,1,0,1,4,after_partial_reconstruction,castecne vybaveny,osobni
+bezrealitky,1003635,Prodej bytu 3+kk,7850000,65,3+kk,"Ke Kateřinkám, Praha - Chodov",50.0236712,14.5152288,0,0,1,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1003633,Prodej bytu 2+kk,9500000,60,2+kk,"Devonská, Praha - Hlubočepy",50.0347661,14.3885946,1,0,1,5,novostavba,vybaveny,osobni
+bezrealitky,992374,Prodej bytu 2+kk,8999123,85,2+kk,"V Zahradách, Beroun - Beroun, Středočeský kraj",49.9671409,14.0721231,1,0,1,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1001880,Prodej bytu 4+1,11330000,110,4+1,"Na Valech, Poděbrady - Poděbrady, Středočeský kraj",50.1436238,15.1173802,0,0,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1001298,Prodej bytu 3+1,6490000,77,3+1,"Havlíčkova, Mladá Boleslav - Mladá Boleslav, Středočeský kraj",50.4293573,14.9123494,1,0,0,6,velmi dobry,vybaveny,osobni
+bezrealitky,996568,Prodej bytu 4+kk,7195000,69,4+kk,"Kosmonautů, Pardubice - Pardubice, Pardubický kraj",50.0481004,15.7630269,1,0,1,5,velmi dobry,castecne vybaveny,osobni
+bezrealitky,1003204,Prodej bytu 2+1,3749000,41,2+1,"Bezová, Liberec - Nové Pavlovice, Liberecký kraj",50.7821225,15.0554983,0,0,0,9,velmi dobry,castecne vybaveny,osobni
+bezrealitky,951479,Prodej bytu 2+kk,14600000,79,2+kk,"Wenzigova, Praha - Nové Město",50.0708248,14.4315621,1,0,0,6,velmi dobry,vybaveny,osobni
+bezrealitky,990201,Prodej bytu 4+1,18490000,143,4+1,"Pod Harfou, Praha - Vysočany",50.1039826,14.5116595,1,0,1,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,982214,Prodej bytu 2+kk,10500000,50,2+kk,"U Komína, Praha - Radlice",50.055626,14.3827695,1,0,1,3,novostavba,castecne vybaveny,osobni
+bezrealitky,998273,Prodej bytu 3+kk,19950000,88,3+kk,"Hodonínská, Praha - Michle",50.0459982,14.460330420425,1,0,1,2,novostavba,,
+bezrealitky,923077,Prodej bytu 2+1,8500000,64,2+1,"28. pluku, Praha - Vršovice",50.0720324,14.4694894,1,0,0,5,dobry,vybaveny,druzstevni
+bezrealitky,1000544,Prodej bytu 2+1,5200000,56,2+1,"Skupova, Plzeň - Plzeň, Plzeňský kraj",49.7221146,13.3738348,1,0,1,6,velmi dobry,nevybaveny,osobni
+bezrealitky,991441,Prodej bytu 2+1,5280000,66,2+1,"Na Bezděkově, Benešov - Benešov u Prahy, Středočeský kraj",49.7828554,14.6920701,1,0,1,1,velmi dobry,nevybaveny,osobni
+bezrealitky,1000169,Prodej bytu 4+kk,22985400,96,4+kk,"Krásova, Praha - Žižkov",50.0845857,14.4465376,1,0,1,3,novostavba,vybaveny,osobni
+bezrealitky,978788,Prodej bytu 2+kk,2870000,53,2+kk,"Kotkova, Dvůr Králové nad Labem - Dvůr Králové nad Labem, Královéhradecký kraj",50.4364136,15.8162789,0,0,0,3,dobry,nevybaveny,osobni
+bezrealitky,962173,Prodej bytu 3+1,7200000,69,3+1,"Vodárenská, Kladno - Kročehlavy, Středočeský kraj",50.1322477,14.1129724,0,0,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,923386,Prodej bytu 3+kk,11290000,114,3+kk,"Pod Lesíkem, Praha - Dolní Měcholupy",50.0539872,14.561767,0,0,1,1,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,964417,Prodej bytu 2+kk,11250000,80,2+kk,"U Mlýnského kanálu, Praha - Karlín",50.0955858,14.4504141,1,0,0,1,novostavba,vybaveny,osobni
+bezrealitky,992088,Prodej bytu ,15490000,156,,"Hlubočepská, Praha - Hlubočepy",50.0416732,14.3950269,0,0,0,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,994807,Prodej bytu 2+kk,7250000,63,2+kk,"Na Okruhu, Jesenice - Jesenice u Prahy, Středočeský kraj",49.970139,14.5034485,0,0,1,4,novostavba,castecne vybaveny,osobni
+bezrealitky,999289,Prodej bytu 3+kk,21490000,134,3+kk,"Kobrova, Praha - Smíchov",50.0738122,14.3967718,0,0,1,1,novostavba,vybaveny,osobni
+bezrealitky,989919,Prodej bytu 3+kk,8999000,58,3+kk,"Na Padesátém, Praha - Strašnice",50.0645258,14.5056682,0,0,0,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,999310,Prodej bytu 2+kk,6390000,68,2+kk,"F. V. Mareše, Benešov - Benešov u Prahy, Středočeský kraj",49.7819563,14.6902912,0,0,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,997931,Prodej bytu 3+1,5699900,72,3+1,"Pod Vrchem, Mělník - Mělník, Středočeský kraj",50.3555051,14.477549,1,0,1,5,after_partial_reconstruction,,druzstevni
+bezrealitky,992075,Prodej bytu 4+kk,7890000,112,4+kk,"J. Š. Baara, České Budějovice - České Budějovice 3, Jihočeský kraj",48.9791254,14.4786853,0,0,0,3,dobry,castecne vybaveny,osobni
+bezrealitky,997031,Prodej bytu 1+1,3350000,36,1+1,"Družební, Olomouc - Nové Sady u Olomouce, Olomoucký kraj",49.5757311,17.2498821,1,0,1,1,dobry,,osobni
+bezrealitky,998327,Prodej bytu 3+kk,10500000,64,3+kk,"Sazovická, Praha - Zličín",50.0565682,14.284483,1,0,1,2,novostavba,castecne vybaveny,osobni
+bezrealitky,945799,Prodej bytu ,4215000,65,,"Jakubská, Jindřichův Hradec - Jindřichův Hradec, Jihočeský kraj",49.1445359,14.9931992,0,0,1,2,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,710436,Prodej bytu 2+kk,8480000,50,2+kk,"Na vysočanských vinicích, Praha - Vysočany",50.1156696,14.5095275,1,1,1,1,novostavba,castecne vybaveny,osobni
+bezrealitky,1000182,Prodej bytu 2+1,6200000,62,2+1,"Absolonova, Brno - Komín, Jihomoravský kraj",49.2200882,16.5564958,0,0,1,6,pred rekonstrukci,nevybaveny,osobni
+bezrealitky,998898,Prodej bytu 1+kk,590000,15,1+kk,"Karlovarská, Řevničov - Řevničov, Středočeský kraj",50.1815342,13.7994035,0,0,0,1,novostavba,castecne vybaveny,osobni
+bezrealitky,996171,Prodej bytu 2+kk,5657000,45,2+kk,"Tomanova, Slaný - Slaný, Středočeský kraj",50.2332148,14.06980709433,1,0,1,3,velmi dobry,castecne vybaveny,
+bezrealitky,993680,Prodej bytu 2+1,8790000,53,2+1,"Na Malovance, Praha - Střešovice",50.0872366,14.3817438,1,0,0,2,velmi dobry,,osobni
+bezrealitky,876467,Prodej bytu 3+kk,6490000,94,3+kk,"Ostrava - Krásné Pole, Moravskoslezský kraj",49.8354814,18.121471544402,0,1,1,1,velmi dobry,,osobni
+bezrealitky,953023,Prodej bytu 3+1,4200000,64,3+1,"Taussigova, Praha - Kobylisy",50.1286915,14.47265,1,0,1,10,velmi dobry,vybaveny,osobni
+bezrealitky,997878,Prodej bytu 1+kk,6290000,32,1+kk,"Poděbradská, Praha - Vysočany",50.1029151,14.519161045813,1,0,0,4,novostavba,castecne vybaveny,osobni
+bezrealitky,977422,Prodej bytu 3+1,5550000,75,3+1,"Husova, Náměšť nad Oslavou - Náměšť nad Oslavou, Kraj Vysočina",49.2110093,16.1466586,0,0,1,2,velmi dobry,vybaveny,osobni
+bezrealitky,977416,Prodej bytu 1+1,3849999,38,1+1,"Zámecký vrch, Liberec - Vratislavice nad Nisou, Liberecký kraj",50.7444469,15.0965057,1,0,0,1,velmi dobry,,osobni
+bezrealitky,959535,Prodej bytu 4+kk,12950000,130,4+kk,"Slámova, Brno - Černovice, Jihomoravský kraj",49.1876809,16.6388969,0,0,1,1,novostavba,nevybaveny,osobni
+bezrealitky,975703,Prodej bytu 2+kk,8300000,65,2+kk,"Petržílkova, Praha - Stodůlky",50.0498987,14.3396743,1,0,1,1,velmi dobry,,osobni
+bezrealitky,995833,Prodej bytu 2+kk,8250000,44,2+kk,"Jičínská, Praha - Žižkov",50.0815695,14.4593925,1,0,0,5,velmi dobry,,osobni
+bezrealitky,998693,Prodej bytu 3+1,11250000,68,3+1,"Dubečská, Praha - Strašnice",50.0694529,14.4989731,0,0,1,5,velmi dobry,castecne vybaveny,osobni
+bezrealitky,945102,Prodej bytu 3+kk,9949000,84,3+kk,"Kosmákova, Šlapanice - Šlapanice u Brna, Jihomoravský kraj",49.1622841,16.7320477,0,0,1,1,velmi dobry,,osobni
+bezrealitky,951401,Prodej bytu 3+1,3749000,67,3+1,"Pod Skalkou, Přerov - Předmostí, Olomoucký kraj",49.467435,17.4353936,1,0,0,2,pred rekonstrukci,vybaveny,osobni
+bezrealitky,996480,Prodej bytu 3+1,14300000,86,3+1,"Františka Křížka, Praha - Holešovice",50.1000513,14.4301491,1,0,0,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,996972,Prodej bytu 4+1,39980000,132,4+1,"Masarykovo nábřeží, Praha - Nové Město",50.077626,14.4144828,1,0,0,4,dobry,castecne vybaveny,osobni
+bezrealitky,995850,Prodej bytu 2+1,5400000,61,2+1,"Štefánikova, Hradec Králové - Třebeš, Královéhradecký kraj",50.1859739,15.8336913,1,0,0,2,velmi dobry,nevybaveny,osobni
+bezrealitky,994052,Prodej bytu 2+1,8400000,68,2+1,"Vnoučkova, Praha - Kamýk",50.0135495,14.4359923,1,0,1,6,velmi dobry,castecne vybaveny,osobni
+bezrealitky,938157,Prodej bytu 1+1,4999000,49,1+1,"Seifertova, Praha - Žižkov",50.0843805,14.4517541,0,0,0,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,996185,Prodej bytu 2+kk,5490000,40,2+kk,"Blattného, Praha - Stodůlky",50.0532912,14.343661,0,0,0,8,spatny,nevybaveny,osobni
+bezrealitky,995832,Prodej bytu 1+kk,6655900,27,1+kk,"Ramonova, Praha - Strašnice",50.0796156,14.4841436,0,0,0,1,novostavba,vybaveny,osobni
+bezrealitky,670609,Prodej bytu 3+kk,8870000,72,3+kk,"Cyprichova, Praha - Háje",50.02859,14.52907,1,1,1,5,velmi dobry,castecne vybaveny,osobni
+bezrealitky,987866,Prodej bytu ,175000,82,,"Školská, Považská Bystrica - Považská Bystrica, Trenčiansky kraj",49.12010535,18.435407306662,1,0,1,1,dobry,castecne vybaveny,osobni
+bezrealitky,990218,Prodej bytu 2+kk,4950000,61,2+kk,"Velvary - Velvary, Středočeský kraj",50.2818926,14.2378855,0,0,1,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,981957,Prodej bytu 1+kk,6400000,34,1+kk,"Poděbradská, Praha - Vysočany",50.1026895,14.508437,1,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,995826,Prodej bytu 3+kk,6800000,88,3+kk,"Antonína Dvořáka, Jablonec nad Nisou - Jablonec nad Nisou, Liberecký kraj",50.7307326,15.168145,0,0,1,1,po rekonstrukci,castecne vybaveny,osobni
+bezrealitky,922359,Prodej bytu 2+kk,12100000,50,2+kk,"Mánesova, Praha - Vinohrady",50.0793596,14.4348866,1,0,0,4,velmi dobry,vybaveny,osobni
+bezrealitky,992765,Prodej bytu 1+kk,5830000,37,1+kk,"Prouzova, Praha - Vysočany",50.1105589,14.5040985,0,0,1,4,after_partial_reconstruction,castecne vybaveny,druzstevni
+bezrealitky,997398,Prodej bytu 1+kk,5590000,32,1+kk,"Poříčí, Brno - Pisárky, Jihomoravský kraj",49.1854425,16.5865126,1,0,1,1,novostavba,castecne vybaveny,osobni
+bezrealitky,989433,Prodej bytu 3+1,4888888,67,3+1,"Rašínova, Písek - Písek, Jihočeský kraj",49.3071549,14.1578472,0,0,1,2,velmi dobry,vybaveny,osobni
+bezrealitky,995199,Prodej bytu 3+1,4500000,56,3+1,"Francouzská, Ostrava - Poruba, Moravskoslezský kraj",49.82289995,18.182416238278,1,0,1,6,velmi dobry,castecne vybaveny,osobni
+bezrealitky,871494,Prodej bytu 2+kk,4990000,48,2+kk,"Nová, Kouřim - Kouřim, Středočeský kraj",50.00312255,14.96860935317,0,0,1,1,construction,nevybaveny,osobni
+bezrealitky,950717,Prodej bytu 3+kk,15300000,85,3+kk,"Petrská, Praha - Nové Město",50.0911481,14.4324872,1,0,0,2,velmi dobry,vybaveny,osobni
+bezrealitky,871193,Prodej bytu 3+1,8990000,75,3+1,"Přecechtělova, Praha - Stodůlky",50.0373633,14.3425788,1,0,0,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,976077,Prodej bytu 2+kk,7190000,44,2+kk,"Nad Přehradou, Praha - Horní Měcholupy",50.043135,14.5529295,1,0,1,6,po rekonstrukci,nevybaveny,osobni
+bezrealitky,988180,Prodej bytu 2+kk,12200000,58,2+kk,"Kloudova, Praha - Jinonice",50.0580266,14.371537,1,0,1,3,velmi dobry,,osobni
+bezrealitky,994374,Prodej bytu 2+1,9568200,66,2+1,"Harmonická, Praha - Stodůlky",50.0513869,14.3296923,1,0,0,1,velmi dobry,vybaveny,osobni
+bezrealitky,994376,Prodej bytu 3+1,11000000,81,3+1,"Volutová, Praha - Stodůlky",50.050274,14.338419380808,1,0,1,7,velmi dobry,,osobni
+bezrealitky,952138,Prodej bytu 2+1,3150000,49,2+1,"Kubelíkova, Mariánské Lázně - Úšovice, Karlovarský kraj",49.9477483,12.70758,0,0,1,2,velmi dobry,nevybaveny,osobni
+bezrealitky,984542,Prodej bytu 3+kk,7749000,68,3+kk,"Letecká, Libčice nad Vltavou - Letky, Středočeský kraj",50.1931563,14.3706613,0,0,1,1,po rekonstrukci,nevybaveny,osobni
+bezrealitky,971614,Prodej bytu 1+1,3695500,36,1+1,"Nová Pec - Nová Pec, Jihočeský kraj",48.7904482,13.9496418,0,0,1,1,velmi dobry,,osobni
+bezrealitky,966860,Prodej bytu 3+1,5790000,70,3+1,"Kamenný Přívoz - Hostěradice, Středočeský kraj",49.8608345,14.4899896,0,0,1,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,953102,Prodej bytu 2+1,4500000,64,2+1,"U Koupaliště, Karlovy Vary - Rybáře, Karlovarský kraj",50.23755325,12.851426962509,1,0,1,7,po rekonstrukci,vybaveny,osobni
+bezrealitky,957884,Prodej bytu 3+kk,5900000,78,3+kk,"Mladějovského, Mariánské Lázně - Mariánské Lázně, Karlovarský kraj",49.9758341,12.7003208,0,0,1,2,velmi dobry,castecne vybaveny,osobni
+bezrealitky,995475,Prodej bytu 2+kk,6300000,48,2+kk,"Trytova, Praha - Černý Most",50.1067234,14.5639581,1,0,0,1,velmi dobry,,osobni
+bezrealitky,964026,Prodej bytu 4+kk,20322200,111,4+kk,"Přemyslovská, Praha - Vinohrady",50.0782648,14.4561901,1,0,0,3,po rekonstrukci,nevybaveny,osobni
+bezrealitky,968150,Prodej bytu 4+kk,20840500,112,4+kk,"Přemyslovská, Praha - Vinohrady",50.0782648,14.4561901,1,0,0,5,po rekonstrukci,nevybaveny,osobni
+bezrealitky,936206,Prodej bytu 2+kk,10242000,45,2+kk,"Blanická, Praha - Vinohrady",50.076923,14.4390455,1,1,0,2,po rekonstrukci,nevybaveny,osobni
+bezrealitky,982425,Prodej bytu 1+1,1919000,38,1+1,"Čsl. armády, Karviná - Karviná-město, Moravskoslezský kraj",49.8700613,18.5511913,1,0,1,1,velmi dobry,nevybaveny,osobni
+bezrealitky,973792,Prodej bytu 2+1,4950000,58,2+1,"Jílová, Olomouc - Neředín, Olomoucký kraj",49.5893284,17.2277577,1,0,0,1,dobry,castecne vybaveny,osobni
+bezrealitky,954105,Prodej bytu 3+1,5550000,85,3+1,"Matoušova, Liberec - Liberec, Liberecký kraj",50.7643587,15.0478008,0,0,1,1,velmi dobry,castecne vybaveny,osobni
+bezrealitky,975106,Prodej bytu 3+kk,7110000,90,3+kk,"Tehov - Tehov, Středočeský kraj",49.7344057,14.9679697,0,0,0,1,novostavba,castecne vybaveny,osobni
+bezrealitky,992777,Prodej bytu 2+kk,10200000,57,2+kk,"Nad Šestikopy, Praha - Prosek",50.1176025,14.496131,1,0,1,3,velmi dobry,castecne vybaveny,osobni
+bezrealitky,994024,Prodej bytu 3+kk,8800000,68,3+kk,"Jetelová, Praha - Záběhlice",50.0579204,14.4943828,1,0,0,5,velmi dobry,vybaveny,osobni
+bezrealitky,971573,Prodej bytu 3+1,4350000,78,3+1,"Výškovická, Ostrava - Výškovice u Ostravy, Moravskoslezský kraj",49.7808238,18.2219838,0,0,1,1,dobry,castecne vybaveny,osobni
+bezrealitky,968151,Prodej bytu 3+1,19601800,112,3+1,"Přemyslovská, Praha - Vinohrady",50.0782648,14.4561901,1,0,0,4,velmi dobry,,osobni
