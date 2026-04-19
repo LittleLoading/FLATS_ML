@@ -1,0 +1,48 @@
+
+overpass-turbo.eu
+
+
+query:
+
+[out:json][timeout:120];
+(
+  node["highway"="bus_stop"](48.55,12.09,51.06,18.87);
+  node["railway"="tram_stop"](48.55,12.09,51.06,18.87);
+);
+out center;
+
+[out:json][timeout:120];
+(
+  node["railway"="station"](48.55,12.09,51.06,18.87);
+  way["railway"="station"](48.55,12.09,51.06,18.87);
+);
+out center;
+
+[out:json][timeout:120];
+(
+  node["amenity"="school"](48.55,12.09,51.06,18.87);
+  way["amenity"="school"](48.55,12.09,51.06,18.87);
+);
+out center;
+
+
+[out:json][timeout:120];
+(
+  node["amenity"="kindergarten"](48.55,12.09,51.06,18.87);
+  way["amenity"="kindergarten"](48.55,12.09,51.06,18.87);
+);
+out center;
+
+[out:json][timeout:120];
+(
+  node["shop"="supermarket"](48.55,12.09,51.06,18.87);
+  node["shop"="convenience"](48.55,12.09,51.06,18.87);
+);
+out center;
+
+[out:json][timeout:120];
+(
+  node["amenity"="hospital"](48.55,12.09,51.06,18.87);
+  node["amenity"="doctors"](48.55,12.09,51.06,18.87);
+);
+out center;
