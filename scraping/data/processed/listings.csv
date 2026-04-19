@@ -1,0 +1,1979 @@
+source,price,area_m2,flat_rooms,has_kk,has_lift,has_balcony,has_parking,floor,condition,furnished,ownership,locality,lat,lon
+sreality,8700000,70,3,0,1,1,0,8,velmi dobre,vybavene,osobni,Praha 9,50.114189,14.485124
+sreality,11890000,107,4,0,0,1,0,1,velmi dobre,vybavene,osobni,Brno,49.172001,16.528475
+sreality,13138000,70,3,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha,50.077267,14.425838
+sreality,12172000,58,2,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha,50.077267,14.425838
+sreality,9390000,78,3,1,1,1,0,6,velmi dobre,vybavene,osobni,Praha,50.063831,14.303275
+sreality,5890000,38,1,1,1,1,1,5,novostavba,vybavene,osobni,Brno,49.199638,16.620007
+sreality,18900000,96,3,0,1,1,0,5,velmi dobre,vybavene,osobni,Praha 3,50.083855,14.446884
+sreality,11349000,64,2,1,1,1,0,3,novostavba,vybavene,osobni,Praha,50.039669,14.435565
+sreality,9490000,68,2,0,0,0,0,3,dobre,vybavene,osobni,Praha 3,50.085194,14.450959
+sreality,22900000,114,4,1,1,1,1,1,novostavba,vybavene,osobni,Praha 3,50.082798,14.466343
+sreality,3080000,62,3,0,0,0,1,3,velmi dobre,vybavene,osobni,Liberec,50.939022,15.127942
+sreality,5699000,70,3,0,0,1,0,4,velmi dobre,vybavene,osobni,Olomouc,49.582123,17.255695
+sreality,8499500,50,2,1,1,0,0,1,velmi dobre,vybavene,osobni,Praha 8,50.115421,14.473253
+sreality,10990000,83,3,1,1,1,1,2,novostavba,vybavene,osobni,Praha 4,50.025684,14.527186
+sreality,12490000,106,3,1,0,1,1,2,velmi dobre,vybavene,osobni,Praha 10,50.051807,14.526802
+sreality,6990000,40,2,1,1,0,0,3,velmi dobre,vybavene,osobni,Praha 8,50.115421,14.473253
+sreality,32038880,111,4,1,1,1,1,6,novostavba,vybavene,osobni,Praha 5,50.067234,14.405532
+sreality,7290000,58,2,0,0,0,0,1,dobre,vybavene,osobni,Brno,49.204964,16.678133
+sreality,14100000,74,3,1,1,0,0,5,velmi dobre,vybavene,osobni,Praha 5,50.076477,14.407201
+sreality,9490000,43,2,1,1,1,0,1,velmi dobre,vybavene,osobni,Praha 10,50.070652,14.449091
+sreality,14700000,70,2,1,1,1,1,8,novostavba,vybavene,osobni,Praha 3,50.084858,14.469376
+sreality,9100000,97,4,0,0,1,0,2,dobre,vybavene,osobni,Praha,50.10453,14.580214
+sreality,10799000,71,3,1,1,1,1,5,dobre,vybavene,osobni,Praha 3,50.089382,14.488245
+sreality,11099000,66,3,1,0,0,0,4,velmi dobre,vybavene,osobni,Praha 10,50.063641,14.473661
+sreality,10000000,81,4,1,1,1,0,2,velmi dobre,vybavene,osobni,Český Krumlov,48.647099,14.2211
+sreality,6490000,37,1,0,1,0,1,2,velmi dobre,vybavene,osobni,Praha 4,50.013508,14.399951
+sreality,23627360,99,4,1,1,1,1,5,novostavba,vybavene,osobni,Praha 5,50.067234,14.405532
+sreality,39900000,160,4,1,1,1,0,7,velmi dobre,vybavene,osobni,Praha,50.085236,14.427776
+sreality,8950000,71,3,1,0,1,0,4,dobre,vybavene,osobni,Praha 9,50.141403,14.514033
+sreality,10400000,53,2,1,1,1,1,1,novostavba,vybavene,osobni,Praha 4,50.056118,14.466799
+sreality,65817960,246,5,1,1,1,1,7,novostavba,vybavene,osobni,Praha 5,50.067234,14.405532
+sreality,7450000,55,3,0,0,1,0,2,velmi dobre,vybavene,osobni,Praha 9,50.122528,14.490907
+sreality,7200000,83,4,0,1,1,0,4,velmi dobre,vybavene,osobni,Plzeň,49.760647,13.355912
+sreality,15900000,117,3,0,1,1,1,4,velmi dobre,vybavene,osobni,Praha 4,50.021126,14.488849
+sreality,7250000,51,2,1,1,1,0,2,novostavba,vybavene,osobni,Praha,50.001194,14.342615
+sreality,13800000,66,3,1,1,0,0,4,velmi dobre,vybavene,osobni,Praha 5,50.071476,14.408781
+sreality,12318349,71,3,1,1,1,1,4,novostavba,vybavene,osobni,Praha 9,50.153309,14.528756
+sreality,12490000,56,2,1,1,0,0,6,novostavba,vybavene,osobni,Praha 8,50.090775,14.452274
+sreality,13490000,62,2,1,1,0,0,6,novostavba,vybavene,osobni,Praha 8,50.090775,14.452274
+sreality,7932389,42,2,1,1,1,1,2,novostavba,vybavene,osobni,Praha 10,50.055046,14.516415
+sreality,20043000,79,2,0,1,0,0,3,velmi dobre,vybavene,osobni,Praha 1,50.086048,14.418432
+sreality,5850000,37,1,1,1,1,0,2,dobre,vybavene,osobni,Praha 10,50.048801,14.560286
+sreality,5390000,55,3,1,0,0,1,2,velmi dobre,vybavene,osobni,Liberec,50.767399,15.088365
+sreality,6690000,39,1,1,0,1,0,3,velmi dobre,vybavene,osobni,Praha,50.093254,14.513268
+sreality,19456900,106,4,1,1,1,1,4,novostavba,vybavene,osobni,Praha 8,50.140678,14.445428
+sreality,12897900,82,3,1,1,1,1,2,novostavba,vybavene,osobni,Praha 8,50.140678,14.445428
+sreality,13763900,82,3,1,1,1,1,1,novostavba,vybavene,osobni,Praha 8,50.140678,14.445428
+sreality,9249900,57,2,1,1,1,1,2,novostavba,vybavene,osobni,Praha 8,50.140678,14.445428
+sreality,8019900,42,2,1,1,1,1,1,novostavba,vybavene,osobni,Praha 8,50.140678,14.445428
+sreality,5979900,28,1,1,1,1,1,3,novostavba,vybavene,osobni,Praha 8,50.140678,14.445428
+sreality,23989900,118,4,1,1,1,1,4,novostavba,vybavene,osobni,Praha 8,50.140007,14.447172
+sreality,17033900,101,4,1,1,1,1,1,novostavba,vybavene,osobni,Praha 8,50.140007,14.447172
+sreality,14433900,90,3,1,1,1,1,1,novostavba,vybavene,osobni,Praha 8,50.140007,14.447172
+sreality,12449900,78,3,1,1,1,1,3,novostavba,vybavene,osobni,Praha 8,50.140007,14.447172
+sreality,10840900,53,2,1,1,1,1,1,novostavba,vybavene,osobni,Praha 8,50.140007,14.447172
+sreality,8300000,53,2,1,1,1,1,3,novostavba,vybavene,osobni,Praha 8,50.140007,14.447172
+sreality,8300000,52,2,1,1,1,1,2,novostavba,vybavene,osobni,Praha 8,50.140007,14.447172
+sreality,7999000,48,2,1,0,0,0,2,velmi dobre,vybavene,osobni,Praha 4,50.03767,14.483971
+sreality,15890000,54,2,1,1,1,0,2,velmi dobre,vybavene,osobni,Praha 1,50.087452,14.398458
+sreality,16399005,139,5,1,0,1,1,1,novostavba,vybavene,osobni,Praha,50.178234,14.478748
+sreality,10490000,52,2,1,1,1,1,6,novostavba,vybavene,osobni,Praha 9,50.103771,14.520177
+sreality,7950000,55,2,1,1,1,0,1,velmi dobre,vybavene,osobni,Brno,49.190563,16.604223
+sreality,6900000,30,1,0,1,0,0,3,dobre,vybavene,osobni,Praha 3,50.08802,14.459814
+sreality,15999000,89,2,0,1,0,0,2,velmi dobre,vybavene,osobni,Praha 1,50.07914,14.42746
+sreality,3700000,39,1,1,1,0,0,6,dobre,vybavene,osobni,Plzeň,49.742882,13.382987
+sreality,6350000,76,3,0,1,0,0,7,velmi dobre,vybavene,osobni,Plzeň,49.721355,13.377415
+sreality,57992960,210,5,1,1,1,1,7,novostavba,vybavene,osobni,Praha 5,50.067234,14.405532
+sreality,8500000,55,2,1,1,0,0,1,velmi dobre,vybavene,osobni,Praha 9,50.128319,14.500674
+sreality,5990000,82,3,0,0,0,0,2,velmi dobre,vybavene,osobni,Plzeň,49.748219,13.41296
+sreality,15540000,80,3,0,1,1,1,1,novostavba,vybavene,osobni,Praha 10,50.044991,14.523657
+sreality,13550000,71,3,1,1,1,1,2,novostavba,vybavene,osobni,Praha 3,50.088318,14.4792
+sreality,8250000,57,2,1,1,1,1,4,novostavba,vybavene,osobni,Praha 9,50.101017,14.50702
+sreality,6990000,109,4,0,0,0,1,3,dobre,vybavene,osobni,Liberec,50.76265,15.040425
+sreality,6390000,30,1,1,1,0,0,6,velmi dobre,vybavene,osobni,Praha 3,50.086266,14.448222
+sreality,65055620,227,5,1,1,1,1,7,novostavba,vybavene,osobni,Praha 5,50.067234,14.405532
+sreality,26820000,158,4,1,0,1,1,1,novostavba,vybavene,osobni,Praha 9,50.100903,14.685581
+sreality,9100000,72,3,0,1,1,0,8,velmi dobre,vybavene,osobni,Praha 4,50.036919,14.520226
+sreality,9900000,61,2,1,1,1,1,4,novostavba,vybavene,osobni,Praha 9,50.103756,14.515195
+sreality,12150000,71,2,1,1,1,1,5,novostavba,vybavene,osobni,Praha 9,50.103756,14.515195
+sreality,13100000,81,3,1,1,1,1,4,novostavba,vybavene,osobni,Praha 9,50.103756,14.515195
+sreality,8100000,62,3,1,0,0,0,1,novostavba,vybavene,osobni,Praha,49.99395,14.602228
+sreality,14990000,94,4,1,1,1,0,3,novostavba,vybavene,osobni,Praha 5,50.058033,14.279776
+sreality,6990000,36,1,1,1,0,0,2,novostavba,vybavene,osobni,Praha 9,50.104679,14.488541
+sreality,20490000,139,3,0,1,0,0,3,dobre,vybavene,osobni,Praha 5,50.080032,14.405857
+sreality,7990000,51,2,1,1,0,0,5,dobre,vybavene,osobni,Praha 6,50.086277,14.374228
+sreality,23780000,109,3,1,0,0,0,2,velmi dobre,vybavene,osobni,Praha 1,50.087421,14.406035
+sreality,9140096,79,3,1,1,1,1,10,novostavba,vybavene,osobni,Brno,49.173306,16.56781
+sreality,8186724,52,2,1,1,1,1,1,novostavba,vybavene,osobni,Brno,49.173306,16.56781
+sreality,8990000,70,3,0,0,1,0,3,velmi dobre,vybavene,osobni,Praha 9,50.112236,14.620522
+sreality,10000000,81,3,1,1,1,1,1,novostavba,vybavene,osobni,Olomouc,49.569077,17.247663
+sreality,8800000,75,3,1,1,1,0,6,novostavba,vybavene,osobni,Olomouc,49.577675,17.240726
+sreality,6100000,53,2,1,1,1,0,1,novostavba,vybavene,osobni,Olomouc,49.576866,17.244226
+sreality,23409200,104,4,1,1,1,1,5,novostavba,vybavene,osobni,Praha 5,50.067234,14.405532
+sreality,6350000,47,2,1,0,0,0,2,dobre,vybavene,osobni,Praha 4,49.988033,14.411863
+sreality,4410000,27,1,1,1,1,0,1,novostavba,vybavene,osobni,Brno,49.127892,16.614414
+sreality,9990000,30,2,0,0,0,1,2,dobre,vybavene,osobni,Praha 1,50.083893,14.413526
+sreality,18700000,169,4,1,0,1,0,5,velmi dobre,vybavene,osobni,Brno,49.20467,16.614653
+sreality,5900000,56,2,1,1,1,1,6,velmi dobre,vybavene,osobni,Brno,49.199638,16.620007
+sreality,5800000,55,2,1,1,0,1,5,velmi dobre,vybavene,osobni,Brno,49.199638,16.620007
+sreality,4099000,63,2,0,0,0,1,5,velmi dobre,vybavene,osobni,Karlovy Vary,50.232861,12.871954
+sreality,8950000,77,3,0,1,1,0,6,velmi dobre,vybavene,osobni,Praha 5,50.03558,14.338371
+sreality,6990000,44,2,1,1,0,0,2,dobre,vybavene,osobni,Praha 6,50.086277,14.374228
+sreality,7990000,88,3,0,0,1,0,1,velmi dobre,vybavene,osobni,Plzeň,49.745323,13.369148
+sreality,6490000,51,2,0,0,1,0,1,velmi dobre,vybavene,osobni,Praha 5,50.058281,14.410919
+sreality,22500000,198,4,1,0,1,0,5,velmi dobre,vybavene,osobni,Brno,49.185013,16.632212
+sreality,8909900,58,2,1,1,0,1,2,novostavba,vybavene,osobni,Praha 9,50.151951,14.522381
+sreality,13900000,91,3,1,1,1,1,2,novostavba,vybavene,osobni,Praha 10,50.019268,14.58224
+sreality,5990000,27,1,1,1,1,1,3,novostavba,vybavene,osobni,Praha 6,50.082985,14.311815
+sreality,14490000,70,3,1,1,1,1,2,novostavba,vybavene,osobni,Praha 9,50.095055,14.509292
+sreality,6800000,38,1,1,1,1,0,1,velmi dobre,vybavene,osobni,Praha 3,50.078705,14.458613
+sreality,7100000,36,1,1,1,0,0,4,novostavba,vybavene,osobni,Praha 4,50.042767,14.493135
+sreality,8300000,44,2,1,1,1,1,2,novostavba,vybavene,osobni,Praha 4,50.042767,14.493135
+sreality,14890000,95,3,1,1,1,0,3,novostavba,vybavene,osobni,Praha 5,50.060966,14.398317
+sreality,10190000,64,2,1,1,1,1,2,novostavba,vybavene,osobni,Praha 6,50.082985,14.311815
+sreality,6825000,70,4,0,1,0,0,6,velmi dobre,vybavene,osobni,Kladno,50.130787,14.121769
+sreality,10626000,66,2,1,1,0,0,4,novostavba,vybavene,osobni,Praha,50.120098,14.4767
+sreality,12490000,106,3,1,1,1,1,2,velmi dobre,vybavene,osobni,Praha 10,50.051746,14.526683
+sreality,6290400,80,3,0,1,0,0,5,dobre,vybavene,osobni,Plzeň,49.738426,13.393032
+sreality,12360000,114,3,0,1,1,0,3,velmi dobre,vybavene,osobni,Brno,49.200058,16.611641
+sreality,6320000,35,2,1,1,1,0,8,velmi dobre,vybavene,osobni,Praha,50.023621,14.453553
+sreality,9790000,69,2,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha,50.097118,14.480231
+sreality,12990000,76,3,1,1,0,1,1,velmi dobre,vybavene,osobni,Praha 10,50.042538,14.549793
+sreality,8495000,59,2,0,0,0,0,1,velmi dobre,vybavene,osobni,Praha 9,50.108452,14.509345
+sreality,6850000,47,2,0,0,0,0,2,dobre,vybavene,osobni,Praha 10,50.066044,14.482316
+sreality,4490000,42,2,1,0,0,0,1,velmi dobre,vybavene,osobni,Plzeň,49.747375,13.366803
+sreality,6130000,74,2,0,1,1,0,3,velmi dobre,vybavene,osobni,Pardubice,50.041843,15.806253
+sreality,12500000,87,2,0,0,1,0,2,novostavba,vybavene,osobni,Praha 5,50.02964,14.368599
+sreality,11500000,42,2,1,1,0,0,4,dobre,vybavene,osobni,Praha,50.088406,14.422324
+sreality,5110000,51,1,1,1,1,1,4,novostavba,vybavene,osobni,Kladno,50.161457,14.135164
+sreality,18600000,116,4,1,1,1,1,9,velmi dobre,vybavene,osobni,Praha 4,50.017334,14.435376
+sreality,9762350,65,2,1,0,0,0,2,novostavba,vybavene,osobni,Praha,50.120098,14.4767
+sreality,10293535,70,2,1,1,0,1,2,novostavba,vybavene,osobni,Praha,50.120098,14.4767
+sreality,3700000,62,2,1,0,0,1,2,velmi dobre,vybavene,osobni,Trutnov,50.601398,15.696944
+sreality,16900000,81,2,0,1,0,0,1,velmi dobre,vybavene,osobni,Praha 5,50.076973,14.408154
+sreality,3825000,62,3,0,1,1,1,6,dobre,vybavene,osobni,Ostrava,49.827213,18.269577
+sreality,8990000,97,4,1,0,1,0,5,velmi dobre,vybavene,osobni,Praha 9,50.070702,14.677487
+sreality,19990000,145,4,1,1,1,1,3,novostavba,vybavene,osobni,Praha 5,50.028625,14.375762
+sreality,4299000,72,3,1,0,0,0,1,velmi dobre,vybavene,osobni,Karlovy Vary,50.22493,12.880402
+sreality,5190000,56,2,0,0,0,0,3,velmi dobre,vybavene,osobni,Zlín,49.226051,17.698565
+sreality,6850000,55,2,1,0,0,0,3,dobre,vybavene,osobni,Praha 8,50.133236,14.416073
+sreality,4200000,79,4,0,0,0,0,5,dobre,vybavene,osobni,Karlovy Vary,50.226337,12.882504
+sreality,5990000,26,1,1,1,1,0,10,velmi dobre,vybavene,osobni,Praha 10,50.077747,14.486946
+sreality,10350000,51,2,1,1,1,1,6,novostavba,vybavene,osobni,Praha 4,50.016243,14.404919
+sreality,8690000,76,3,0,1,1,0,3,dobre,vybavene,osobni,Praha 4,50.011086,14.452418
+sreality,6490000,77,3,1,0,0,0,1,velmi dobre,vybavene,osobni,Pardubice,50.025677,15.774754
+sreality,27000000,128,4,1,1,1,0,5,velmi dobre,vybavene,osobni,Praha 2,50.076527,14.415887
+sreality,14367000,102,3,1,1,1,1,3,velmi dobre,vybavene,osobni,Praha 9,50.141014,14.517697
+sreality,11890000,111,4,1,0,1,1,1,novostavba,vybavene,osobni,Praha,49.929131,14.59017
+sreality,17400000,97,3,1,1,1,1,1,novostavba,vybavene,osobni,Praha 3,50.084606,14.482682
+sreality,13500000,77,3,1,1,1,1,1,novostavba,vybavene,osobni,Praha 8,50.117081,14.448081
+sreality,9250000,48,2,1,1,1,0,1,novostavba,vybavene,osobni,Praha 5,50.061825,14.403939
+sreality,10890000,59,2,1,0,0,0,4,velmi dobre,vybavene,osobni,Praha 6,50.083973,14.376201
+sreality,14990000,76,3,1,1,1,1,7,novostavba,vybavene,osobni,Praha 5,50.031517,14.364944
+sreality,5990000,50,1,1,1,1,0,2,velmi dobre,vybavene,osobni,Český Krumlov,48.639324,14.229321
+sreality,4187000,67,3,0,1,0,0,5,velmi dobre,vybavene,osobni,Český Krumlov,48.823158,14.326908
+sreality,4599000,54,3,0,1,1,0,5,velmi dobre,vybavene,osobni,Ostrava,49.828323,18.276958
+sreality,6500000,73,3,0,1,1,0,8,velmi dobre,vybavene,osobni,Olomouc,49.579041,17.238422
+sreality,7400000,36,1,1,1,0,0,4,novostavba,vybavene,osobni,Praha 4,50.042767,14.493135
+sreality,8500000,44,2,1,1,1,1,2,novostavba,vybavene,osobni,Praha 4,50.042767,14.493135
+sreality,12300000,56,2,1,1,1,0,6,novostavba,vybavene,osobni,Praha 5,50.072918,14.394127
+sreality,8250000,35,2,1,1,0,0,3,novostavba,vybavene,osobni,Praha 5,50.072918,14.394127
+sreality,7150000,41,1,1,1,0,0,7,novostavba,vybavene,osobni,Praha 5,50.072918,14.394127
+sreality,5320000,62,3,1,0,0,0,2,velmi dobre,vybavene,osobni,Ostrava,49.808205,18.238432
+sreality,6990000,121,3,0,0,0,1,1,velmi dobre,vybavene,osobni,Trutnov,50.560253,15.918149
+sreality,6390000,98,4,0,1,1,0,6,dobre,vybavene,osobni,Liberec,50.751888,15.067422
+sreality,9970000,84,3,0,1,1,0,2,velmi dobre,vybavene,osobni,Olomouc,49.582489,17.230043
+sreality,6240000,51,2,1,0,0,0,5,dobre,vybavene,osobni,Olomouc,49.593369,17.252079
+sreality,7150000,44,2,1,1,1,0,2,velmi dobre,vybavene,osobni,Praha 5,50.070663,14.380732
+sreality,6790000,74,3,1,0,1,0,4,velmi dobre,vybavene,osobni,Olomouc,49.597218,17.270826
+sreality,6190000,72,3,0,0,0,0,1,dobre,vybavene,osobni,České Budějovice,48.988647,14.467381
+sreality,9990000,57,2,1,1,0,0,5,novostavba,vybavene,osobni,Praha 5,50.06633,14.399523
+sreality,5200000,61,3,1,0,0,0,3,velmi dobre,vybavene,osobni,Pardubice,50.021473,15.759109
+sreality,12950000,119,3,1,1,1,1,4,dobre,vybavene,osobni,Olomouc,49.597843,17.234737
+sreality,10927000,159,3,1,1,1,1,4,novostavba,vybavene,osobni,Kladno,50.161457,14.135164
+sreality,17800000,116,4,1,1,1,1,9,velmi dobre,vybavene,osobni,Praha 4,50.017334,14.435376
+sreality,6300000,70,3,0,1,1,0,6,velmi dobre,vybavene,osobni,Olomouc,49.605694,17.256844
+sreality,4300000,79,3,1,0,0,1,3,velmi dobre,vybavene,osobni,Ostrava,49.822758,18.309431
+sreality,11660000,77,3,0,1,1,1,2,novostavba,vybavene,osobni,Praha 5,50.028625,14.375762
+sreality,4780000,50,2,0,0,1,1,2,velmi dobre,vybavene,osobni,Brno,49.113922,16.721561
+sreality,3650000,35,1,0,0,0,0,1,velmi dobre,vybavene,osobni,Ostrava,49.785915,18.226677
+sreality,10792980,74,2,1,0,0,0,3,novostavba,vybavene,osobni,Praha 9,50.124981,14.484177
+sreality,3170000,33,1,1,1,0,0,7,velmi dobre,vybavene,osobni,Ostrava,49.806004,18.242025
+sreality,7400000,70,1,1,0,1,0,1,novostavba,vybavene,osobni,Praha 9,50.081749,14.557925
+sreality,6100000,29,1,1,0,0,1,1,velmi dobre,vybavene,osobni,Praha 5,50.071102,14.343461
+sreality,8990000,56,2,0,0,0,0,2,velmi dobre,vybavene,osobni,Praha 5,50.071102,14.343461
+sreality,6850000,45,2,1,0,1,0,2,velmi dobre,vybavene,osobni,Brno,49.212601,16.605095
+sreality,7850000,50,2,1,0,0,0,1,velmi dobre,vybavene,osobni,Praha 9,50.100475,14.542393
+sreality,11700000,76,2,0,0,1,0,2,dobre,vybavene,osobni,Praha 6,50.099625,14.399954
+sreality,8900000,68,2,1,1,0,0,17,velmi dobre,vybavene,osobni,Praha 4,50.02972,14.449989
+sreality,7390000,54,3,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha 4,50.04594,14.490003
+sreality,4987000,37,1,0,1,1,1,4,velmi dobre,vybavene,osobni,Brno,49.229523,16.621679
+sreality,13990000,89,3,1,1,1,1,6,velmi dobre,vybavene,osobni,Praha 5,50.056305,14.282117
+sreality,9990000,69,3,1,0,0,0,1,velmi dobre,vybavene,osobni,Praha 10,50.054108,14.530043
+sreality,7800000,46,2,0,1,1,0,6,dobre,vybavene,osobni,Praha 10,50.066261,14.459818
+sreality,7150000,78,3,1,1,1,0,5,velmi dobre,vybavene,osobni,Pardubice,50.042324,15.813307
+sreality,3990000,65,3,0,0,0,0,1,dobre,vybavene,osobni,Karlovy Vary,50.247692,12.831019
+sreality,14600000,106,3,1,1,0,0,5,velmi dobre,vybavene,osobni,Praha 2,50.075424,14.426456
+sreality,7530000,27,1,1,1,0,0,1,novostavba,vybavene,osobni,Praha 5,50.067234,14.405532
+sreality,14799000,159,4,1,1,1,1,14,velmi dobre,vybavene,osobni,Brno,49.223621,16.626226
+sreality,8200000,63,2,1,0,0,1,3,velmi dobre,vybavene,osobni,Praha,49.968777,14.394235
+sreality,5495000,38,2,1,0,0,0,1,velmi dobre,vybavene,osobni,Praha 10,50.062946,14.594689
+sreality,3675000,73,3,0,0,0,0,2,velmi dobre,vybavene,osobni,Karlovy Vary,50.242851,12.836554
+sreality,4900000,72,3,1,0,0,0,3,velmi dobre,vybavene,osobni,Karlovy Vary,50.22258,12.888837
+sreality,7690000,68,2,1,1,0,1,3,novostavba,vybavene,osobni,Brno,49.20364,16.626654
+sreality,3590000,48,1,0,0,0,0,3,dobre,vybavene,osobni,Ostrava,49.835308,18.288086
+sreality,17172784,74,3,1,1,1,1,2,novostavba,vybavene,osobni,Praha 5,50.067234,14.405532
+sreality,4290000,33,1,0,0,0,1,2,velmi dobre,vybavene,osobni,České Budějovice,48.969151,14.481549
+sreality,5129685,30,1,1,1,0,0,1,velmi dobre,vybavene,osobni,Praha 5,50.067493,14.368819
+sreality,2500000,53,1,0,0,0,0,1,dobre,vybavene,osobni,Karlovy Vary,50.226475,12.822557
+sreality,3800000,104,3,0,0,1,0,1,velmi dobre,vybavene,osobni,Ostrava,49.853687,18.279381
+sreality,10900000,105,3,1,0,1,0,1,velmi dobre,vybavene,osobni,Brno,49.229595,16.601994
+sreality,8500000,82,3,0,1,0,0,2,velmi dobre,vybavene,osobni,Brno,49.204456,16.595394
+sreality,9000000,74,3,1,0,0,0,5,novostavba,vybavene,osobni,Brno,49.195805,16.635427
+sreality,8599000,85,4,0,1,1,0,6,velmi dobre,vybavene,osobni,Brno,49.20417,16.656137
+sreality,8390000,82,2,0,0,1,0,4,velmi dobre,vybavene,osobni,Brno,49.203915,16.622566
+sreality,14950000,96,3,0,0,1,0,3,velmi dobre,vybavene,osobni,Brno,49.192711,16.604027
+sreality,12420327,55,2,1,1,1,1,3,novostavba,vybavene,osobni,Praha 5,50.067234,14.405532
+sreality,5439500,25,1,1,1,0,0,3,velmi dobre,vybavene,osobni,Praha 5,50.064335,14.41027
+sreality,3490000,60,2,1,1,0,1,1,dobre,vybavene,osobni,Karlovy Vary,50.227505,12.874138
+sreality,6990000,50,2,1,0,0,0,1,dobre,vybavene,osobni,Praha 8,50.115089,14.47151
+sreality,5990000,83,3,0,1,1,0,5,dobre,vybavene,osobni,Plzeň,49.736038,13.371051
+sreality,18137241,77,3,1,1,1,1,2,novostavba,vybavene,osobni,Praha 5,50.067234,14.405532
+sreality,3950000,56,2,0,1,1,0,1,velmi dobre,vybavene,osobni,Ostrava,49.780582,18.22607
+sreality,13480000,71,3,1,0,1,1,7,novostavba,vybavene,osobni,Praha 9,50.103615,14.515414
+sreality,10300000,56,2,1,0,1,0,7,novostavba,vybavene,osobni,Praha 9,50.103615,14.515414
+sreality,10100000,56,2,1,0,0,0,7,novostavba,vybavene,osobni,Praha 9,50.103615,14.515414
+sreality,18754816,76,3,1,1,1,1,3,novostavba,vybavene,osobni,Praha 5,50.067234,14.405532
+sreality,5600000,24,1,1,0,0,1,2,novostavba,vybavene,osobni,Praha 5,50.054661,14.285619
+sreality,11900000,92,3,0,0,1,1,1,velmi dobre,vybavene,osobni,Praha 4,50.044125,14.464195
+sreality,5890000,88,3,0,0,1,0,5,velmi dobre,vybavene,osobni,Olomouc,49.596821,17.270296
+sreality,5890000,40,1,1,1,1,0,2,velmi dobre,vybavene,osobni,Brno,49.178921,16.680239
+sreality,15950000,67,2,1,1,1,1,6,novostavba,vybavene,osobni,Praha 3,50.08456,14.445819
+sreality,59665880,203,5,1,1,1,1,7,novostavba,vybavene,osobni,Praha 5,50.067234,14.405532
+sreality,11000000,122,5,1,0,1,1,1,novostavba,vybavene,osobni,Kladno,50.149464,14.145994
+sreality,2890000,69,2,0,0,1,0,2,dobre,vybavene,osobni,Plzeň,50.772255,14.198051
+sreality,7746359,28,1,1,1,0,0,1,novostavba,vybavene,osobni,Praha 5,50.067234,14.405532
+sreality,2560000,27,1,1,1,1,1,13,dobre,vybavene,osobni,Ostrava,49.822998,18.185036
+sreality,3500000,49,1,0,1,0,0,2,dobre,vybavene,osobni,Praha 6,50.084076,14.371244
+sreality,35136760,132,4,1,1,1,1,6,novostavba,vybavene,osobni,Praha 5,50.067234,14.405532
+sreality,24828820,110,4,1,1,1,1,5,novostavba,vybavene,osobni,Praha 5,50.071247,14.406638
+sreality,32512800,145,3,0,1,0,0,3,velmi dobre,vybavene,osobni,Praha 1,50.086487,14.43189
+sreality,8666300,27,1,1,1,1,0,7,velmi dobre,vybavene,osobni,Praha 1,50.081741,14.430139
+sreality,2990000,29,1,1,0,0,0,3,novostavba,vybavene,osobni,Český Krumlov,48.737865,14.102581
+sreality,4150000,64,2,0,1,1,0,2,velmi dobre,vybavene,osobni,Ostrava,49.837894,18.261972
+sreality,8380000,53,2,1,1,1,1,1,novostavba,vybavene,osobni,Brno,49.217934,16.562582
+sreality,2425000,26,1,1,0,0,0,8,velmi dobre,vybavene,osobni,Ostrava,49.840538,18.268583
+sreality,3760000,24,1,1,1,0,1,2,dobre,vybavene,osobni,Brno,49.199635,16.620407
+sreality,6765000,45,2,1,1,0,1,2,dobre,vybavene,osobni,Brno,49.199635,16.620407
+sreality,8990000,84,3,1,0,0,0,1,novostavba,vybavene,osobni,Český Krumlov,48.762691,14.027915
+sreality,9390000,45,2,1,1,1,1,2,novostavba,vybavene,osobni,Praha 6,50.070507,14.300911
+sreality,8490000,98,4,1,0,1,0,3,velmi dobre,vybavene,osobni,Liberec,50.764713,15.074218
+sreality,14862270,76,3,1,1,1,1,1,novostavba,vybavene,osobni,Praha 5,50.055294,14.37969
+sreality,16240000,103,3,1,1,1,1,2,novostavba,vybavene,osobni,Praha 6,50.075191,14.326495
+sreality,17899214,80,3,1,1,1,1,2,novostavba,vybavene,osobni,Praha 5,50.067234,14.405532
+sreality,17559594,84,3,1,1,1,1,2,novostavba,vybavene,osobni,Praha 5,50.067234,14.405532
+sreality,10400000,72,3,0,0,1,0,8,velmi dobre,vybavene,osobni,Praha,50.041679,14.564388
+sreality,5590000,67,3,1,0,0,1,3,novostavba,vybavene,osobni,Český Krumlov,48.737865,14.102581
+sreality,8490000,58,2,1,1,1,0,5,velmi dobre,vybavene,osobni,Praha 10,50.066528,14.551468
+sreality,11590000,70,3,1,1,1,1,7,novostavba,vybavene,osobni,Praha 9,50.108219,14.525838
+sreality,13390000,93,3,1,1,1,1,2,velmi dobre,vybavene,osobni,Praha 9,50.109192,14.596742
+sreality,11370000,110,4,0,0,1,0,3,dobre,vybavene,osobni,Praha 6,50.091095,14.310198
+sreality,13291188,53,2,1,1,1,1,3,novostavba,vybavene,osobni,Praha 5,50.067234,14.405532
+sreality,17500000,94,3,1,1,1,0,3,novostavba,vybavene,osobni,Praha,50.055046,14.516415
+sreality,4499000,83,3,0,1,1,0,5,dobre,vybavene,osobni,Karlovy Vary,50.242981,12.830473
+sreality,12069863,51,2,1,1,1,1,1,novostavba,vybavene,osobni,Praha 5,50.067234,14.405532
+sreality,24033480,107,4,1,1,1,1,4,novostavba,vybavene,osobni,Praha 5,50.067234,14.405532
+sreality,23890000,127,4,1,0,0,0,2,velmi dobre,vybavene,osobni,Praha 1,50.085175,14.416427
+sreality,12050000,95,4,1,0,1,1,3,novostavba,vybavene,osobni,Brno,49.14772,16.661974
+sreality,6300000,35,1,1,1,1,1,1,novostavba,vybavene,osobni,Praha 10,50.035713,14.580066
+sreality,7300000,53,2,0,1,1,0,7,velmi dobre,vybavene,osobni,Praha 10,50.0714,14.50905
+sreality,6690000,41,2,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha 4,50.021404,14.413472
+sreality,12500000,63,1,1,0,1,0,2,velmi dobre,vybavene,osobni,Praha 5,50.071571,14.386138
+sreality,7990000,71,2,1,1,0,1,7,velmi dobre,vybavene,osobni,České Budějovice,48.999828,14.449444
+sreality,5800000,36,1,1,0,0,1,3,velmi dobre,vybavene,osobni,Praha 8,50.135525,14.393878
+sreality,4490000,51,2,0,0,1,0,4,velmi dobre,vybavene,osobni,Plzeň,49.731487,13.374009
+sreality,9490000,61,2,1,0,1,1,1,velmi dobre,vybavene,osobni,Praha 5,50.057507,14.283324
+sreality,8000000,54,2,1,1,1,0,4,velmi dobre,vybavene,osobni,Praha 4,50.044075,14.455484
+sreality,12465000,68,3,0,1,1,1,2,novostavba,vybavene,osobni,Praha 5,50.028625,14.375762
+sreality,7000000,55,2,1,1,1,0,4,velmi dobre,vybavene,osobni,Praha 10,50.043041,14.556076
+sreality,5250000,106,4,0,0,0,1,2,dobre,vybavene,osobni,Karlovy Vary,50.235992,12.887388
+sreality,4742000,60,2,0,1,0,0,2,velmi dobre,vybavene,osobni,Plzeň,49.745693,13.326261
+sreality,12490000,86,3,0,1,1,0,4,velmi dobre,vybavene,osobni,Praha 5,50.071526,14.409292
+sreality,8560000,79,3,1,0,0,1,1,novostavba,vybavene,osobni,České Budějovice,48.923725,14.453833
+sreality,11000000,69,3,0,1,1,0,3,velmi dobre,vybavene,osobni,Praha 5,50.070713,14.37893
+sreality,5998000,27,1,1,1,0,0,7,velmi dobre,vybavene,osobni,Praha 8,50.095318,14.467169
+sreality,17390000,86,3,1,1,1,0,1,velmi dobre,vybavene,osobni,Praha,50.103275,14.451418
+sreality,4971000,37,1,1,0,0,0,2,velmi dobre,vybavene,osobni,Trutnov,50.698181,15.729445
+sreality,7300000,43,2,1,0,0,0,2,velmi dobre,vybavene,osobni,Trutnov,50.698181,15.729445
+sreality,8190000,77,3,0,1,1,0,2,velmi dobre,vybavene,osobni,Brno,49.181374,16.689539
+sreality,4650000,66,3,0,1,1,0,3,velmi dobre,vybavene,osobni,Ostrava,49.776619,18.259348
+sreality,7300000,54,2,0,1,1,0,2,velmi dobre,vybavene,osobni,Brno,49.215408,16.577477
+sreality,14950000,67,2,1,1,1,0,6,novostavba,vybavene,osobni,Praha 8,50.090775,14.452274
+sreality,4900000,90,2,0,1,1,1,3,velmi dobre,vybavene,osobni,Karlovy Vary,50.23568,12.887151
+sreality,5790000,38,2,1,1,0,0,6,velmi dobre,vybavene,osobni,Praha 4,50.008099,14.46663
+sreality,3480000,36,1,0,1,0,1,3,velmi dobre,vybavene,osobni,Ostrava,49.787342,18.268518
+sreality,8700000,38,1,1,1,1,1,6,velmi dobre,vybavene,osobni,Praha 3,50.085777,14.4665
+sreality,6590000,39,2,1,0,0,0,2,velmi dobre,vybavene,osobni,Praha 8,50.115749,14.468445
+sreality,3570000,77,2,0,0,1,0,3,dobre,vybavene,osobni,Karlovy Vary,50.233227,12.861512
+sreality,5100000,29,1,1,0,0,0,2,velmi dobre,vybavene,osobni,Praha 8,50.115749,14.468445
+sreality,4944500,71,2,1,0,1,1,2,dobre,vybavene,osobni,Liberec,50.788433,14.994884
+sreality,16500000,96,4,1,1,1,1,2,dobre,vybavene,osobni,Praha 6,50.088871,14.328305
+sreality,4890000,57,2,0,0,0,0,4,velmi dobre,vybavene,osobni,Plzeň,49.759689,13.351138
+sreality,35900000,163,4,1,1,1,1,5,novostavba,vybavene,osobni,Praha 8,50.090775,14.452274
+sreality,6130150,25,1,1,1,1,0,2,novostavba,vybavene,osobni,Praha 10,50.055046,14.516415
+sreality,11501749,64,3,1,1,1,1,3,novostavba,vybavene,osobni,Praha 9,50.153309,14.528756
+sreality,10470000,82,4,1,1,1,1,3,novostavba,vybavene,osobni,Olomouc,49.586334,17.25915
+sreality,11849000,67,2,1,1,0,0,2,novostavba,vybavene,osobni,Praha,50.039669,14.435565
+sreality,11031300,52,2,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha 4,50.06551,14.438411
+sreality,4500000,63,2,0,1,0,0,6,dobre,vybavene,osobni,Karlovy Vary,50.234955,12.870936
+sreality,8900000,59,2,1,1,0,0,1,velmi dobre,vybavene,osobni,Praha 3,50.076836,14.469539
+sreality,12748000,65,3,1,1,1,0,2,novostavba,vybavene,osobni,Praha 5,50.06501,14.409487
+sreality,8052000,44,2,1,1,0,0,8,novostavba,vybavene,osobni,Praha 5,50.06501,14.409487
+sreality,7414000,56,3,1,1,1,0,6,novostavba,vybavene,osobni,Praha 10,50.057026,14.541842
+sreality,7092000,43,2,1,1,1,0,7,novostavba,vybavene,osobni,Praha 10,50.057026,14.541842
+sreality,6972000,35,1,1,1,0,0,7,novostavba,vybavene,osobni,Praha 5,50.06501,14.409487
+sreality,18634000,89,4,1,1,1,0,8,novostavba,vybavene,osobni,Praha 5,50.06501,14.409487
+sreality,10988000,65,3,1,1,1,0,7,novostavba,vybavene,osobni,Praha 10,50.057026,14.541842
+sreality,7500000,78,3,0,1,1,0,6,dobre,vybavene,osobni,Brno,49.204548,16.681139
+sreality,3600000,43,2,1,0,1,0,4,velmi dobre,vybavene,osobni,Liberec,50.764587,15.060987
+sreality,12990000,75,3,1,1,1,1,4,novostavba,vybavene,osobni,Praha 9,50.10833,14.524261
+sreality,9400000,69,2,0,0,0,0,5,velmi dobre,vybavene,osobni,Praha 10,50.071411,14.503513
+sreality,6450000,85,3,1,0,1,0,1,velmi dobre,vybavene,osobni,Český Krumlov,48.660938,14.165633
+sreality,8500000,70,3,0,1,1,0,2,velmi dobre,vybavene,osobni,Praha 5,50.045567,14.313301
+sreality,9990000,173,3,0,0,1,1,3,velmi dobre,vybavene,osobni,Plzeň,49.756844,13.45046
+sreality,9950000,45,2,1,1,1,1,5,novostavba,vybavene,osobni,Praha 5,50.073605,14.393812
+sreality,4499000,26,1,1,1,0,0,9,velmi dobre,vybavene,osobni,Praha 4,50.030148,14.528936
+sreality,9900000,88,3,1,1,1,0,2,novostavba,vybavene,osobni,Brno,49.210617,16.496885
+sreality,15120000,138,4,1,1,1,0,4,novostavba,vybavene,osobni,Brno,49.210617,16.496885
+sreality,6325000,50,2,1,0,1,1,3,novostavba,vybavene,osobni,Brno,49.101444,16.37752
+sreality,10800000,111,3,1,1,1,1,1,velmi dobre,vybavene,osobni,Praha 6,50.131695,14.39297
+sreality,9300000,57,2,1,1,0,1,2,velmi dobre,vybavene,osobni,Praha 8,50.120224,14.46067
+sreality,5512000,32,1,1,1,1,0,3,novostavba,vybavene,osobni,Praha 4,50.022511,14.44042
+sreality,7499000,44,2,1,0,0,0,3,velmi dobre,vybavene,osobni,Praha 8,50.131023,14.447439
+sreality,13920000,77,3,1,1,1,0,13,velmi dobre,vybavene,osobni,Praha 6,50.097946,14.357455
+sreality,6720000,47,2,1,1,1,0,3,velmi dobre,vybavene,osobni,Praha 6,50.063271,14.310767
+sreality,13610000,73,3,1,1,0,0,6,velmi dobre,vybavene,osobni,Praha 3,50.076912,14.466077
+sreality,7750000,42,2,1,1,0,0,1,velmi dobre,vybavene,osobni,Praha 3,50.077347,14.462275
+sreality,12200000,105,4,1,0,1,1,2,novostavba,vybavene,osobni,Brno,49.168629,16.727314
+sreality,17999000,191,4,1,0,1,1,1,velmi dobre,vybavene,osobni,Praha 4,50.042118,14.486976
+sreality,11296272,96,3,1,0,1,1,1,novostavba,vybavene,osobni,Brno,49.168629,16.727314
+sreality,16685794,151,4,1,0,1,1,2,novostavba,vybavene,osobni,Brno,49.168629,16.727314
+sreality,10346668,88,3,1,0,1,1,1,novostavba,vybavene,osobni,Brno,49.168629,16.727314
+sreality,14890000,71,3,1,0,1,1,2,velmi dobre,vybavene,osobni,Praha 4,50.03883,14.423045
+sreality,15990000,93,3,0,1,1,0,3,velmi dobre,vybavene,osobni,Praha 6,50.104462,14.377088
+sreality,14000000,81,3,1,1,0,0,7,velmi dobre,vybavene,osobni,Praha 4,50.058109,14.422111
+sreality,5490000,83,4,0,0,1,0,4,dobre,vybavene,osobni,Liberec,50.737473,15.054453
+sreality,8249999,33,1,1,1,1,1,3,velmi dobre,vybavene,osobni,Praha 5,50.043041,14.313431
+sreality,4790000,67,3,0,1,0,0,1,velmi dobre,vybavene,osobni,Plzeň,49.758762,13.418895
+sreality,3424000,78,2,0,0,0,1,1,dobre,vybavene,osobni,Karlovy Vary,50.227036,12.882158
+sreality,20590000,118,3,0,0,0,1,1,velmi dobre,vybavene,osobni,Praha 6,50.10144,14.374413
+sreality,12980000,133,4,1,1,1,1,5,novostavba,vybavene,osobni,České Budějovice,48.981346,14.482347
+sreality,8700000,65,3,0,0,1,0,1,velmi dobre,vybavene,osobni,Praha 9,50.137062,14.508226
+sreality,8783866,48,2,1,1,1,0,5,novostavba,vybavene,osobni,Praha 5,49.983574,14.359583
+sreality,9990000,54,2,0,1,1,0,4,velmi dobre,vybavene,osobni,Praha,50.069298,14.46132
+sreality,2940000,45,1,0,0,1,1,2,dobre,vybavene,osobni,Karlovy Vary,50.236256,12.902965
+sreality,6500000,45,2,1,1,1,0,5,dobre,vybavene,osobni,Brno,49.169365,16.584158
+sreality,4990000,26,1,1,0,0,0,3,velmi dobre,vybavene,osobni,Brno,49.181206,16.597662
+sreality,8500000,71,3,0,1,0,0,1,dobre,vybavene,osobni,Praha,50.128452,14.498533
+sreality,17140000,79,3,1,0,1,0,5,novostavba,vybavene,osobni,Praha 8,50.093021,14.443644
+sreality,8424000,53,2,1,1,0,0,2,dobre,vybavene,osobni,Praha 3,50.089516,14.474159
+sreality,10490000,77,3,1,1,1,0,7,velmi dobre,vybavene,osobni,Praha 5,50.037697,14.340588
+sreality,7400000,46,1,1,1,0,0,1,velmi dobre,vybavene,osobni,Praha 8,50.12191,14.467102
+sreality,8190000,64,1,1,1,1,0,1,novostavba,vybavene,osobni,Praha 8,50.12846,14.484085
+sreality,7450000,88,3,1,1,0,0,6,velmi dobre,vybavene,osobni,Ostrava,49.835308,18.288086
+sreality,7890000,51,2,1,1,0,0,3,dobre,vybavene,osobni,Praha 6,50.086277,14.374228
+sreality,15925850,73,3,1,1,1,1,4,novostavba,vybavene,osobni,Praha 5,50.071194,14.406509
+sreality,20346500,88,3,1,1,1,1,7,novostavba,vybavene,osobni,Praha 5,50.071194,14.406509
+sreality,6499000,53,2,0,0,0,0,2,dobre,vybavene,osobni,Brno,49.177402,16.598839
+sreality,10990000,100,3,1,1,1,1,6,velmi dobre,vybavene,osobni,Karlovy Vary,50.234821,12.873309
+sreality,4400000,63,2,0,1,0,0,2,velmi dobre,vybavene,osobni,Karlovy Vary,50.236313,12.88948
+sreality,4990000,64,3,1,0,0,0,2,velmi dobre,vybavene,osobni,Ostrava,49.80806,18.240509
+sreality,6620000,77,3,1,1,1,0,5,dobre,vybavene,osobni,Kladno,50.136669,14.105546
+sreality,6890000,61,2,0,0,0,0,2,dobre,vybavene,osobni,Brno,49.245186,16.58536
+sreality,14919959,88,3,1,1,1,0,6,novostavba,vybavene,osobni,Praha 5,49.983974,14.359765
+sreality,17900000,98,4,1,1,1,1,2,velmi dobre,vybavene,osobni,Praha 5,50.056911,14.377188
+sreality,22490000,108,4,1,1,1,1,2,velmi dobre,vybavene,osobni,Praha 6,50.082752,14.380148
+sreality,9999000,71,2,0,1,1,1,3,velmi dobre,vybavene,osobni,Praha 10,50.066601,14.456541
+sreality,27990000,120,4,1,1,0,1,1,velmi dobre,vybavene,osobni,Praha 6,50.088367,14.372161
+sreality,7800000,53,2,1,1,1,0,2,velmi dobre,vybavene,osobni,Praha 9,50.133083,14.506908
+sreality,26900000,163,4,1,1,1,1,2,velmi dobre,vybavene,osobni,Praha,50.04882,14.496044
+sreality,11832000,56,2,1,0,0,0,1,velmi dobre,vybavene,osobni,Praha 6,50.10556,14.379861
+sreality,4190000,48,2,1,1,1,0,9,velmi dobre,vybavene,osobni,Ostrava,49.806183,18.236835
+sreality,31500000,126,4,1,1,1,1,4,velmi dobre,vybavene,osobni,Trutnov,50.726147,15.609442
+sreality,8700000,54,2,1,0,1,1,2,velmi dobre,vybavene,osobni,Praha 9,50.139137,14.551864
+sreality,11877360,47,2,1,0,1,1,2,novostavba,vybavene,osobni,Praha 1,50.049236,14.316789
+sreality,24500000,98,3,0,1,0,1,2,velmi dobre,vybavene,osobni,Praha 2,50.069942,14.438352
+sreality,3150000,35,2,1,1,0,0,2,dobre,vybavene,osobni,Český Krumlov,48.699936,14.675326
+sreality,12490000,85,4,1,0,0,0,2,velmi dobre,vybavene,osobni,Praha 4,50.024662,14.412411
+sreality,7900000,73,3,1,1,1,0,2,velmi dobre,vybavene,osobni,Praha 9,50.105511,14.551577
+sreality,9190000,65,3,1,0,0,0,1,velmi dobre,vybavene,osobni,Praha,50.058624,14.494488
+sreality,7790000,60,3,1,1,1,1,1,velmi dobre,vybavene,osobni,Praha 9,50.102592,14.57009
+sreality,12900000,171,4,1,1,1,0,3,novostavba,vybavene,osobni,Karlovy Vary,50.221088,12.885288
+sreality,6990000,49,2,1,0,0,0,2,dobre,vybavene,osobni,Karlovy Vary,50.226841,12.874512
+sreality,10324025,67,2,1,1,0,1,3,novostavba,vybavene,osobni,Praha 5,50.060715,14.401836
+sreality,14831186,96,3,1,1,0,1,3,novostavba,vybavene,osobni,Praha 5,50.060715,14.401836
+sreality,12990000,84,2,1,1,1,1,1,novostavba,vybavene,osobni,Praha 3,50.085598,14.468936
+sreality,10490000,124,4,1,0,0,1,1,novostavba,vybavene,osobni,Praha,49.917526,14.357951
+sreality,16500000,95,3,1,1,0,0,4,novostavba,vybavene,osobni,Praha 5,50.074722,14.40603
+sreality,11000000,64,2,1,1,1,1,2,velmi dobre,vybavene,osobni,Praha 5,50.034569,14.388382
+sreality,6900000,65,3,0,1,1,0,4,velmi dobre,vybavene,osobni,Kladno,50.144405,14.089762
+sreality,9420000,61,2,1,1,1,1,2,novostavba,vybavene,osobni,Praha,50.084141,14.576953
+sreality,5750000,106,3,0,0,0,0,5,velmi dobre,vybavene,osobni,Plzeň,49.754879,13.378022
+sreality,4950000,62,2,0,0,0,0,3,velmi dobre,vybavene,osobni,Plzeň,49.730133,13.407736
+sreality,7900000,39,2,1,1,0,0,6,velmi dobre,vybavene,osobni,Praha 3,50.084824,14.446784
+sreality,5995000,105,4,1,0,0,0,2,velmi dobre,vybavene,osobni,Plzeň,49.754879,13.378022
+sreality,10490000,77,4,1,1,1,0,6,velmi dobre,vybavene,osobni,Praha 4,50.024704,14.454246
+sreality,13385000,84,3,0,0,1,0,3,velmi dobre,vybavene,osobni,Praha,50.103786,14.476581
+sreality,15490000,57,3,1,1,0,1,4,novostavba,vybavene,osobni,Trutnov,50.695396,15.737185
+sreality,3900000,63,1,1,1,1,0,4,velmi dobre,vybavene,osobni,Pardubice,50.023945,15.756436
+sreality,15905847,99,4,1,1,1,0,7,novostavba,vybavene,osobni,Praha 5,49.983974,14.359765
+sreality,11400000,70,2,1,1,0,0,6,velmi dobre,vybavene,osobni,Praha 2,50.07629,14.416727
+sreality,6959000,47,2,1,1,0,0,2,novostavba,vybavene,osobni,Brno,49.171909,16.579048
+sreality,3990000,70,2,0,0,0,0,5,dobre,vybavene,osobni,Karlovy Vary,50.234875,12.87747
+sreality,15950000,197,3,1,1,1,1,6,novostavba,vybavene,osobni,Plzeň,49.746101,13.318915
+sreality,13900000,131,3,1,1,1,1,6,novostavba,vybavene,osobni,Plzeň,49.746101,13.318915
+sreality,9490000,74,4,0,1,1,0,1,velmi dobre,vybavene,osobni,Praha 9,50.123867,14.499713
+sreality,11450000,78,3,1,1,0,1,16,velmi dobre,vybavene,osobni,Praha 10,50.077282,14.451818
+sreality,10990000,93,3,1,1,1,0,4,velmi dobre,vybavene,osobni,Praha 5,50.048054,14.341453
+sreality,36970000,189,5,1,1,1,1,6,velmi dobre,vybavene,osobni,Praha 3,50.08844,14.469105
+sreality,8425000,99,3,0,0,0,0,1,dobre,vybavene,osobni,Brno,49.201302,16.603729
+sreality,8500000,65,3,0,1,1,0,5,dobre,vybavene,osobni,Brno,49.187084,16.602173
+sreality,6750000,72,2,1,1,0,1,3,velmi dobre,vybavene,osobni,Plzeň,49.740459,13.326465
+sreality,6657300,42,2,1,0,1,0,3,dobre,vybavene,osobni,Praha 4,50.043072,14.455436
+sreality,6240000,40,1,1,1,0,0,8,velmi dobre,vybavene,osobni,Praha 9,50.135014,14.510703
+sreality,12430000,70,2,1,0,1,0,4,dobre,vybavene,osobni,Praha,50.104298,14.446863
+sreality,3040000,45,2,0,0,0,0,3,dobre,vybavene,osobni,Ostrava,49.808407,18.237381
+sreality,3601500,21,1,1,1,0,0,3,velmi dobre,vybavene,osobni,České Budějovice,48.989483,14.469944
+sreality,7799000,88,3,1,0,0,1,2,velmi dobre,vybavene,osobni,Plzeň,49.719795,13.382647
+sreality,9250000,69,2,0,1,0,0,4,velmi dobre,vybavene,osobni,Praha 10,50.07119,14.500809
+sreality,10990000,63,3,1,1,1,1,1,dobre,vybavene,osobni,Praha 10,50.028168,14.608742
+sreality,6850000,38,1,1,0,1,0,1,velmi dobre,vybavene,osobni,Praha 5,50.03981,14.317568
+sreality,7890000,41,1,0,1,1,0,6,dobre,vybavene,osobni,Praha 6,50.086277,14.374228
+sreality,7800000,47,2,0,1,0,0,1,velmi dobre,vybavene,osobni,Praha 10,50.081741,14.507885
+sreality,11750000,75,4,1,1,1,1,2,velmi dobre,vybavene,osobni,Brno,49.216648,16.498663
+sreality,4890000,27,1,1,0,0,0,1,dobre,vybavene,osobni,Praha 8,50.115089,14.47151
+sreality,12100000,60,2,1,1,1,1,6,novostavba,vybavene,osobni,Praha 10,50.044987,14.501647
+sreality,14997150,97,4,1,1,0,0,1,novostavba,vybavene,osobni,Brno,49.167629,16.611403
+sreality,7190000,44,2,1,1,0,0,2,dobre,vybavene,osobni,Praha 6,50.086277,14.374228
+sreality,6950000,49,2,1,0,0,0,1,dobre,vybavene,osobni,Praha 8,50.115089,14.47151
+sreality,5971812,31,1,1,1,1,0,2,novostavba,vybavene,osobni,Brno,49.167629,16.611403
+sreality,7150000,40,2,1,0,1,0,4,dobre,vybavene,osobni,Praha 8,50.115089,14.47151
+sreality,11900000,70,3,1,1,1,0,2,velmi dobre,vybavene,osobni,Praha 8,50.120541,14.460058
+sreality,15890000,79,3,1,1,1,1,3,novostavba,vybavene,osobni,Praha 5,50.056538,14.346208
+sreality,7700000,52,2,1,1,1,1,2,velmi dobre,vybavene,osobni,Praha 10,50.011318,14.632949
+sreality,17990900,140,5,0,0,1,0,3,velmi dobre,vybavene,osobni,Praha 8,50.117962,14.461505
+sreality,10800000,138,4,1,0,0,0,4,dobre,vybavene,osobni,Brno,49.212978,16.633101
+sreality,8547147,47,2,1,1,1,0,7,novostavba,vybavene,osobni,Praha 5,49.983574,14.359583
+sreality,14550000,125,4,1,0,1,1,1,novostavba,vybavene,osobni,Praha 9,50.060352,14.64212
+sreality,4650000,41,1,1,1,0,1,2,velmi dobre,vybavene,osobni,České Budějovice,48.9762,14.485855
+sreality,10190000,54,2,1,0,0,0,1,novostavba,vybavene,osobni,Praha 6,50.125416,14.374244
+sreality,5890000,56,3,1,0,0,0,5,velmi dobre,vybavene,osobni,Plzeň,49.73254,13.398834
+sreality,5790000,35,1,1,1,1,0,3,velmi dobre,vybavene,osobni,Brno,49.216587,16.498465
+sreality,7890000,39,1,1,0,0,0,1,velmi dobre,vybavene,osobni,Praha 1,50.078068,14.424879
+sreality,5990000,67,3,1,0,0,1,3,novostavba,vybavene,osobni,Český Krumlov,48.737865,14.102581
+sreality,25890000,127,4,1,0,0,1,2,velmi dobre,vybavene,osobni,Praha 1,50.085175,14.416427
+sreality,14100000,180,5,1,1,1,1,4,velmi dobre,vybavene,osobni,Brno,49.226307,16.531414
+sreality,13680450,116,3,1,0,1,0,1,velmi dobre,vybavene,osobni,Brno,49.187721,16.58956
+sreality,11750000,69,3,1,1,1,1,3,velmi dobre,vybavene,osobni,Brno,49.190975,16.604013
+sreality,5450000,25,1,1,1,0,0,5,velmi dobre,vybavene,osobni,Praha 5,50.067116,14.402302
+sreality,7000100,40,2,1,1,0,1,1,novostavba,vybavene,osobni,Brno,49.164433,16.615095
+sreality,13480000,77,3,1,1,1,1,6,novostavba,vybavene,osobni,Praha 9,50.101528,14.505476
+sreality,5999994,88,2,0,0,0,1,4,velmi dobre,vybavene,osobni,Plzeň,49.753735,13.416679
+sreality,18970000,138,4,0,1,1,0,5,velmi dobre,vybavene,osobni,Praha 10,50.068794,14.452641
+sreality,3990000,58,2,0,0,0,0,1,dobre,vybavene,osobni,České Budějovice,49.08868,14.374687
+sreality,4290000,84,4,0,0,0,0,2,dobre,vybavene,osobni,České Budějovice,49.08868,14.374687
+sreality,6253800,74,3,1,0,0,1,3,velmi dobre,vybavene,osobni,Plzeň,49.733086,13.371384
+sreality,13690000,105,4,0,0,0,0,1,velmi dobre,vybavene,osobni,Praha 4,50.056656,14.444352
+sreality,15890000,95,3,1,1,1,1,2,novostavba,vybavene,osobni,Praha 5,50.060966,14.398317
+sreality,9250000,52,2,1,1,1,1,4,novostavba,vybavene,osobni,Praha 5,50.041534,14.402713
+sreality,44990000,204,5,1,1,1,1,7,novostavba,vybavene,osobni,Praha 5,50.060966,14.398317
+sreality,7315000,82,3,1,0,1,1,2,novostavba,vybavene,osobni,Pardubice,50.029575,15.730626
+sreality,3899000,75,2,0,0,0,0,1,velmi dobre,vybavene,osobni,Ostrava,49.847218,18.28352
+sreality,6990000,92,3,0,0,1,0,1,velmi dobre,vybavene,osobni,Olomouc,49.571293,17.254211
+sreality,9800000,68,3,1,0,1,1,5,velmi dobre,vybavene,osobni,Praha 10,50.029465,14.593884
+sreality,8290000,70,3,1,1,0,1,6,velmi dobre,vybavene,osobni,Plzeň,49.746464,13.367822
+sreality,9470000,77,3,0,0,1,0,2,velmi dobre,vybavene,osobni,Praha 9,50.104168,14.579321
+sreality,7990000,105,3,1,1,0,0,5,velmi dobre,vybavene,osobni,Brno,49.198872,16.621864
+sreality,8280000,48,2,1,0,0,0,3,velmi dobre,vybavene,osobni,Praha 5,50.060535,14.397977
+sreality,6300000,78,2,0,0,0,1,3,velmi dobre,vybavene,osobni,Kladno,50.143059,14.089692
+sreality,5850000,22,1,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha 3,50.080555,14.452493
+sreality,6690000,60,2,1,1,1,1,5,velmi dobre,vybavene,osobni,Olomouc,49.585949,17.244551
+sreality,27990000,145,3,1,1,0,1,7,velmi dobre,vybavene,osobni,Praha 1,50.091263,14.421435
+sreality,5900000,33,1,1,0,1,0,1,novostavba,vybavene,osobni,Český Krumlov,48.737965,14.110538
+sreality,10900000,75,3,1,0,1,1,1,velmi dobre,vybavene,osobni,Karlovy Vary,50.225739,12.877225
+sreality,25974000,97,4,1,1,1,0,6,velmi dobre,vybavene,osobni,Praha 10,50.072151,14.472607
+sreality,25500000,103,3,1,1,1,1,1,velmi dobre,vybavene,osobni,Praha 10,50.075321,14.456623
+sreality,12150000,61,2,1,1,1,1,7,novostavba,vybavene,osobni,Praha 4,50.017788,14.400414
+sreality,18900000,97,3,1,1,1,0,7,novostavba,vybavene,osobni,Praha 3,50.089996,14.471378
+sreality,12690000,127,4,0,0,0,0,3,velmi dobre,vybavene,osobni,Karlovy Vary,50.224373,12.883904
+sreality,39900000,190,4,1,1,1,0,7,velmi dobre,vybavene,statni,Praha 1,50.07629,14.416727
+sreality,39000000,199,3,1,0,1,1,1,novostavba,vybavene,osobni,Praha,49.944149,14.609016
+sreality,39900000,187,3,1,1,1,0,6,velmi dobre,vybavene,osobni,Praha 1,50.07806,14.416063
+sreality,18900000,86,3,1,1,1,0,3,velmi dobre,vybavene,osobni,Praha 1,50.082405,14.431508
+sreality,16500000,91,4,1,1,1,0,5,velmi dobre,vybavene,osobni,Praha 3,50.086662,14.446578
+sreality,19790000,112,3,1,1,1,0,7,novostavba,vybavene,osobni,Praha 3,50.089996,14.471378
+sreality,10265000,62,2,1,1,1,1,1,novostavba,vybavene,osobni,Praha,50.055584,14.45027
+sreality,13800000,65,3,1,1,0,0,3,velmi dobre,vybavene,osobni,Praha 5,50.07531,14.405655
+sreality,10000000,60,2,1,1,1,1,6,novostavba,vybavene,osobni,Praha 10,50.052128,14.533685
+sreality,3960000,31,1,1,0,0,1,7,velmi dobre,vybavene,osobni,Ostrava,49.842487,18.287325
+sreality,14100000,80,2,1,1,1,1,1,novostavba,vybavene,osobni,Praha 5,50.055374,14.397349
+sreality,34500000,192,5,1,1,1,0,5,velmi dobre,vybavene,osobni,Praha 6,50.099117,14.403586
+sreality,7410000,61,2,1,0,1,1,5,velmi dobre,vybavene,osobni,Ostrava,49.842487,18.287325
+sreality,16000000,93,3,1,1,1,1,9,velmi dobre,vybavene,osobni,Praha 4,50.004635,14.416499
+sreality,39900000,131,4,1,1,0,1,2,velmi dobre,vybavene,osobni,Praha 1,50.08604,14.43134
+sreality,11480000,96,4,1,0,1,1,6,velmi dobre,vybavene,osobni,Ostrava,49.842487,18.287325
+sreality,5500000,32,1,1,1,1,0,8,dobre,vybavene,osobni,Brno,49.233543,16.591784
+sreality,23850000,159,4,1,1,1,1,5,velmi dobre,vybavene,osobni,Praha 3,50.077503,14.462398
+sreality,12500000,77,2,1,1,0,0,6,velmi dobre,vybavene,osobni,Praha 2,50.076668,14.416531
+sreality,22500000,125,3,0,1,1,0,5,velmi dobre,vybavene,osobni,Praha 1,50.079613,14.414741
+sreality,26900000,169,3,0,0,1,0,2,dobre,vybavene,osobni,Praha 1,50.088364,14.425947
+sreality,8983850,67,2,1,1,0,0,1,dobre,vybavene,osobni,Praha 2,50.071774,14.441296
+sreality,13500000,121,3,0,0,0,0,5,velmi dobre,vybavene,osobni,Praha 3,50.086834,14.445434
+sreality,15200000,102,3,1,1,1,0,5,novostavba,vybavene,osobni,Praha 5,50.063885,14.409646
+sreality,11800000,64,3,1,1,0,0,6,novostavba,vybavene,osobni,Praha 5,50.063885,14.409646
+sreality,16490000,94,3,1,1,1,0,5,velmi dobre,vybavene,osobni,Praha 6,50.109337,14.400105
+sreality,33000000,129,3,0,1,1,0,6,velmi dobre,vybavene,osobni,Praha 1,50.089642,14.421705
+sreality,16192373,100,3,1,1,1,0,4,novostavba,vybavene,osobni,Praha 5,50.063885,14.409646
+sreality,11870000,164,4,1,1,1,0,6,velmi dobre,vybavene,osobni,Český Krumlov,48.823586,14.328775
+sreality,12700000,67,3,1,1,1,1,3,dobre,vybavene,osobni,Praha 9,50.10437,14.510856
+sreality,23900000,117,4,1,1,1,0,2,velmi dobre,vybavene,osobni,Praha 6,50.098934,14.401722
+sreality,32000000,106,4,1,1,1,1,1,novostavba,vybavene,osobni,Praha 6,50.081467,14.374428
+sreality,27500000,157,3,1,1,1,1,5,velmi dobre,vybavene,osobni,Praha 5,50.065624,14.39688
+sreality,24990000,88,2,1,0,0,0,3,velmi dobre,vybavene,osobni,Praha 1,50.084446,14.414275
+sreality,17900000,112,5,1,1,0,0,3,dobre,vybavene,osobni,Praha 5,50.072544,14.396043
+sreality,35500000,229,4,1,1,0,0,6,velmi dobre,vybavene,osobni,Praha 2,50.076168,14.42813
+sreality,18900000,109,3,1,0,0,0,3,velmi dobre,vybavene,osobni,Praha 1,50.090347,14.424859
+sreality,47750000,209,5,1,1,1,1,6,velmi dobre,vybavene,osobni,Praha 2,50.071442,14.438137
+sreality,8190000,53,2,1,1,1,1,4,velmi dobre,vybavene,osobni,Praha 5,50.039085,14.323065
+sreality,7330000,53,2,1,1,1,1,2,novostavba,vybavene,osobni,Brno,49.197224,16.626997
+sreality,9975000,57,2,0,1,0,0,3,velmi dobre,vybavene,osobni,Praha,50.105076,14.449461
+sreality,9500000,82,4,0,0,1,0,2,velmi dobre,vybavene,osobni,Praha 4,50.000404,14.430167
+sreality,6950000,96,3,0,1,1,1,4,dobre,vybavene,osobni,Plzeň,49.737194,13.390586
+sreality,6300000,53,2,1,1,1,0,1,novostavba,vybavene,osobni,Olomouc,49.576866,17.244226
+sreality,9190440,37,1,1,1,0,0,2,novostavba,vybavene,osobni,Praha,50.067234,14.405532
+sreality,7600000,52,2,0,1,1,0,5,dobre,vybavene,osobni,Praha 10,50.067017,14.463294
+sreality,7850000,94,4,1,1,0,0,4,velmi dobre,vybavene,osobni,Karlovy Vary,50.225739,12.877225
+sreality,6200000,62,3,0,1,1,0,6,velmi dobre,vybavene,osobni,Plzeň,49.742203,13.328211
+sreality,4840000,66,3,1,0,0,0,1,velmi dobre,vybavene,osobni,Ostrava,49.781227,18.278284
+sreality,10990000,76,3,1,0,1,1,3,novostavba,vybavene,osobni,Brno,49.141331,16.551373
+sreality,3800000,80,3,0,0,0,0,1,velmi dobre,vybavene,osobni,Trutnov,50.60231,15.661373
+sreality,4600000,80,3,1,0,0,0,1,velmi dobre,vybavene,osobni,Ostrava,49.793915,18.257454
+sreality,7990000,41,2,1,0,1,0,1,dobre,vybavene,osobni,Praha 8,50.118332,14.461049
+sreality,10900000,39,1,0,0,0,0,3,velmi dobre,vybavene,osobni,Praha 1,50.088387,14.426569
+sreality,5590000,47,2,0,0,0,0,1,dobre,vybavene,osobni,Praha 8,50.147232,14.448939
+sreality,5480000,50,2,1,1,1,0,5,dobre,vybavene,osobni,Olomouc,49.574608,17.249584
+sreality,6142000,32,1,1,1,1,0,2,velmi dobre,vybavene,osobni,Praha 9,50.138824,14.548953
+sreality,8890000,60,2,1,0,1,1,2,velmi dobre,vybavene,osobni,Praha 5,49.968033,14.385454
+sreality,9100000,56,2,0,0,0,0,4,dobre,vybavene,osobni,Praha 6,50.106342,14.379704
+sreality,6200000,36,1,1,1,1,0,2,novostavba,vybavene,osobni,Praha 9,50.101383,14.563248
+sreality,5580000,68,3,0,0,0,1,4,velmi dobre,vybavene,osobni,Plzeň,49.747787,13.393314
+sreality,4290000,50,1,0,0,0,0,4,velmi dobre,vybavene,osobni,Plzeň,49.746117,13.366244
+sreality,6250000,56,2,1,1,1,1,3,novostavba,vybavene,osobni,Plzeň,49.710403,13.325038
+sreality,5900000,58,2,0,0,1,0,3,velmi dobre,vybavene,osobni,Plzeň,49.727825,13.404421
+sreality,10500000,78,3,1,1,1,1,5,velmi dobre,vybavene,osobni,Brno,49.199032,16.645559
+sreality,10794900,47,2,1,1,1,1,4,novostavba,vybavene,osobni,Praha 5,50.071247,14.406638
+sreality,14310950,68,2,1,1,1,1,3,novostavba,vybavene,osobni,Praha 5,50.071194,14.406509
+sreality,11243971,67,3,1,1,1,1,2,novostavba,vybavene,osobni,Praha 10,50.055046,14.516415
+sreality,14400400,110,3,1,0,0,0,1,dobre,vybavene,osobni,Praha 6,50.08572,14.319221
+sreality,15664000,63,2,1,1,0,1,1,velmi dobre,vybavene,osobni,Praha 1,50.091057,14.42034
+sreality,18366300,88,3,1,1,0,0,3,velmi dobre,vybavene,osobni,Praha 4,50.06551,14.438411
+sreality,3549000,56,2,0,1,0,0,2,velmi dobre,vybavene,osobni,Ostrava,49.784264,18.236052
+sreality,8400000,36,2,1,0,0,0,1,velmi dobre,vybavene,osobni,Praha 10,50.069969,14.447965
+sreality,15190000,95,3,1,1,1,0,3,novostavba,vybavene,osobni,Praha 5,50.060966,14.398317
+sreality,5699000,48,2,1,1,1,1,2,novostavba,vybavene,osobni,Kladno,50.161457,14.135164
+sreality,2890000,49,1,0,0,0,1,5,velmi dobre,vybavene,osobni,Ostrava,49.832142,18.280087
+sreality,4590000,50,2,0,1,1,1,1,velmi dobre,vybavene,osobni,České Budějovice,48.961311,14.473403
+sreality,5950000,42,2,1,0,1,0,1,velmi dobre,vybavene,osobni,Brno,49.180984,16.596788
+sreality,6900000,47,2,0,1,1,0,8,dobre,vybavene,osobni,Praha 4,50.027637,14.419114
+sreality,9500000,57,2,0,0,0,0,5,velmi dobre,vybavene,osobni,Praha 6,50.104515,14.376817
+sreality,9190000,52,2,1,0,1,0,5,velmi dobre,vybavene,osobni,Praha 4,50.056656,14.444352
+sreality,7290000,52,1,0,0,0,0,3,velmi dobre,vybavene,osobni,Praha 4,50.056656,14.444352
+sreality,5990000,88,3,1,0,1,0,2,dobre,vybavene,osobni,Karlovy Vary,50.227688,12.861362
+sreality,7105000,39,2,1,1,1,0,1,novostavba,vybavene,osobni,Brno,49.127892,16.614414
+sreality,7499000,119,3,1,0,1,0,2,velmi dobre,vybavene,osobni,Brno,49.31324,16.477913
+sreality,4990000,60,2,0,0,0,1,1,dobre,vybavene,osobni,Brno,48.938622,16.52742
+sreality,24700000,135,5,1,0,1,1,2,novostavba,vybavene,osobni,Trutnov,50.69276,15.730254
+sreality,6498000,74,3,0,0,1,0,3,velmi dobre,vybavene,osobni,Plzeň,49.753044,13.29939
+sreality,9316340,56,2,1,1,0,1,3,velmi dobre,vybavene,osobni,Praha 4,50.058594,14.449862
+sreality,9316340,44,2,1,1,1,0,3,velmi dobre,vybavene,osobni,Praha 4,50.06168,14.451336
+sreality,19729000,103,4,1,1,1,1,4,novostavba,vybavene,osobni,Praha 9,50.107922,14.492459
+sreality,27777326,120,4,1,1,1,1,8,novostavba,vybavene,osobni,Praha 9,50.107922,14.492459
+sreality,6950000,46,2,1,0,0,0,5,velmi dobre,vybavene,osobni,Praha 5,50.051411,14.317621
+sreality,4975000,42,2,1,0,0,1,1,velmi dobre,vybavene,osobni,Brno,49.151031,16.656815
+sreality,4775000,38,2,1,0,0,1,1,velmi dobre,vybavene,osobni,Brno,49.151031,16.656815
+sreality,11999000,75,2,1,1,1,1,8,novostavba,vybavene,osobni,Praha 3,50.084606,14.482682
+sreality,6249900,55,1,0,1,1,0,10,dobre,vybavene,osobni,Praha 8,50.131596,14.425169
+sreality,25499000,123,4,0,1,0,0,5,dobre,vybavene,osobni,Praha 1,50.088985,14.425909
+sreality,12990000,88,3,0,0,0,0,6,velmi dobre,vybavene,osobni,Praha 3,50.089764,14.47123
+sreality,15240000,98,4,1,1,1,1,2,velmi dobre,vybavene,osobni,Praha,50.036499,14.3295
+sreality,9400000,77,3,0,0,0,1,2,velmi dobre,vybavene,osobni,Praha,49.968777,14.394235
+sreality,15490000,100,3,1,1,1,1,1,velmi dobre,vybavene,osobni,Praha 9,50.115696,14.510242
+sreality,16200000,86,3,1,1,1,1,3,novostavba,vybavene,osobni,Praha 5,50.031612,14.379066
+sreality,11400000,126,4,1,0,1,0,5,velmi dobre,vybavene,osobni,Brno,49.186386,16.631744
+sreality,7750000,73,3,1,1,1,0,2,velmi dobre,vybavene,osobni,Český Krumlov,48.639812,14.226622
+sreality,15500000,118,3,1,1,1,1,8,velmi dobre,vybavene,osobni,Praha 9,50.139229,14.519882
+sreality,1690000,40,1,0,0,1,0,2,dobre,vybavene,osobni,Trutnov,50.56628,16.057072
+sreality,16604461,100,4,1,1,1,1,7,novostavba,vybavene,osobni,Praha 10,50.058334,14.513746
+sreality,8538060,53,2,1,1,1,0,2,novostavba,vybavene,osobni,Praha 10,50.058334,14.513746
+sreality,22024477,88,3,1,1,1,1,4,novostavba,vybavene,osobni,Praha 3,50.090618,14.466938
+sreality,12793080,72,3,1,1,0,1,2,novostavba,vybavene,osobni,Praha 9,50.11219,14.506794
+sreality,4680000,45,2,0,0,0,1,1,velmi dobre,vybavene,osobni,České Budějovice,48.961578,14.468282
+sreality,5450000,68,2,0,0,0,0,3,velmi dobre,vybavene,osobni,Olomouc,49.612431,17.258507
+sreality,8290000,95,4,0,1,1,0,4,dobre,vybavene,osobni,Pardubice,50.025318,15.767062
+sreality,7290000,51,2,0,0,1,0,5,velmi dobre,vybavene,osobni,Praha 10,50.054577,14.503259
+sreality,11490000,97,4,1,0,1,1,3,novostavba,vybavene,osobni,Brno,49.164112,16.603233
+sreality,9990000,44,2,1,1,1,0,1,novostavba,vybavene,osobni,Praha,50.012009,14.412961
+sreality,7100000,75,3,1,0,0,0,2,velmi dobre,vybavene,osobni,Olomouc,49.600471,17.23258
+sreality,7100000,59,2,1,1,0,0,2,novostavba,vybavene,osobni,Brno,49.201508,16.623514
+sreality,8900000,53,2,1,1,1,0,2,novostavba,vybavene,osobni,Praha 3,50.088413,14.484876
+sreality,3990000,85,1,0,0,0,1,1,dobre,vybavene,osobni,Liberec,50.704403,14.941896
+sreality,32000000,240,5,0,1,1,0,5,velmi dobre,vybavene,osobni,Praha 6,50.099236,14.393631
+sreality,12764858,53,2,1,0,0,0,3,novostavba,vybavene,osobni,Praha 2,50.070736,14.430594
+sreality,9853326,41,2,1,0,0,0,3,novostavba,vybavene,osobni,Praha 2,50.070736,14.430594
+sreality,10377233,51,2,1,0,0,0,1,novostavba,vybavene,osobni,Praha 2,50.070736,14.430594
+sreality,16294875,90,3,1,0,0,0,1,novostavba,vybavene,osobni,Praha 2,50.070736,14.430594
+sreality,8500000,51,2,1,1,0,0,1,novostavba,vybavene,osobni,Praha 8,50.11433,14.474452
+sreality,8370000,45,2,1,1,0,1,2,novostavba,vybavene,osobni,Praha 10,50.072262,14.480817
+sreality,8490000,57,2,1,1,0,1,2,novostavba,vybavene,osobni,Praha 8,50.13979,14.397823
+sreality,6835000,44,1,1,1,0,1,2,novostavba,vybavene,osobni,Praha 8,50.13979,14.397823
+sreality,12990000,89,3,1,1,1,1,3,novostavba,vybavene,osobni,Praha 8,50.135525,14.393878
+sreality,4290000,62,3,1,1,1,0,1,velmi dobre,vybavene,osobni,Ostrava,49.772926,18.2509
+sreality,9980000,78,2,1,1,0,0,3,novostavba,vybavene,osobni,Trutnov,50.634602,15.716209
+sreality,8290000,97,4,0,0,1,0,3,velmi dobre,vybavene,osobni,Kladno,50.150166,14.095945
+sreality,8650000,74,2,1,1,1,0,2,velmi dobre,vybavene,osobni,Praha 9,50.104527,14.4881
+sreality,9950000,63,3,1,1,1,0,3,velmi dobre,vybavene,osobni,Praha 3,50.088715,14.459738
+sreality,12918400,58,2,1,1,0,0,3,velmi dobre,vybavene,osobni,Praha 3,50.079895,14.45503
+sreality,8132500,32,2,1,1,0,0,3,velmi dobre,vybavene,osobni,Praha 3,50.079895,14.45503
+sreality,9500000,96,3,1,1,1,0,6,velmi dobre,vybavene,osobni,Karlovy Vary,50.234821,12.873309
+sreality,8990000,45,2,1,1,1,1,1,novostavba,vybavene,osobni,Praha 10,50.065895,14.496248
+sreality,7790000,45,3,1,1,0,0,4,velmi dobre,vybavene,osobni,Praha,50.023949,14.49595
+sreality,7300000,57,2,0,1,1,0,3,velmi dobre,vybavene,osobni,Praha 4,50.04509,14.488953
+sreality,9590000,49,2,1,1,0,0,1,novostavba,vybavene,osobni,Praha 4,49.998055,14.407723
+sreality,4300000,61,3,1,0,0,1,1,dobre,vybavene,osobni,Pardubice,50.153286,15.756632
+sreality,3490000,51,2,1,0,0,0,3,velmi dobre,vybavene,osobni,Liberec,50.745228,15.085835
+sreality,3290000,31,1,1,0,0,0,1,velmi dobre,vybavene,osobni,Liberec,50.745228,15.085835
+sreality,6980000,40,1,1,1,1,1,2,velmi dobre,vybavene,osobni,Praha 5,50.063004,14.37985
+sreality,9490000,50,2,1,1,1,1,2,velmi dobre,vybavene,osobni,Praha 5,50.063004,14.37985
+sreality,16470000,90,3,1,1,1,1,2,velmi dobre,vybavene,osobni,Praha 5,50.063004,14.37985
+sreality,9499000,106,4,1,0,1,1,2,velmi dobre,vybavene,osobni,Plzeň,49.755432,13.378911
+sreality,6999999,102,4,0,1,1,1,10,dobre,vybavene,osobni,Karlovy Vary,50.237751,12.864752
+sreality,3890000,61,2,1,0,0,1,3,velmi dobre,vybavene,osobni,Český Krumlov,48.816753,14.304142
+sreality,3690000,79,3,0,0,1,1,2,dobre,vybavene,osobni,Praha,50.262749,14.685316
+sreality,2790000,33,1,1,0,0,1,1,velmi dobre,vybavene,osobni,Kladno,50.149216,14.137625
+sreality,5249000,74,3,0,0,0,0,4,dobre,vybavene,osobni,Zlín,49.232067,17.677797
+sreality,7790000,51,2,1,1,0,0,5,dobre,vybavene,osobni,Praha 6,50.086277,14.374228
+sreality,15990000,83,3,1,0,1,0,4,novostavba,vybavene,osobni,Brno,49.181038,16.589787
+sreality,9900000,81,3,0,1,1,0,8,dobre,vybavene,osobni,Praha 8,50.131573,14.42914
+sreality,4990000,52,1,0,0,0,0,1,velmi dobre,vybavene,osobni,Plzeň,49.737564,13.392915
+sreality,6790000,39,1,1,1,1,0,3,velmi dobre,vybavene,osobni,Praha 9,50.093254,14.513268
+sreality,7390000,117,4,0,0,1,0,3,velmi dobre,vybavene,osobni,Karlovy Vary,50.231422,12.878221
+sreality,18940013,110,3,1,1,1,1,4,novostavba,vybavene,osobni,Praha 5,50.060715,14.401836
+sreality,9955699,62,2,1,1,0,1,3,novostavba,vybavene,osobni,Praha 5,50.060715,14.401836
+sreality,17571555,107,3,1,1,1,1,5,novostavba,vybavene,osobni,Praha 5,50.060715,14.401836
+sreality,3990000,80,2,1,0,0,0,1,velmi dobre,vybavene,osobni,Ostrava,49.853165,18.279724
+sreality,14986324,97,3,1,1,0,1,2,novostavba,vybavene,osobni,Praha 5,50.060715,14.401836
+sreality,14862271,80,3,1,1,1,1,1,novostavba,vybavene,osobni,Praha 5,50.060715,14.401836
+sreality,23000000,191,5,0,1,0,0,7,velmi dobre,vybavene,osobni,Praha 3,50.083096,14.452043
+sreality,7290000,33,1,1,1,1,1,9,novostavba,vybavene,osobni,Praha 9,50.103748,14.488918
+sreality,8490000,68,3,1,1,0,0,1,dobre,vybavene,osobni,Praha 9,50.122662,14.492733
+sreality,11428050,177,4,1,1,1,1,4,velmi dobre,vybavene,osobni,Karlovy Vary,50.224606,12.881236
+sreality,4990000,60,2,1,0,0,0,4,velmi dobre,vybavene,osobni,Olomouc,49.583237,17.251772
+sreality,5350000,40,1,1,1,0,1,1,novostavba,vybavene,osobni,Plzeň,49.731941,13.35575
+sreality,5500000,58,2,0,1,1,1,6,velmi dobre,vybavene,osobni,Liberec,50.764744,15.049376
+sreality,4250000,50,2,0,0,1,0,4,velmi dobre,vybavene,osobni,Plzeň,49.733025,13.407267
+sreality,5332489,49,2,1,1,1,0,3,novostavba,vybavene,osobni,Kladno,50.151047,14.115027
+sreality,11532363,70,3,1,1,1,1,2,novostavba,vybavene,osobni,Praha 9,50.103188,14.521189
+sreality,10750000,82,4,1,0,1,0,5,velmi dobre,vybavene,osobni,Praha 9,50.146484,14.532371
+sreality,5853743,32,1,1,1,0,0,2,novostavba,vybavene,osobni,Praha 5,49.983887,14.359959
+sreality,5200000,68,1,1,1,1,0,1,novostavba,vybavene,osobni,Brno,49.210617,16.496885
+sreality,5480000,44,2,1,0,1,1,1,novostavba,vybavene,osobni,Brno,49.101444,16.37752
+sreality,4090000,33,1,1,0,0,0,2,velmi dobre,vybavene,osobni,Kladno,50.128521,14.118181
+sreality,8700000,53,2,1,1,1,1,5,velmi dobre,vybavene,osobni,Praha 9,50.127037,14.503071
+sreality,4890000,23,1,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha 5,50.058468,14.378085
+sreality,8590000,51,2,1,1,0,1,2,velmi dobre,vybavene,osobni,Praha 5,50.058468,14.378085
+sreality,7490000,70,3,0,0,0,0,1,dobre,vybavene,osobni,České Budějovice,48.988647,14.467381
+sreality,3150000,45,2,1,1,1,0,3,dobre,vybavene,osobni,Zlín,49.291904,17.863007
+sreality,7190000,47,2,1,0,0,0,1,dobre,vybavene,osobni,Praha 4,50.057232,14.446583
+sreality,8281000,159,3,1,1,1,1,1,novostavba,vybavene,osobni,Kladno,50.161457,14.135164
+sreality,4200000,63,2,0,1,1,0,10,velmi dobre,vybavene,osobni,Ostrava,49.836185,18.25701
+sreality,7500000,119,4,0,1,1,1,3,velmi dobre,vybavene,osobni,Ostrava,49.839668,18.286266
+sreality,4450000,71,3,0,1,0,0,7,velmi dobre,vybavene,osobni,Ostrava,49.799858,18.240114
+sreality,10727200,47,2,1,1,0,0,3,velmi dobre,vybavene,osobni,Praha 3,50.079895,14.45503
+sreality,12390000,82,3,1,1,0,1,2,velmi dobre,vybavene,osobni,Praha 5,50.071716,14.389139
+sreality,4720900,47,1,1,1,1,1,4,novostavba,vybavene,osobni,České Budějovice,48.976238,14.5018
+sreality,8316480,84,3,1,1,1,1,6,novostavba,vybavene,osobni,České Budějovice,48.976238,14.5018
+sreality,9700000,80,3,0,0,1,0,4,velmi dobre,vybavene,osobni,Praha,50.059357,14.290748
+sreality,4650000,52,2,0,1,0,0,1,dobre,vybavene,osobni,Kladno,50.130886,14.126304
+sreality,7490000,38,1,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha 2,50.066448,14.429244
+sreality,8790000,57,3,1,1,0,0,5,velmi dobre,vybavene,osobni,Praha 8,50.091888,14.448312
+sreality,27990000,128,4,0,1,1,0,2,velmi dobre,vybavene,osobni,Praha 2,50.073608,14.434263
+sreality,10990000,78,2,1,1,0,0,4,velmi dobre,vybavene,osobni,Praha 8,50.103786,14.476581
+sreality,6290000,36,1,0,0,0,0,2,dobre,vybavene,osobni,Praha 8,50.105984,14.477245
+sreality,6276600,32,1,1,1,0,1,1,velmi dobre,vybavene,osobni,Praha 2,50.075928,14.427186
+sreality,9300000,69,1,0,0,0,0,3,dobre,vybavene,osobni,Praha 3,50.095108,14.492876
+sreality,8500000,51,2,1,1,1,0,2,velmi dobre,vybavene,osobni,Praha 5,50.070286,14.380476
+sreality,5800000,80,2,0,1,1,0,2,velmi dobre,vybavene,osobni,Karlovy Vary,50.2342,12.871859
+sreality,7995000,51,2,1,0,1,0,4,velmi dobre,vybavene,osobni,Praha 5,49.969772,14.386572
+sreality,18500000,95,3,1,1,1,1,3,novostavba,vybavene,osobni,Praha 4,50.034157,14.415149
+sreality,7250000,40,2,1,0,0,1,2,novostavba,vybavene,osobni,Praha 10,50.055496,14.484432
+sreality,9990000,76,3,1,0,1,1,3,novostavba,vybavene,osobni,Brno,49.141331,16.551373
+sreality,16890000,172,4,0,0,1,1,2,dobre,vybavene,osobni,Praha 9,50.139832,14.511075
+sreality,39900000,235,3,1,1,1,0,7,velmi dobre,vybavene,osobni,Praha 1,50.078972,14.415912
+sreality,29500000,186,5,1,1,0,1,8,velmi dobre,vybavene,osobni,Praha 3,50.082184,14.452297
+sreality,18950000,111,3,1,1,1,1,3,velmi dobre,vybavene,osobni,Praha 4,50.049946,14.454318
+sreality,26990000,128,4,0,1,1,0,2,velmi dobre,vybavene,osobni,Praha 2,50.073608,14.434263
+sreality,7290000,38,1,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha 2,50.066448,14.429244
+sreality,17490000,84,4,1,1,1,1,10,novostavba,vybavene,osobni,Praha 4,50.006672,14.45331
+sreality,10890000,68,3,1,1,1,1,3,novostavba,vybavene,osobni,Praha 9,50.093208,14.512638
+sreality,8150000,85,4,0,1,1,0,7,velmi dobre,vybavene,osobni,Brno,49.176525,16.553732
+sreality,6990000,51,2,0,1,1,0,1,velmi dobre,vybavene,osobni,Brno,49.215897,16.575991
+sreality,8750000,75,2,1,0,1,1,2,velmi dobre,vybavene,osobni,Brno,49.212654,16.56986
+sreality,4750000,34,1,0,0,1,1,4,velmi dobre,vybavene,osobni,Brno,49.228306,16.529684
+sreality,7950000,69,2,1,0,1,1,2,velmi dobre,vybavene,osobni,Brno,49.247498,16.573442
+sreality,19290000,115,3,0,0,0,0,2,dobre,vybavene,osobni,Praha 5,50.065842,14.365302
+sreality,11500000,52,2,1,1,0,0,4,velmi dobre,vybavene,osobni,Praha,50.090477,14.429967
+sreality,10490000,74,2,1,1,1,1,2,velmi dobre,vybavene,osobni,Praha 10,50.054066,14.489308
+sreality,11900000,82,3,1,1,0,1,2,velmi dobre,vybavene,osobni,Praha 5,50.071716,14.389139
+sreality,7599999,52,2,0,1,1,0,5,dobre,vybavene,osobni,Praha 10,50.067017,14.463294
+sreality,9490000,67,3,0,1,1,0,2,velmi dobre,vybavene,osobni,Praha 4,50.032887,14.517145
+sreality,5390000,44,1,0,1,0,0,1,dobre,vybavene,osobni,Brno,49.18565,16.600441
+sreality,8960000,62,3,0,0,1,0,2,dobre,vybavene,osobni,Praha 10,50.071728,14.509783
+sreality,12200000,78,3,1,1,1,1,8,novostavba,vybavene,osobni,Praha 9,50.109688,14.527269
+sreality,5890000,57,2,1,0,0,1,1,velmi dobre,vybavene,osobni,Plzeň,49.722992,13.401561
+sreality,9290000,83,3,0,1,1,0,1,velmi dobre,vybavene,osobni,Praha 6,50.067944,14.297962
+sreality,8180000,44,2,1,1,0,0,5,velmi dobre,vybavene,osobni,Praha 3,50.090828,14.472815
+sreality,6100000,90,3,1,1,0,0,6,velmi dobre,vybavene,osobni,Karlovy Vary,50.231228,12.873023
+sreality,3500000,62,2,0,0,0,1,3,dobre,vybavene,osobni,Ostrava,49.830086,18.260439
+sreality,5800000,94,2,1,0,0,1,3,velmi dobre,vybavene,osobni,Karlovy Vary,50.228352,12.86996
+sreality,20900000,231,4,1,1,1,1,14,novostavba,vybavene,osobni,Plzeň,49.724178,13.369744
+sreality,5290000,62,3,0,1,0,0,6,velmi dobre,vybavene,osobni,Plzeň,49.729317,13.373938
+sreality,5300000,60,2,0,1,1,0,3,velmi dobre,vybavene,osobni,Kladno,50.134064,14.131502
+sreality,13688200,135,4,0,0,1,0,2,dobre,vybavene,osobni,Brno,49.181358,16.590845
+sreality,4890000,56,2,0,0,0,0,3,dobre,vybavene,osobni,Plzeň,49.722477,13.405426
+sreality,4795000,61,2,0,1,1,0,3,dobre,vybavene,osobni,Plzeň,49.72789,13.375569
+sreality,5495000,32,1,1,1,0,0,6,velmi dobre,vybavene,osobni,Brno,49.19157,16.616091
+sreality,12450000,71,2,1,0,0,0,5,velmi dobre,vybavene,osobni,Praha 8,50.09494,14.458605
+sreality,5990000,23,1,1,1,0,1,5,velmi dobre,vybavene,osobni,Praha 3,50.080555,14.452493
+sreality,8650000,40,2,1,1,0,1,6,velmi dobre,vybavene,osobni,Praha 3,50.080555,14.452493
+sreality,5990000,23,1,1,1,0,0,3,velmi dobre,vybavene,osobni,Praha 3,50.081169,14.453619
+sreality,17700000,86,3,1,1,1,1,1,novostavba,vybavene,osobni,Praha 5,50.064987,14.369
+sreality,4250000,53,3,1,0,0,0,3,velmi dobre,vybavene,osobni,Trutnov,50.576885,15.952114
+sreality,7290000,37,2,1,1,0,0,3,velmi dobre,vybavene,osobni,Praha 4,50.063202,14.44803
+sreality,5890000,97,2,1,0,0,0,3,dobre,vybavene,osobni,Karlovy Vary,50.226604,12.88245
+sreality,4250000,58,3,1,0,0,0,2,velmi dobre,vybavene,osobni,Trutnov,50.576885,15.952114
+sreality,11800000,70,2,0,1,1,0,4,velmi dobre,vybavene,osobni,Praha 5,50.069794,14.379378
+sreality,7790000,58,3,1,0,1,0,1,velmi dobre,vybavene,osobni,Praha 4,50.007366,14.42078
+sreality,5550000,55,2,1,1,0,0,1,novostavba,vybavene,osobni,Plzeň,49.748943,13.34171
+sreality,9990000,108,4,1,0,1,0,1,velmi dobre,vybavene,osobni,Plzeň,49.6973,13.415259
+sreality,13455000,74,3,1,1,0,0,1,novostavba,vybavene,osobni,Praha,50.041576,14.588147
+sreality,13090000,72,3,1,0,0,0,2,velmi dobre,vybavene,osobni,Praha 2,50.07682,14.433805
+sreality,11875973,87,3,1,1,0,1,2,novostavba,vybavene,osobni,Praha,50.087353,14.568163
+sreality,20094000,107,4,1,1,0,0,1,novostavba,vybavene,osobni,Praha 5,50.055424,14.381661
+sreality,14645000,91,3,1,1,1,0,2,novostavba,vybavene,osobni,Praha 5,50.055424,14.381661
+sreality,15997000,89,3,1,1,1,0,3,novostavba,vybavene,osobni,Praha 5,50.055424,14.381661
+sreality,10770000,46,2,1,1,1,0,3,novostavba,vybavene,osobni,Praha 5,50.055424,14.381661
+sreality,5815400,29,1,1,1,1,0,2,novostavba,vybavene,osobni,Praha,50.041576,14.588147
+sreality,10944320,59,3,1,1,1,1,3,novostavba,vybavene,osobni,Praha,50.041576,14.588147
+sreality,13658360,76,4,1,1,1,1,2,novostavba,vybavene,osobni,Praha,50.041576,14.588147
+sreality,21300000,153,4,1,0,0,1,1,velmi dobre,vybavene,osobni,Praha 5,50.013962,14.390326
+sreality,5850000,55,2,1,1,0,1,5,velmi dobre,vybavene,osobni,Brno,49.199638,16.620007
+sreality,5750000,56,2,1,1,1,1,6,velmi dobre,vybavene,osobni,Brno,49.199638,16.620007
+sreality,6220000,71,2,0,1,1,0,10,velmi dobre,vybavene,osobni,Pardubice,50.035175,15.762774
+sreality,6220000,71,3,0,1,1,0,10,velmi dobre,vybavene,osobni,Pardubice,50.035175,15.762774
+sreality,7590000,38,1,1,1,1,1,3,novostavba,vybavene,osobni,Praha 4,49.999748,14.405152
+sreality,5490000,62,2,1,1,1,0,2,velmi dobre,vybavene,osobni,Olomouc,49.574604,17.249584
+sreality,3950000,50,2,0,1,1,0,5,dobre,vybavene,osobni,Ostrava,49.845016,18.161211
+sreality,2999000,35,1,0,1,0,0,5,dobre,vybavene,osobni,Olomouc,49.582081,17.302122
+sreality,6950000,40,1,1,0,0,0,2,novostavba,vybavene,osobni,Praha 10,50.06427,14.446064
+sreality,5990000,62,3,0,0,1,0,4,dobre,vybavene,osobni,Pardubice,50.026344,15.777946
+sreality,9999900,84,5,1,1,1,0,5,velmi dobre,vybavene,osobni,Brno,49.209137,16.660734
+sreality,12799900,94,4,1,1,1,0,8,velmi dobre,vybavene,osobni,Praha 10,50.057995,14.468289
+sreality,13799900,75,4,1,1,1,0,6,velmi dobre,vybavene,osobni,Praha 3,50.090412,14.49563
+sreality,8999900,54,2,1,0,0,0,1,velmi dobre,vybavene,osobni,Praha 10,50.07336,14.479058
+sreality,13999900,78,3,1,1,1,1,2,velmi dobre,vybavene,osobni,Praha 10,50.055096,14.494827
+sreality,8649900,42,2,1,1,0,0,5,velmi dobre,vybavene,osobni,Praha 10,50.071815,14.462531
+sreality,14999900,81,3,1,1,0,0,4,velmi dobre,vybavene,osobni,Praha 10,50.065205,14.45071
+sreality,8799900,41,2,1,0,0,0,1,velmi dobre,vybavene,osobni,Praha 10,50.072937,14.474713
+sreality,19999900,117,4,1,1,0,0,6,velmi dobre,vybavene,osobni,Praha 2,50.075748,14.445976
+sreality,25999900,139,5,1,1,0,0,6,velmi dobre,vybavene,osobni,Praha 2,50.075748,14.445976
+sreality,10199900,57,3,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha 10,50.07024,14.470469
+sreality,11799900,97,4,1,0,0,0,2,velmi dobre,vybavene,osobni,Brno,49.203838,16.62237
+sreality,9199900,53,2,1,0,0,0,4,velmi dobre,vybavene,osobni,Praha 10,50.075954,14.491883
+sreality,14999900,76,4,1,1,1,0,2,velmi dobre,vybavene,osobni,Praha 6,50.084881,14.369196
+sreality,13699900,85,4,1,1,1,0,2,velmi dobre,vybavene,osobni,Brno,49.205971,16.595387
+sreality,13899900,52,2,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha 2,50.075748,14.445976
+sreality,10999900,79,4,1,1,1,0,2,velmi dobre,vybavene,osobni,Praha 4,50.048347,14.484312
+sreality,13999900,54,2,1,1,0,0,5,velmi dobre,vybavene,osobni,Praha 2,50.075748,14.445976
+sreality,3750000,37,1,0,1,0,0,4,velmi dobre,vybavene,osobni,Zlín,49.24173,17.65283
+sreality,22800000,120,4,1,1,1,1,1,novostavba,vybavene,osobni,Praha 6,50.078136,14.303317
+sreality,10903441,65,3,1,1,0,1,1,novostavba,vybavene,osobni,Praha 5,50.029373,14.361618
+sreality,16990000,99,4,1,1,1,1,4,velmi dobre,vybavene,osobni,Praha 5,50.032276,14.376992
+sreality,6490000,32,1,1,1,0,1,3,velmi dobre,vybavene,osobni,Praha 5,50.071117,14.384736
+sreality,5200000,25,1,1,0,0,0,1,velmi dobre,vybavene,osobni,Praha 3,50.093357,14.484075
+sreality,4290000,72,2,0,0,0,0,2,velmi dobre,vybavene,osobni,Liberec,50.745228,15.085835
+sreality,4490000,59,2,0,0,0,0,2,velmi dobre,vybavene,osobni,Liberec,50.745228,15.085835
+sreality,6400000,25,1,1,1,0,0,3,velmi dobre,vybavene,osobni,Praha,50.098297,14.431314
+sreality,13800000,135,3,1,0,1,1,3,velmi dobre,vybavene,osobni,Praha 10,50.087013,14.503189
+sreality,5290000,79,3,0,0,0,0,2,velmi dobre,vybavene,osobni,Liberec,50.745228,15.085835
+sreality,3990000,40,1,0,0,0,0,1,velmi dobre,vybavene,osobni,Liberec,50.745228,15.085835
+sreality,5900000,70,2,1,1,0,0,2,velmi dobre,vybavene,osobni,Karlovy Vary,50.220924,12.885031
+sreality,2490000,22,1,1,0,0,0,3,velmi dobre,vybavene,osobni,Liberec,50.745228,15.085835
+sreality,7482000,60,2,1,1,0,0,1,novostavba,vybavene,osobni,Brno,49.204189,16.630672
+sreality,5490000,95,3,0,0,0,0,2,velmi dobre,vybavene,osobni,Liberec,50.745228,15.085835
+sreality,6000000,66,2,0,1,0,0,1,velmi dobre,vybavene,osobni,Pardubice,50.0331,15.768673
+sreality,6150000,38,2,1,1,1,0,2,novostavba,vybavene,osobni,Brno,49.180557,16.638567
+sreality,6660000,39,1,0,0,0,0,3,velmi dobre,vybavene,osobni,Praha 5,50.051613,14.406657
+sreality,4490000,118,3,0,0,0,0,1,velmi dobre,vybavene,osobni,Liberec,50.745228,15.085835
+sreality,3790000,70,3,0,0,0,0,3,velmi dobre,vybavene,osobni,Liberec,50.745228,15.085835
+sreality,13467500,89,3,1,1,0,0,7,velmi dobre,vybavene,osobni,Praha,50.058376,14.420282
+sreality,11450000,78,3,1,0,1,0,2,velmi dobre,vybavene,osobni,Praha 4,50.058434,14.424773
+sreality,9934400,46,2,1,1,1,1,3,novostavba,vybavene,osobni,Praha 9,50.107922,14.492459
+sreality,15960700,75,3,1,1,1,1,3,novostavba,vybavene,osobni,Praha 9,50.107922,14.492459
+sreality,10797500,47,2,1,1,1,1,5,novostavba,vybavene,osobni,Praha 9,50.107922,14.492459
+sreality,19635500,85,4,1,1,1,1,6,novostavba,vybavene,osobni,Praha 9,50.107922,14.492459
+sreality,5170000,60,2,1,1,1,1,1,novostavba,vybavene,osobni,Karlovy Vary,50.230106,12.866589
+sreality,5600000,68,2,1,1,1,1,3,novostavba,vybavene,osobni,Karlovy Vary,50.230106,12.866589
+sreality,5210000,60,2,1,1,1,1,1,novostavba,vybavene,osobni,Karlovy Vary,50.230106,12.866589
+sreality,4920000,46,1,1,1,0,0,5,novostavba,vybavene,osobni,Liberec,50.769997,15.058449
+sreality,4200000,41,1,1,1,0,0,2,novostavba,vybavene,osobni,Liberec,50.749416,15.067144
+sreality,4950000,60,2,1,1,1,1,1,novostavba,vybavene,osobni,Karlovy Vary,50.230106,12.866589
+sreality,5120000,49,2,1,1,1,0,2,novostavba,vybavene,osobni,Liberec,50.749416,15.067144
+sreality,4500000,39,1,1,1,1,1,1,novostavba,vybavene,osobni,Karlovy Vary,50.230106,12.866589
+sreality,5250000,60,2,1,1,1,1,1,novostavba,vybavene,osobni,Karlovy Vary,50.230106,12.866589
+sreality,5300000,52,1,1,1,0,0,9,novostavba,vybavene,osobni,Liberec,50.749416,15.067144
+sreality,12052000,150,4,1,1,1,0,4,novostavba,vybavene,osobni,Kladno,50.147335,14.10285
+sreality,5770000,60,2,1,1,1,1,1,novostavba,vybavene,osobni,Karlovy Vary,50.230106,12.866589
+sreality,7300000,73,3,1,1,1,0,4,novostavba,vybavene,osobni,Liberec,50.749416,15.067144
+sreality,4160000,37,1,1,1,0,0,6,novostavba,vybavene,osobni,Liberec,50.749416,15.067144
+sreality,5300000,60,2,1,1,1,1,4,novostavba,vybavene,osobni,Karlovy Vary,50.230106,12.866589
+sreality,4720000,47,1,1,1,0,0,1,novostavba,vybavene,osobni,Liberec,50.769997,15.058449
+sreality,5590000,60,2,1,1,1,1,4,novostavba,vybavene,osobni,Karlovy Vary,50.230106,12.866589
+sreality,5150000,60,2,1,1,1,1,1,novostavba,vybavene,osobni,Karlovy Vary,50.230106,12.866589
+sreality,5400000,60,2,1,1,1,1,4,novostavba,vybavene,osobni,Karlovy Vary,50.230106,12.866589
+sreality,4900000,52,1,1,1,1,0,3,novostavba,vybavene,osobni,Liberec,50.749416,15.067144
+sreality,4100000,40,1,1,1,0,0,1,novostavba,vybavene,osobni,Liberec,50.749416,15.067144
+sreality,5960000,68,2,1,1,1,1,4,novostavba,vybavene,osobni,Karlovy Vary,50.230106,12.866589
+sreality,3990000,76,1,1,1,0,0,1,novostavba,vybavene,osobni,Karlovy Vary,50.230106,12.866589
+sreality,5350000,52,1,1,1,0,0,3,novostavba,vybavene,osobni,Liberec,50.769997,15.058449
+sreality,5000000,49,2,1,1,1,0,1,novostavba,vybavene,osobni,Liberec,50.749416,15.067144
+sreality,5140000,60,2,1,1,1,1,3,novostavba,vybavene,osobni,Karlovy Vary,50.230106,12.866589
+sreality,7290000,53,2,1,0,1,0,1,velmi dobre,vybavene,osobni,Brno,49.199844,16.697014
+sreality,6070000,62,2,1,1,1,1,5,novostavba,vybavene,osobni,Karlovy Vary,50.230106,12.866589
+sreality,5470000,62,2,1,1,1,1,2,novostavba,vybavene,osobni,Karlovy Vary,50.230106,12.866589
+sreality,4820000,42,1,1,1,1,0,3,novostavba,vybavene,osobni,Liberec,50.749416,15.067144
+sreality,7461500,44,2,1,1,0,0,5,novostavba,vybavene,osobni,Praha 9,50.106956,14.510207
+sreality,7206016,45,2,1,1,0,0,3,novostavba,vybavene,osobni,Praha 9,50.106956,14.510207
+sreality,8497000,40,2,1,1,1,1,7,novostavba,vybavene,osobni,Praha 9,50.108223,14.555353
+sreality,8714200,52,1,1,1,0,0,2,novostavba,vybavene,osobni,Praha 4,50.065979,14.439
+sreality,24290000,137,4,1,1,1,1,6,novostavba,vybavene,osobni,Praha 5,50.061146,14.398285
+sreality,3580000,61,2,1,0,0,1,3,velmi dobre,vybavene,osobni,Český Krumlov,48.816753,14.304142
+sreality,4190000,55,2,1,0,1,0,3,velmi dobre,vybavene,osobni,Ostrava,49.792274,18.233271
+sreality,8295000,58,2,1,1,1,0,3,velmi dobre,vybavene,osobni,Praha 10,50.057392,14.467894
+sreality,6250000,74,3,1,0,1,1,1,novostavba,vybavene,osobni,Český Krumlov,48.669369,14.16723
+sreality,10665000,58,2,1,0,1,1,1,novostavba,vybavene,osobni,Český Krumlov,48.689053,14.119175
+sreality,9990000,119,4,1,0,1,1,3,dobre,vybavene,osobni,Český Krumlov,48.636974,14.223931
+sreality,6950000,74,3,1,0,0,1,1,dobre,vybavene,osobni,Plzeň,49.774441,13.29951
+sreality,7590000,58,2,1,0,1,1,2,novostavba,vybavene,osobni,Český Krumlov,48.689053,14.119175
+sreality,11490000,77,3,1,1,1,0,4,velmi dobre,vybavene,osobni,Praha 9,50.115261,14.562243
+sreality,9390000,109,3,1,0,1,1,1,velmi dobre,vybavene,osobni,Český Krumlov,48.68943,14.12043
+sreality,5850000,31,1,1,0,1,0,1,velmi dobre,vybavene,osobni,Český Krumlov,48.641506,14.226455
+sreality,5950000,63,2,0,0,1,0,1,dobre,vybavene,osobni,České Budějovice,48.982243,14.484259
+sreality,5990000,71,3,0,0,1,0,2,dobre,vybavene,osobni,České Budějovice,48.982243,14.484259
+sreality,9900000,90,3,1,1,1,1,4,novostavba,vybavene,osobni,České Budějovice,48.975468,14.48424
+sreality,6900000,53,3,1,1,1,1,5,velmi dobre,vybavene,osobni,České Budějovice,48.98077,14.479444
+sreality,4900000,92,3,1,0,0,1,3,velmi dobre,vybavene,osobni,Karlovy Vary,50.227787,12.861008
+sreality,5150000,72,3,0,1,1,0,6,velmi dobre,vybavene,osobni,Zlín,49.24432,17.666241
+sreality,7590000,50,2,0,1,0,0,3,velmi dobre,vybavene,osobni,Praha 9,50.108036,14.534473
+sreality,4690000,23,1,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha 5,50.058468,14.378085
+sreality,27390000,144,4,0,1,0,0,2,velmi dobre,vybavene,osobni,Praha 1,50.083668,14.415094
+sreality,9500000,55,2,1,0,0,0,6,velmi dobre,vybavene,osobni,Praha 5,50.073883,14.408747
+sreality,18970000,92,3,1,1,1,1,1,velmi dobre,vybavene,osobni,Praha 4,50.033451,14.414365
+sreality,22188000,129,5,1,1,1,1,3,velmi dobre,vybavene,osobni,Praha 5,50.053413,14.365912
+sreality,7690000,52,2,1,1,0,0,1,velmi dobre,vybavene,osobni,Praha 10,50.07259,14.471398
+sreality,14490000,77,2,1,1,0,0,5,velmi dobre,vybavene,osobni,Praha 2,50.076618,14.422744
+sreality,10490000,56,2,1,0,0,0,2,velmi dobre,vybavene,osobni,Praha 3,50.084145,14.447813
+sreality,14890000,81,3,1,1,1,1,3,novostavba,vybavene,osobni,Praha 6,50.082985,14.311815
+sreality,7190000,74,3,0,0,0,1,3,dobre,vybavene,osobni,Liberec,50.756504,15.059105
+sreality,6090000,27,1,1,1,1,1,3,novostavba,vybavene,osobni,Praha 6,50.082985,14.311815
+sreality,28300000,91,2,1,1,1,1,14,novostavba,vybavene,osobni,Praha 4,50.049057,14.435971
+sreality,7800000,53,2,1,1,1,1,4,novostavba,vybavene,osobni,Kladno,50.162018,14.13467
+sreality,11190000,64,2,1,1,1,1,2,novostavba,vybavene,osobni,Praha 6,50.082985,14.311815
+sreality,5551000,57,2,1,1,1,1,4,novostavba,vybavene,osobni,Kladno,50.161457,14.135164
+sreality,6990000,50,2,0,1,0,0,1,velmi dobre,vybavene,osobni,Praha 5,50.028404,14.367823
+sreality,20190000,126,4,1,1,1,1,4,novostavba,vybavene,osobni,Praha 6,50.082985,14.311815
+sreality,8490000,91,4,0,0,0,1,2,velmi dobre,vybavene,osobni,Liberec,50.772045,15.045902
+sreality,6390000,31,1,1,1,0,1,3,novostavba,vybavene,osobni,Praha 9,50.133427,14.504396
+sreality,5000000,65,3,0,1,1,1,5,velmi dobre,vybavene,osobni,Liberec,50.761425,15.096561
+sreality,3550000,60,3,0,1,1,1,6,dobre,vybavene,osobni,Ostrava,49.827213,18.269577
+sreality,4481500,57,2,1,0,0,0,3,dobre,vybavene,osobni,Plzeň,49.734501,13.372012
+sreality,8100000,26,1,1,1,1,0,5,velmi dobre,vybavene,osobni,Praha 2,50.075802,14.421932
+sreality,9890000,83,3,1,1,1,1,4,novostavba,vybavene,osobni,Olomouc,49.575043,17.249304
+sreality,7200000,98,3,0,0,1,1,3,velmi dobre,vybavene,osobni,Liberec,50.775398,15.070111
+sreality,7790000,45,2,0,1,0,0,4,velmi dobre,vybavene,osobni,Praha 4,50.024303,14.495563
+sreality,12000000,123,3,0,0,0,0,3,velmi dobre,vybavene,osobni,Karlovy Vary,50.227737,12.876245
+sreality,6800000,70,3,1,0,0,0,2,velmi dobre,vybavene,osobni,Karlovy Vary,50.222153,12.887468
+sreality,4690000,46,1,0,1,1,0,4,velmi dobre,vybavene,osobni,Karlovy Vary,50.207954,12.820896
+sreality,5100000,48,2,1,1,1,0,5,velmi dobre,vybavene,osobni,České Budějovice,48.985531,14.478756
+sreality,7700000,27,1,1,0,1,0,2,velmi dobre,vybavene,osobni,Praha,50.078014,14.42275
+sreality,4349000,16,1,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha 5,50.058468,14.378083
+sreality,29990000,129,4,1,0,1,0,8,velmi dobre,vybavene,osobni,Praha,50.076595,14.458818
+sreality,10800000,57,2,1,1,0,0,7,novostavba,vybavene,osobni,Praha 4,50.064041,14.445528
+sreality,16800000,90,3,1,1,1,0,7,novostavba,vybavene,osobni,Praha 4,50.064041,14.445528
+sreality,47750000,210,5,1,1,1,1,6,velmi dobre,vybavene,osobni,Praha 2,50.070503,14.436322
+sreality,5995000,75,3,1,0,0,0,2,velmi dobre,vybavene,osobni,České Budějovice,48.971619,14.482497
+sreality,13390000,88,3,1,1,1,0,1,novostavba,vybavene,osobni,Praha 8,50.139809,14.447377
+sreality,7950000,102,3,1,0,0,0,1,velmi dobre,vybavene,osobni,Plzeň,49.734894,13.370425
+sreality,8849000,53,2,1,1,1,1,3,velmi dobre,vybavene,osobni,Praha 9,50.138817,14.517819
+sreality,5850000,24,1,1,1,0,0,13,velmi dobre,vybavene,osobni,Praha 6,50.097652,14.3558
+sreality,7990000,93,3,0,0,1,0,3,velmi dobre,vybavene,osobni,Ostrava,49.83556,18.28936
+sreality,29980000,162,5,1,1,1,0,6,velmi dobre,vybavene,osobni,Praha 5,50.072845,14.393141
+sreality,5850000,23,1,1,1,0,0,4,velmi dobre,vybavene,osobni,Praha 2,50.072994,14.431261
+sreality,32472000,148,4,0,1,1,0,3,velmi dobre,vybavene,osobni,Praha 2,50.070732,14.414707
+sreality,6142000,32,1,1,0,1,0,2,novostavba,vybavene,osobni,Praha 9,50.138927,14.548484
+sreality,2990000,28,1,1,0,0,1,3,novostavba,vybavene,osobni,Český Krumlov,48.737865,14.102581
+sreality,8800000,189,5,0,0,0,1,2,dobre,vybavene,osobni,Olomouc,49.601559,17.282108
+sreality,2990000,36,2,1,0,0,0,2,novostavba,vybavene,osobni,Český Krumlov,48.737865,14.102581
+sreality,11490000,54,2,1,1,1,1,7,novostavba,vybavene,osobni,Praha 9,50.108665,14.524302
+sreality,6500000,56,3,1,0,0,1,2,novostavba,vybavene,osobni,Český Krumlov,48.737865,14.102581
+sreality,5790000,43,2,1,0,1,1,2,novostavba,vybavene,osobni,Český Krumlov,48.737865,14.102581
+sreality,3550000,42,2,1,0,0,1,3,novostavba,vybavene,osobni,Český Krumlov,48.737865,14.102581
+sreality,7350000,65,3,1,0,1,0,3,velmi dobre,vybavene,osobni,Brno,49.191429,16.642689
+sreality,16900000,113,4,1,1,1,1,6,velmi dobre,vybavene,osobni,Brno,49.217857,16.496128
+sreality,3290000,36,1,1,0,0,1,3,novostavba,vybavene,osobni,Český Krumlov,48.737865,14.102581
+sreality,3750000,33,1,1,0,0,0,1,dobre,vybavene,osobni,Olomouc,49.58614,17.242359
+sreality,3990000,68,3,0,1,0,0,5,velmi dobre,vybavene,osobni,Karlovy Vary,50.228474,12.860108
+sreality,16490000,83,4,1,1,1,1,2,velmi dobre,vybavene,osobni,Praha,50.086113,14.515087
+sreality,6490000,53,1,0,1,1,0,9,velmi dobre,vybavene,osobni,Praha 5,50.043751,14.328152
+sreality,8450000,99,4,1,0,1,1,2,novostavba,vybavene,osobni,Kladno,50.17379,14.106212
+sreality,8950000,118,5,1,0,1,1,2,novostavba,vybavene,osobni,Kladno,50.17379,14.106212
+sreality,5472600,63,2,1,0,0,0,3,velmi dobre,vybavene,osobni,Plzeň,49.732487,13.373591
+sreality,8600000,52,2,1,1,0,0,4,dobre,vybavene,osobni,Praha 4,50.059223,14.449653
+sreality,8290400,45,2,1,0,0,0,2,velmi dobre,vybavene,osobni,Praha 2,50.07383,14.416157
+sreality,27900000,122,4,1,0,1,0,2,velmi dobre,vybavene,osobni,Praha 1,50.0891,14.404949
+sreality,7490000,43,2,1,1,0,0,1,velmi dobre,vybavene,osobni,Praha 3,50.088699,14.463633
+sreality,9959000,64,2,1,1,0,0,1,velmi dobre,vybavene,osobni,Praha 6,50.105408,14.393548
+sreality,8890000,43,2,1,1,0,0,2,dobre,vybavene,osobni,Praha 3,50.082024,14.446129
+sreality,10450000,75,3,0,1,1,0,2,velmi dobre,vybavene,osobni,Praha 4,50.006889,14.429747
+sreality,11499000,87,4,0,0,1,0,2,velmi dobre,vybavene,osobni,Praha 4,50.007114,14.435184
+sreality,7289190,40,2,1,1,1,0,1,velmi dobre,vybavene,osobni,Praha 10,50.055889,14.517004
+sreality,8995000,109,3,0,0,0,0,2,velmi dobre,vybavene,osobni,České Budějovice,48.973663,14.475373
+sreality,8300000,104,3,0,0,1,0,4,velmi dobre,vybavene,osobni,Olomouc,49.596481,17.238184
+sreality,6700000,39,1,1,1,0,1,1,velmi dobre,vybavene,osobni,Praha 9,50.11816,14.495939
+sreality,9900000,90,4,1,0,0,0,5,velmi dobre,vybavene,osobni,Praha 8,50.110298,14.47299
+sreality,10759000,88,4,1,1,1,0,6,velmi dobre,vybavene,osobni,Brno,49.188847,16.645033
+sreality,10250000,73,3,0,1,1,0,3,dobre,vybavene,osobni,Praha 4,50.036396,14.503409
+sreality,8218000,85,3,1,1,1,1,1,novostavba,vybavene,osobni,Kladno,50.161007,14.13369
+sreality,7250000,51,2,0,1,1,0,7,velmi dobre,vybavene,osobni,Brno,49.183842,16.60622
+sreality,10890000,57,2,1,1,0,0,5,velmi dobre,vybavene,osobni,Praha 5,50.071945,14.407796
+sreality,6790000,38,1,1,1,1,1,2,novostavba,vybavene,osobni,Praha 9,50.107899,14.54641
+sreality,10873505,64,3,1,1,1,0,6,novostavba,vybavene,osobni,Praha 5,49.983974,14.359765
+sreality,3730000,52,1,0,0,0,1,1,velmi dobre,vybavene,osobni,Ostrava,49.794983,18.263107
+sreality,16896500,72,2,1,1,0,1,1,velmi dobre,vybavene,osobni,Praha 1,50.091057,14.42034
+sreality,25167800,124,4,1,1,0,0,3,velmi dobre,vybavene,osobni,Praha 4,50.06551,14.438411
+sreality,9690000,70,2,0,1,0,0,2,dobre,vybavene,osobni,Praha 5,50.073006,14.393512
+sreality,3535000,59,2,0,0,1,0,1,dobre,vybavene,osobni,Ostrava,49.790062,18.255293
+sreality,4349000,52,1,0,0,0,0,1,velmi dobre,vybavene,osobni,Plzeň,49.737564,13.392915
+sreality,16400000,110,3,0,1,0,0,3,velmi dobre,vybavene,osobni,Praha 2,50.07634,14.423551
+sreality,17000000,104,4,1,0,1,1,3,velmi dobre,vybavene,osobni,Praha 5,49.973518,14.387759
+sreality,13490000,78,3,1,1,1,1,3,velmi dobre,vybavene,osobni,Praha 5,50.059551,14.330171
+sreality,10590000,58,2,0,0,1,0,4,velmi dobre,vybavene,osobni,Praha 10,50.070175,14.458537
+sreality,11368904,59,2,1,0,0,0,1,novostavba,vybavene,osobni,Praha 2,50.070736,14.430594
+sreality,8750000,34,1,1,1,0,0,1,novostavba,vybavene,osobni,Praha 4,50.063679,14.436554
+sreality,7850000,49,2,1,1,1,0,1,novostavba,vybavene,osobni,Praha,50.001194,14.342615
+sreality,8390000,64,1,1,1,1,0,1,novostavba,vybavene,osobni,Praha 8,50.12846,14.484085
+sreality,1795000,26,1,1,1,0,0,1,velmi dobre,vybavene,osobni,Karlovy Vary,50.227169,12.858927
+sreality,7850000,100,4,1,0,1,0,2,novostavba,vybavene,osobni,Brno,49.17054,16.325256
+sreality,12900000,60,2,1,1,1,1,6,novostavba,vybavene,osobni,Praha 10,50.044987,14.501647
+sreality,2745000,56,3,0,0,0,1,3,dobre,vybavene,osobni,České Budějovice,49.304043,14.38632
+sreality,7100000,48,2,1,1,0,0,3,velmi dobre,vybavene,osobni,Praha,50.069649,14.382401
+sreality,8500000,63,3,0,1,1,0,3,velmi dobre,vybavene,osobni,Brno,49.203651,16.668402
+sreality,6166116,61,2,1,1,1,1,3,novostavba,vybavene,osobni,Trutnov,50.63496,15.710593
+sreality,6389256,77,3,1,1,1,1,1,novostavba,vybavene,osobni,Trutnov,50.63496,15.710593
+sreality,4827273,47,2,1,1,1,1,3,novostavba,vybavene,osobni,Trutnov,50.63496,15.710593
+sreality,9999000,70,3,0,0,1,1,4,dobre,vybavene,osobni,Praha 5,49.988804,14.374231
+sreality,9100000,55,2,1,1,1,0,5,novostavba,vybavene,osobni,Praha 5,50.029346,14.362289
+sreality,6135200,63,3,0,0,1,0,4,dobre,vybavene,osobni,Plzeň,49.776943,13.365992
+sreality,7580000,71,2,1,0,1,0,1,novostavba,vybavene,osobni,Český Krumlov,48.641518,14.226464
+sreality,6300000,54,2,1,1,1,0,2,novostavba,vybavene,osobni,Český Krumlov,48.641312,14.226806
+sreality,11670000,127,4,1,0,1,0,2,novostavba,vybavene,osobni,Český Krumlov,48.639599,14.227067
+sreality,6500000,69,2,1,1,1,0,1,novostavba,vybavene,osobni,Český Krumlov,48.641304,14.226718
+sreality,7000000,63,2,1,0,1,0,1,velmi dobre,vybavene,osobni,Český Krumlov,48.639801,14.226617
+sreality,8790000,66,3,1,0,1,1,3,novostavba,vybavene,osobni,Brno,49.140293,16.670647
+sreality,8530000,63,3,1,1,1,0,5,novostavba,vybavene,osobni,Brno,49.216702,16.495047
+sreality,4880000,57,2,0,1,1,1,3,velmi dobre,vybavene,osobni,Liberec,50.745567,15.060944
+sreality,2990000,33,2,1,0,1,0,2,velmi dobre,vybavene,osobni,Praha,49.815308,14.396117
+sreality,5590000,60,2,1,1,0,1,1,novostavba,vybavene,osobni,Kladno,50.133904,14.137182
+sreality,8600000,49,2,1,1,0,0,1,velmi dobre,vybavene,osobni,Praha 3,50.078175,14.466297
+sreality,3495000,33,1,0,0,0,0,4,dobre,vybavene,osobni,Olomouc,49.584129,17.292412
+sreality,6790000,62,2,1,0,1,0,1,velmi dobre,vybavene,osobni,Olomouc,49.572369,17.252378
+sreality,8500000,38,1,1,1,1,1,10,velmi dobre,vybavene,osobni,Praha 3,50.085598,14.468936
+sreality,10550000,70,2,1,1,1,1,6,velmi dobre,vybavene,osobni,Brno,49.210251,16.601
+sreality,6859662,49,2,1,1,1,1,1,novostavba,vybavene,osobni,Liberec,50.732967,15.066274
+sreality,5490000,66,3,1,0,0,0,3,novostavba,vybavene,osobni,Olomouc,49.735088,17.297749
+sreality,7290000,97,2,0,1,0,0,4,dobre,vybavene,osobni,Olomouc,49.596039,17.24621
+sreality,6200000,38,2,1,0,1,0,2,velmi dobre,vybavene,osobni,Praha,49.991676,14.654268
+sreality,7450000,80,2,1,0,0,0,1,velmi dobre,vybavene,osobni,Brno,49.27113,16.596445
+sreality,9190000,82,4,0,0,1,0,2,velmi dobre,vybavene,osobni,Praha 4,50.000404,14.430167
+sreality,5890000,51,3,1,0,1,0,2,velmi dobre,vybavene,osobni,Český Krumlov,48.752274,14.063748
+sreality,12500000,61,2,1,1,1,1,3,novostavba,vybavene,osobni,Praha 5,50.03083,14.394881
+sreality,9990000,48,2,1,1,1,1,2,dobre,vybavene,osobni,Praha 10,50.078259,14.487286
+sreality,5690000,68,3,0,1,1,0,3,velmi dobre,vybavene,osobni,Olomouc,49.572033,17.294304
+sreality,11600000,55,2,1,1,1,1,1,velmi dobre,vybavene,osobni,Brno,49.230122,16.607656
+sreality,7690000,52,2,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha 8,50.100853,14.47268
+sreality,3990000,40,1,0,1,0,0,1,velmi dobre,vybavene,osobni,Praha 10,50.054714,14.51629
+sreality,12000000,110,3,0,0,0,1,2,velmi dobre,vybavene,osobni,Praha 9,50.112698,14.563646
+sreality,4790000,72,2,0,0,0,0,1,dobre,vybavene,osobni,Plzeň,49.74752,13.394214
+sreality,5490000,68,3,0,1,1,0,8,velmi dobre,vybavene,osobni,Olomouc,49.572887,17.253019
+sreality,5990000,79,3,0,0,0,0,3,velmi dobre,vybavene,osobni,Karlovy Vary,50.234089,12.871804
+sreality,5400000,22,1,1,0,0,0,1,novostavba,vybavene,osobni,Praha 5,50.054661,14.285619
+sreality,18504943,119,5,1,1,1,0,9,novostavba,vybavene,osobni,Praha 5,49.983574,14.359508
+sreality,8870000,86,3,1,1,1,0,2,velmi dobre,vybavene,osobni,Pardubice,50.040943,15.752355
+sreality,16940000,83,3,1,1,1,1,1,velmi dobre,vybavene,osobni,Praha 5,50.039146,14.321255
+sreality,13250000,80,3,1,1,1,1,2,velmi dobre,vybavene,osobni,Praha 9,50.103271,14.50922
+sreality,9785000,63,3,1,1,1,0,1,dobre,vybavene,osobni,Praha 10,50.047131,14.521245
+sreality,6999000,47,1,1,1,0,1,1,novostavba,vybavene,osobni,Zlín,49.227962,17.673176
+sreality,18490000,112,3,1,1,1,1,6,novostavba,vybavene,osobni,Praha 9,50.104847,14.488154
+sreality,11490000,114,2,1,0,0,0,2,velmi dobre,vybavene,osobni,Praha 2,50.063938,14.424883
+sreality,7190000,47,1,1,1,0,1,2,novostavba,vybavene,osobni,Zlín,49.227962,17.673176
+sreality,7338800,59,2,1,0,0,1,5,novostavba,vybavene,osobni,Praha 10,50.016541,14.583332
+sreality,6580637,61,2,1,1,0,0,1,novostavba,vybavene,osobni,Kladno,50.151047,14.115027
+sreality,13499000,95,3,1,1,1,1,3,novostavba,vybavene,osobni,Zlín,49.227962,17.673176
+sreality,6795000,46,2,1,0,0,0,3,dobre,vybavene,osobni,Brno,49.214146,16.684788
+sreality,9997000,90,3,1,0,1,0,1,velmi dobre,vybavene,osobni,Plzeň,49.698395,13.41728
+sreality,13000000,83,3,1,1,1,0,8,novostavba,vybavene,osobni,Brno,49.200504,16.624559
+sreality,4790000,56,2,1,0,1,0,4,velmi dobre,vybavene,osobni,Plzeň,49.727249,13.370159
+sreality,7471961,75,3,1,1,1,0,4,novostavba,vybavene,osobni,Kladno,50.151047,14.115027
+sreality,17700000,112,3,1,1,1,0,5,velmi dobre,vybavene,osobni,Praha 6,50.088036,14.36387
+sreality,12982235,89,2,1,1,1,1,10,novostavba,vybavene,osobni,Praha,50.094227,14.499879
+sreality,15800000,89,3,1,1,1,1,10,novostavba,vybavene,osobni,Praha,50.094227,14.499879
+sreality,10695000,93,2,1,1,1,1,2,dobre,vybavene,osobni,Praha 5,50.036854,14.34589
+sreality,7750000,53,2,0,1,0,0,5,velmi dobre,vybavene,osobni,Praha 9,50.105202,14.482629
+sreality,4200000,73,3,0,1,0,0,1,velmi dobre,vybavene,osobni,Ostrava,49.783527,18.259054
+sreality,5860000,36,2,1,1,0,0,5,velmi dobre,vybavene,osobni,Praha 6,50.068863,14.312572
+sreality,12200000,71,3,1,1,1,1,3,novostavba,vybavene,osobni,Brno,49.180222,16.619232
+sreality,9990000,104,4,1,0,1,0,1,velmi dobre,vybavene,osobni,Olomouc,49.572174,17.296093
+sreality,6900000,37,1,1,1,1,1,2,novostavba,vybavene,osobni,Praha 10,50.019268,14.58224
+sreality,13900000,93,3,1,1,1,1,3,novostavba,vybavene,osobni,Praha 10,50.019268,14.58224
+sreality,15900000,108,4,1,1,1,1,2,novostavba,vybavene,osobni,Praha 10,50.019268,14.58224
+sreality,8490000,52,2,1,0,1,1,2,velmi dobre,vybavene,osobni,Praha 10,50.021111,14.584672
+sreality,14200000,62,2,1,1,1,0,5,velmi dobre,vybavene,osobni,Praha 2,50.070835,14.442614
+sreality,11990000,73,3,1,1,1,1,1,novostavba,vybavene,osobni,Praha,50.031734,14.36423
+sreality,12490000,75,3,1,1,1,1,4,velmi dobre,vybavene,osobni,Praha 4,50.040405,14.498413
+sreality,8850000,55,3,1,0,0,1,2,novostavba,vybavene,osobni,Praha 5,49.979427,14.346383
+sreality,3790000,34,1,1,0,0,0,1,novostavba,vybavene,osobni,České Budějovice,48.976749,14.358397
+sreality,7390000,90,3,1,0,1,1,1,novostavba,vybavene,osobni,České Budějovice,48.976749,14.358397
+sreality,3960000,71,4,1,0,0,1,2,velmi dobre,vybavene,osobni,Trutnov,50.596031,15.877659
+sreality,4790000,24,1,1,1,1,0,5,novostavba,vybavene,osobni,Brno,49.174072,16.567472
+sreality,10450000,111,4,0,0,0,1,3,velmi dobre,vybavene,osobni,Liberec,50.771294,15.045396
+sreality,15490000,96,4,1,0,1,1,1,velmi dobre,vybavene,osobni,Praha 5,49.979382,14.34629
+sreality,9980000,77,3,1,1,1,0,5,velmi dobre,vybavene,osobni,Praha 9,50.120083,14.501351
+sreality,8700000,46,2,1,0,0,0,1,velmi dobre,vybavene,osobni,Praha 6,50.107346,14.390964
+sreality,7399000,33,2,1,1,0,0,3,velmi dobre,vybavene,osobni,Praha 5,50.071289,14.406946
+sreality,6590000,80,3,0,0,0,0,1,velmi dobre,vybavene,osobni,Plzeň,49.726341,13.367968
+sreality,6680000,55,2,0,1,1,0,5,dobre,vybavene,osobni,Brno,49.208027,16.623814
+sreality,8475000,73,3,1,1,1,0,3,dobre,vybavene,osobni,Brno,49.208027,16.623814
+sreality,8475000,72,4,0,1,1,0,3,dobre,vybavene,osobni,Brno,49.208027,16.623814
+sreality,11960000,56,2,1,1,1,1,3,novostavba,vybavene,osobni,Brno,49.196892,16.540127
+sreality,18800000,75,2,1,1,1,1,3,velmi dobre,vybavene,osobni,Trutnov,50.72694,15.610303
+sreality,6190000,29,1,1,1,0,0,2,novostavba,vybavene,osobni,Praha 6,50.12466,14.381194
+sreality,5790000,43,1,1,1,0,0,1,novostavba,vybavene,osobni,Praha 6,50.12466,14.381194
+sreality,12950000,83,3,1,0,0,0,3,velmi dobre,vybavene,osobni,Praha 9,50.108524,14.498964
+sreality,13490000,83,3,1,1,0,1,1,novostavba,vybavene,osobni,Praha 9,50.137199,14.52199
+sreality,10495000,112,4,1,1,1,0,2,velmi dobre,vybavene,osobni,Ostrava,49.845108,18.284233
+sreality,14400000,83,3,1,1,1,1,5,novostavba,vybavene,osobni,Praha 9,50.119064,14.505751
+sreality,7990000,46,2,1,1,1,0,4,velmi dobre,vybavene,osobni,Praha 5,50.070545,14.377719
+sreality,9069800,41,2,1,1,1,0,2,novostavba,vybavene,osobni,Praha,50.012009,14.412961
+sreality,9990000,68,2,1,1,1,0,2,velmi dobre,vybavene,osobni,Praha 4,50.02161,14.464751
+sreality,13990000,108,3,1,0,1,1,1,dobre,vybavene,osobni,Praha 4,50.055874,14.44942
+sreality,9900000,75,3,1,0,1,1,3,dobre,vybavene,osobni,Praha 6,50.11245,14.325791
+sreality,8770000,49,2,0,0,1,1,2,velmi dobre,vybavene,osobni,Praha 5,50.067997,14.392004
+sreality,10490000,80,4,0,1,1,0,13,velmi dobre,vybavene,osobni,Praha 4,50.022816,14.454466
+sreality,5674000,57,3,0,1,0,0,3,dobre,vybavene,osobni,Pardubice,50.040623,15.808146
+sreality,5250000,60,3,1,1,1,0,8,velmi dobre,vybavene,osobni,Pardubice,50.048347,15.757542
+sreality,7499990,48,2,0,1,1,0,1,velmi dobre,vybavene,osobni,Praha 4,50.04575,14.449757
+sreality,11990000,84,3,1,1,1,1,3,novostavba,vybavene,osobni,Praha 9,50.156288,14.516864
+sreality,13490000,83,3,1,1,1,1,3,velmi dobre,vybavene,osobni,Praha 5,50.029881,14.365334
+sreality,7290000,81,3,1,0,0,0,2,velmi dobre,vybavene,osobni,Pardubice,50.023724,15.758314
+sreality,40000000,200,5,1,1,1,1,4,velmi dobre,vybavene,osobni,Praha 5,50.07531,14.405655
+sreality,22200000,135,3,0,1,0,0,5,velmi dobre,vybavene,osobni,Praha 1,50.07629,14.416727
+sreality,8990000,60,2,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha 3,50.076836,14.469539
+sreality,32000000,235,5,1,1,0,0,4,velmi dobre,vybavene,osobni,Praha 1,50.087257,14.407328
+sreality,5990000,78,3,0,1,1,0,4,dobre,vybavene,osobni,České Budějovice,48.984909,14.434029
+sreality,21140500,112,4,1,1,1,1,2,novostavba,vybavene,osobni,Praha,50.057491,14.383348
+sreality,17019400,77,3,1,1,1,1,3,novostavba,vybavene,osobni,Praha,50.057491,14.383348
+sreality,11078100,46,2,1,1,1,1,3,novostavba,vybavene,osobni,Praha,50.057491,14.383348
+sreality,18154400,86,3,1,1,1,1,2,novostavba,vybavene,osobni,Praha,50.057491,14.383348
+sreality,8544140,28,1,1,1,1,1,1,novostavba,vybavene,osobni,Praha,50.057491,14.383348
+sreality,6990000,62,2,1,0,0,0,3,novostavba,vybavene,osobni,Brno,49.212383,16.601603
+sreality,6270000,35,2,1,1,1,0,8,velmi dobre,vybavene,osobni,Praha,50.023621,14.453553
+sreality,6250000,71,3,1,0,0,0,3,velmi dobre,vybavene,osobni,Pardubice,50.026268,15.768207
+sreality,6142009,36,1,1,1,1,0,2,velmi dobre,vybavene,osobni,Praha 9,50.138824,14.548953
+sreality,19590000,143,4,1,1,1,1,4,novostavba,vybavene,osobni,Praha 5,50.055443,14.349585
+sreality,6990000,43,2,1,1,0,0,3,dobre,vybavene,osobni,Praha 8,50.131832,14.477358
+sreality,15460000,179,4,1,0,1,1,3,velmi dobre,vybavene,osobni,Praha 10,50.015911,14.583953
+sreality,5135000,72,4,1,0,1,0,1,velmi dobre,vybavene,osobni,Ostrava,49.79171,18.223782
+sreality,9690000,30,2,0,0,0,1,2,dobre,vybavene,osobni,Praha 1,50.083893,14.413526
+sreality,13990000,92,3,1,1,0,1,1,novostavba,vybavene,osobni,Praha 6,50.082985,14.311815
+sreality,2990000,45,2,1,1,1,0,3,dobre,vybavene,osobni,Zlín,49.291904,17.863007
+sreality,12950000,67,3,1,1,1,1,5,velmi dobre,vybavene,osobni,Praha 5,50.072262,14.388008
+sreality,13800000,60,2,1,1,1,0,4,velmi dobre,vybavene,osobni,Praha 5,50.072262,14.388008
+sreality,9950000,52,2,1,1,1,0,4,velmi dobre,vybavene,osobni,Praha 5,50.072262,14.388008
+sreality,6890000,69,2,0,0,0,0,1,velmi dobre,vybavene,osobni,Plzeň,49.722523,13.403325
+sreality,10980000,83,3,1,1,1,0,3,novostavba,vybavene,osobni,Praha 10,50.028557,14.602667
+sreality,7200000,36,1,1,1,1,0,2,velmi dobre,vybavene,osobni,Praha 10,50.0439,14.515306
+sreality,20500000,134,3,0,0,1,0,4,velmi dobre,vybavene,osobni,Praha 6,50.101055,14.38874
+sreality,12200000,67,3,1,1,1,1,3,novostavba,vybavene,osobni,Praha 5,50.031612,14.379066
+sreality,8530000,62,3,1,1,1,0,5,novostavba,vybavene,osobni,Brno,49.216713,16.494913
+sreality,17590000,108,4,1,1,1,1,7,novostavba,vybavene,osobni,Praha 3,50.084793,14.485733
+sreality,9990000,73,3,1,1,1,0,3,velmi dobre,vybavene,osobni,Praha 9,50.099735,14.484289
+sreality,10900000,65,2,1,1,0,0,6,novostavba,vybavene,osobni,Brno,49.195362,16.610714
+sreality,7900000,40,1,1,1,0,1,4,velmi dobre,vybavene,osobni,Praha 9,50.13512,14.510086
+sreality,4330000,70,3,0,0,1,1,1,dobre,vybavene,osobni,Brno,48.928574,16.579247
+sreality,9890000,58,2,1,1,1,1,4,novostavba,vybavene,osobni,Praha 10,50.043041,14.556076
+sreality,3650000,54,3,0,0,0,0,1,dobre,vybavene,osobni,Ostrava,49.792515,18.223787
+sreality,12235000,71,3,1,1,1,1,4,dobre,vybavene,osobni,Praha 9,50.132557,14.50701
+sreality,10490000,62,3,1,1,0,0,3,velmi dobre,vybavene,osobni,Praha 10,50.074272,14.484986
+sreality,4490000,40,2,1,1,1,0,6,velmi dobre,vybavene,osobni,Kladno,50.134331,14.130261
+sreality,33900000,128,3,1,0,1,0,4,velmi dobre,vybavene,osobni,Praha 8,50.090897,14.442858
+sreality,27000000,104,3,1,1,1,0,6,velmi dobre,vybavene,osobni,Praha 8,50.090775,14.452274
+sreality,5330300,50,1,1,1,1,1,1,novostavba,vybavene,osobni,Liberec,50.763096,15.039489
+sreality,6330600,66,2,1,1,1,1,2,novostavba,vybavene,osobni,Liberec,50.763096,15.039489
+sreality,9618000,97,4,1,1,1,1,6,novostavba,vybavene,osobni,Liberec,50.763096,15.039489
+sreality,9300000,58,2,1,1,1,1,4,velmi dobre,vybavene,osobni,Brno,49.180603,16.671284
+sreality,6900000,140,3,1,0,0,1,3,dobre,vybavene,osobni,České Budějovice,48.97823,14.480397
+sreality,10990000,173,4,1,0,1,1,4,velmi dobre,vybavene,osobni,Plzeň,49.756844,13.45046
+sreality,10990000,67,2,1,1,0,1,1,novostavba,vybavene,osobni,Praha 10,50.059395,14.518215
+sreality,9900000,55,2,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha 5,50.067867,14.339087
+sreality,5950000,39,1,1,1,0,0,1,velmi dobre,vybavene,osobni,Praha 10,50.072994,14.465119
+sreality,6081000,57,2,1,1,1,0,2,novostavba,vybavene,osobni,České Budějovice,48.981617,14.477505
+sreality,5590000,66,3,0,1,1,0,4,dobre,vybavene,osobni,České Budějovice,48.991283,14.465437
+sreality,7899000,71,3,0,1,1,0,5,dobre,vybavene,osobni,Brno,49.166878,16.576191
+sreality,11490000,70,3,1,0,0,1,2,velmi dobre,vybavene,osobni,Praha 3,50.086342,14.482595
+sreality,7254000,45,2,1,1,0,0,4,dobre,vybavene,osobni,Praha 3,50.089409,14.473903
+sreality,11500000,79,3,1,0,1,0,1,velmi dobre,vybavene,osobni,Praha 8,50.109451,14.474666
+sreality,15500000,93,3,1,1,1,1,2,velmi dobre,vybavene,osobni,Praha 3,50.089741,14.462803
+sreality,5750000,33,1,0,0,0,0,1,velmi dobre,vybavene,osobni,Praha 3,50.085472,14.451476
+sreality,4700000,86,3,1,0,1,0,1,dobre,vybavene,osobni,Karlovy Vary,50.22253,12.870589
+sreality,5690000,59,2,0,1,1,0,7,velmi dobre,vybavene,osobni,Liberec,50.778812,15.062426
+sreality,8690000,49,2,1,0,1,0,3,velmi dobre,vybavene,osobni,Praha 5,50.071125,14.385791
+sreality,7338000,45,2,1,0,0,1,1,velmi dobre,vybavene,osobni,Praha 5,50.069195,14.343894
+sreality,6693892,39,1,1,1,1,1,2,novostavba,vybavene,osobni,Praha 4,49.990322,14.407216
+sreality,8591626,53,2,1,1,1,1,3,novostavba,vybavene,osobni,Praha 4,49.990322,14.407216
+sreality,8816722,58,2,1,1,0,1,1,novostavba,vybavene,osobni,Praha 4,49.990322,14.407216
+sreality,14278776,71,3,1,1,1,1,4,novostavba,vybavene,osobni,Praha 4,49.990322,14.407216
+sreality,7370000,91,2,1,1,1,1,2,novostavba,vybavene,osobni,Kladno,50.133579,14.137474
+sreality,10988000,93,3,1,1,1,0,6,novostavba,vybavene,osobni,České Budějovice,48.981617,14.477505
+sreality,7190000,79,3,1,0,0,1,3,velmi dobre,vybavene,osobni,Pardubice,50.029575,15.730626
+sreality,7450000,42,2,1,1,1,0,3,velmi dobre,vybavene,osobni,Praha 9,50.124855,14.485474
+sreality,22950000,105,4,0,1,1,1,2,velmi dobre,vybavene,osobni,Praha 5,50.071217,14.403089
+sreality,5490000,55,3,0,0,1,0,3,dobre,vybavene,osobni,Kladno,50.133549,14.116425
+sreality,21800000,150,4,0,1,0,0,3,velmi dobre,vybavene,osobni,Praha 5,50.064915,14.409789
+sreality,11353000,93,3,1,1,1,0,4,dobre,vybavene,osobni,Praha 5,50.048298,14.341383
+sreality,5290000,68,3,0,1,1,0,5,velmi dobre,vybavene,osobni,Zlín,49.205929,17.588049
+sreality,5290000,72,3,0,0,1,1,2,velmi dobre,vybavene,osobni,Liberec,50.800228,15.041629
+sreality,5799000,48,3,0,0,0,0,1,dobre,vybavene,osobni,Brno,49.200085,16.625736
+sreality,8990000,113,4,1,0,0,1,1,velmi dobre,vybavene,osobni,Brno,49.269913,16.527153
+sreality,11499000,110,3,0,0,1,0,4,dobre,vybavene,osobni,Brno,49.224945,16.551559
+sreality,2895000,32,1,1,0,0,0,2,velmi dobre,vybavene,osobni,Český Krumlov,48.660938,14.165633
+sreality,10490000,85,2,0,0,1,0,4,velmi dobre,vybavene,osobni,Brno,49.190098,16.590195
+sreality,4290400,88,2,1,0,0,0,1,dobre,vybavene,osobni,Český Krumlov,48.603779,14.405725
+sreality,6399000,49,2,1,0,0,0,3,velmi dobre,vybavene,osobni,Praha 9,50.081955,14.615193
+sreality,10200000,77,3,1,1,1,1,2,novostavba,vybavene,osobni,Liberec,50.778244,15.040906
+sreality,13498000,50,2,1,0,0,1,1,novostavba,vybavene,osobni,Trutnov,50.731312,15.610524
+sreality,17350000,114,4,1,0,1,0,2,velmi dobre,vybavene,osobni,Praha 5,50.071777,14.407741
+sreality,7860000,61,2,1,0,1,1,7,velmi dobre,vybavene,osobni,Ostrava,49.842487,18.287325
+sreality,13700000,90,3,1,1,1,0,2,velmi dobre,vybavene,osobni,Praha 5,50.071453,14.408455
+sreality,35102500,152,5,1,1,1,1,3,novostavba,vybavene,osobni,Praha 4,50.054024,14.419559
+sreality,11600000,74,2,1,1,0,0,3,velmi dobre,vybavene,osobni,Praha 5,50.071453,14.408455
+sreality,7791250,51,1,0,1,0,0,1,velmi dobre,vybavene,osobni,Praha 5,50.071453,14.408455
+sreality,11097600,74,2,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha 5,50.0695,14.409126
+sreality,11631718,77,3,1,1,1,0,3,novostavba,vybavene,osobni,Praha 5,50.063885,14.409646
+sreality,4250000,41,1,1,0,0,0,1,velmi dobre,vybavene,osobni,Český Krumlov,48.639324,14.229321
+sreality,5099000,54,2,1,0,1,0,2,velmi dobre,vybavene,osobni,Plzeň,49.728275,13.399568
+sreality,4990000,67,3,0,0,0,1,1,velmi dobre,vybavene,osobni,Trutnov,50.564495,15.918757
+sreality,2695000,19,1,1,1,0,1,1,velmi dobre,vybavene,osobni,Český Krumlov,48.737965,14.110538
+sreality,6995000,51,3,1,1,0,1,3,velmi dobre,vybavene,osobni,Český Krumlov,48.737965,14.110538
+sreality,5490000,60,2,0,0,0,1,2,velmi dobre,vybavene,osobni,Pardubice,50.037151,15.785771
+sreality,5970000,56,2,1,0,0,1,1,novostavba,vybavene,osobni,České Budějovice,48.987156,14.452609
+sreality,4099000,34,2,1,0,1,1,2,novostavba,vybavene,osobni,České Budějovice,48.987156,14.452609
+sreality,6497000,64,3,1,0,1,1,2,novostavba,vybavene,osobni,České Budějovice,48.987156,14.452609
+sreality,10500000,61,3,1,1,1,1,2,velmi dobre,vybavene,osobni,Praha 5,50.037838,14.329184
+sreality,44500000,137,3,1,1,1,1,7,novostavba,vybavene,osobni,Praha 4,50.049053,14.435969
+sreality,7390000,72,3,0,1,1,0,2,dobre,vybavene,osobni,Brno,49.16853,16.570469
+sreality,3190000,38,1,0,0,0,0,2,velmi dobre,vybavene,osobni,Karlovy Vary,50.252224,12.835259
+sreality,6450000,73,3,0,0,1,0,4,velmi dobre,vybavene,osobni,Plzeň,49.744011,13.415195
+sreality,21900000,135,5,0,0,1,0,5,velmi dobre,vybavene,osobni,Praha 5,50.066261,14.395983
+sreality,8490000,64,2,1,1,0,1,6,velmi dobre,vybavene,osobni,Praha 10,50.044167,14.551715
+sreality,5880000,63,3,1,1,1,0,2,velmi dobre,vybavene,osobni,Pardubice,50.051132,15.758477
+sreality,6590000,43,2,1,1,0,0,3,velmi dobre,vybavene,osobni,Praha 5,50.04887,14.350709
+sreality,6950000,98,3,0,0,0,0,3,velmi dobre,vybavene,osobni,Trutnov,50.56094,15.903205
+sreality,23600000,95,3,1,1,0,0,4,velmi dobre,vybavene,osobni,Praha 2,50.077862,14.437896
+sreality,10340691,44,2,1,1,1,0,6,novostavba,vybavene,osobni,Praha 5,50.056091,14.409175
+sreality,8470000,47,1,1,1,0,1,1,dobre,vybavene,osobni,Praha 8,50.122379,14.46657
+sreality,9450000,68,3,0,1,1,0,11,velmi dobre,vybavene,osobni,Praha 9,50.138683,14.509805
+sreality,11576413,48,1,0,0,0,0,3,novostavba,vybavene,osobni,Praha 2,50.070736,14.430594
+sreality,12264415,52,2,1,0,0,0,2,novostavba,vybavene,osobni,Praha 2,50.070736,14.430594
+sreality,9640746,41,2,1,0,0,0,2,novostavba,vybavene,osobni,Praha 2,50.070736,14.430594
+sreality,8300000,37,1,1,1,1,0,7,novostavba,vybavene,osobni,Praha 5,50.056091,14.409175
+sreality,12026070,79,4,1,1,1,1,3,novostavba,vybavene,osobni,Praha 9,50.154964,14.538545
+sreality,12281850,79,4,1,1,1,1,2,novostavba,vybavene,osobni,Praha 9,50.154964,14.538545
+sreality,9160000,54,2,1,1,0,1,1,novostavba,vybavene,osobni,Praha 9,50.130577,14.549412
+sreality,7470000,39,1,1,1,1,1,1,novostavba,vybavene,osobni,Praha 9,50.125977,14.530536
+sreality,7770000,42,2,1,1,0,1,2,novostavba,vybavene,osobni,Praha 10,50.072262,14.480817
+sreality,6495000,34,1,1,1,1,1,1,velmi dobre,vybavene,osobni,Praha 9,50.125977,14.530536
+sreality,13500000,87,4,1,1,1,1,3,novostavba,vybavene,osobni,Praha 10,50.086681,14.51375
+sreality,11900000,69,3,1,1,1,0,2,novostavba,vybavene,osobni,Praha 10,50.086681,14.51375
+sreality,7290000,70,2,1,0,1,0,1,velmi dobre,vybavene,osobni,Brno,49.176407,16.62455
+sreality,8977000,146,4,0,0,1,1,1,velmi dobre,vybavene,osobni,Zlín,49.240273,17.681927
+sreality,14490000,71,3,1,0,1,1,1,velmi dobre,vybavene,osobni,Praha 6,50.100826,14.349572
+sreality,5740000,71,2,0,0,0,0,3,velmi dobre,vybavene,osobni,Plzeň,49.735409,13.366305
+sreality,4430000,45,2,1,1,0,0,4,velmi dobre,vybavene,osobni,Kladno,50.129387,14.1218
+sreality,4849000,50,2,1,0,0,0,3,velmi dobre,vybavene,osobni,Plzeň,49.740387,13.398475
+sreality,9390000,110,4,0,0,0,0,4,velmi dobre,vybavene,osobni,Plzeň,49.726635,13.388395
+sreality,5500000,35,1,1,1,0,0,3,velmi dobre,vybavene,osobni,Praha 9,50.109188,14.55687
+sreality,6088000,76,2,1,0,1,0,1,velmi dobre,vybavene,osobni,Plzeň,49.754963,13.377847
+sreality,4195000,49,2,0,0,0,0,3,velmi dobre,vybavene,osobni,Český Krumlov,48.81789,14.320435
+sreality,13800000,82,4,1,1,1,0,2,novostavba,vybavene,osobni,Brno,49.226967,16.594402
+sreality,15990000,81,3,1,1,0,0,3,velmi dobre,vybavene,osobni,Praha 3,50.077888,14.465341
+sreality,6750000,66,3,1,1,1,1,6,novostavba,vybavene,osobni,Plzeň,49.741032,13.32093
+sreality,8990000,98,3,0,1,1,0,6,velmi dobre,vybavene,osobni,Plzeň,49.734894,13.370425
+sreality,10890000,60,2,1,1,1,0,1,velmi dobre,vybavene,osobni,Praha 3,50.076691,14.469943
+sreality,8490000,62,3,0,1,1,1,4,velmi dobre,vybavene,osobni,Praha 5,50.036545,14.373248
+sreality,3965000,32,1,1,1,0,1,3,velmi dobre,vybavene,osobni,Liberec,50.75399,15.046011
+sreality,3990000,31,1,0,0,0,0,1,velmi dobre,vybavene,osobni,Pardubice,50.052589,15.762953
+sreality,10550000,80,4,1,0,1,1,12,velmi dobre,vybavene,osobni,Praha,50.020878,14.457051
+sreality,6955000,43,2,1,1,0,0,1,velmi dobre,vybavene,osobni,Praha 5,50.071289,14.406946
+sreality,9001000,62,2,1,1,1,0,2,novostavba,vybavene,osobni,Brno,49.204189,16.630672
+sreality,17999000,100,4,0,0,1,1,3,dobre,vybavene,osobni,Praha 5,50.072216,14.373106
+sreality,9890000,52,2,1,1,1,1,5,novostavba,vybavene,osobni,Praha 4,50.016243,14.404919
+sreality,12999500,69,3,1,1,0,0,3,velmi dobre,vybavene,osobni,Praha 5,50.073063,14.394489
+sreality,9800000,63,1,1,1,0,0,3,novostavba,vybavene,osobni,Praha,50.071125,14.385791
+sreality,8770000,55,2,1,0,1,1,3,velmi dobre,vybavene,osobni,Praha 5,50.039043,14.314883
+sreality,9900000,61,2,1,1,1,1,4,novostavba,vybavene,osobni,Praha 9,50.10371,14.515882
+sreality,8960000,80,3,0,0,1,1,4,dobre,vybavene,osobni,Praha 5,50.059357,14.290748
+sreality,9490000,97,5,0,0,1,0,4,velmi dobre,vybavene,osobni,Brno,49.202595,16.66082
+sreality,13800000,80,3,1,1,1,1,5,novostavba,vybavene,osobni,Praha 9,50.10371,14.515882
+sreality,4390740,28,1,1,1,0,0,1,novostavba,vybavene,osobni,Kladno,50.151047,14.115027
+sreality,8700000,57,2,1,1,1,1,2,velmi dobre,vybavene,osobni,Praha 10,50.074375,14.550345
+sreality,3800000,68,3,0,1,1,0,1,velmi dobre,vybavene,osobni,Ostrava,49.847778,18.275455
+sreality,9400000,57,2,1,1,0,1,3,novostavba,vybavene,osobni,Praha 10,50.019268,14.58224
+sreality,15990900,140,5,0,0,1,0,3,velmi dobre,vybavene,osobni,Praha 8,50.117962,14.461505
+sreality,9590000,77,3,0,1,1,0,3,dobre,vybavene,osobni,Praha 4,49.999146,14.4192
+sreality,14590000,88,3,1,1,1,1,1,novostavba,vybavene,osobni,Praha 6,50.082985,14.311815
+sreality,7700000,50,2,0,1,0,0,1,dobre,vybavene,osobni,Praha 3,50.094913,14.489644
+sreality,10651000,63,2,1,1,0,0,1,novostavba,vybavene,osobni,Praha,50.004192,14.355805
+sreality,11444000,76,2,1,1,1,0,2,novostavba,vybavene,osobni,Praha,50.004192,14.355805
+sreality,9121000,54,2,1,1,0,0,1,novostavba,vybavene,osobni,Praha,50.004192,14.355805
+sreality,8930000,72,3,0,1,1,0,3,velmi dobre,vybavene,osobni,Praha 8,50.14193,14.431092
+sreality,9650000,75,3,1,0,1,1,2,velmi dobre,vybavene,osobni,Brno,49.225269,16.553312
+sreality,8638700,36,1,1,1,0,1,5,novostavba,vybavene,osobni,Praha 5,50.071247,14.406638
+sreality,15200000,113,4,1,1,1,0,2,novostavba,vybavene,osobni,Praha,50.030434,14.375047
+sreality,2449000,19,1,1,0,0,0,4,velmi dobre,vybavene,osobni,Karlovy Vary,50.238533,12.839686
+sreality,2980000,45,2,0,0,0,0,2,dobre,vybavene,osobni,Ostrava,49.776054,18.256094
+sreality,6435000,38,1,1,1,0,0,6,novostavba,vybavene,osobni,Praha 10,50.048546,14.559393
+sreality,9750000,59,2,1,0,0,0,1,velmi dobre,vybavene,osobni,Praha 8,50.090801,14.4409
+sreality,6929000,40,1,1,1,0,0,1,velmi dobre,vybavene,osobni,Praha 5,50.071289,14.406946
+sreality,6650000,96,3,0,1,1,1,4,dobre,vybavene,osobni,Plzeň,49.737194,13.390586
+sreality,10990000,67,3,1,1,1,1,3,velmi dobre,vybavene,osobni,Praha 4,50.052269,14.461304
+sreality,4000000,42,2,0,1,0,0,4,dobre,vybavene,osobni,Kladno,50.129627,14.120649
+sreality,6990000,51,2,1,1,1,1,2,novostavba,vybavene,osobni,Brno,49.202408,16.624887
+sreality,4990000,61,2,0,0,1,1,4,velmi dobre,vybavene,osobni,Praha,49.798409,14.42345
+sreality,5499000,76,3,0,0,0,1,4,velmi dobre,vybavene,osobni,Plzeň,49.74966,13.377821
+sreality,9280000,66,3,1,1,1,0,4,velmi dobre,vybavene,osobni,Praha 3,50.088657,14.494246
+sreality,6690000,56,2,1,1,1,1,6,velmi dobre,vybavene,osobni,Olomouc,49.599262,17.222492
+sreality,12690000,80,3,1,1,1,1,4,novostavba,vybavene,osobni,Olomouc,49.608589,17.2521
+sreality,21000000,127,4,1,0,1,1,2,novostavba,vybavene,osobni,Praha 4,49.985401,14.408981
+sreality,8300000,69,4,1,0,0,0,1,velmi dobre,vybavene,osobni,Praha 4,50.027866,14.525695
+sreality,10490000,51,2,1,1,1,1,1,velmi dobre,vybavene,osobni,Praha 3,50.083366,14.466205
+sreality,14490000,133,3,0,1,1,1,3,velmi dobre,vybavene,osobni,Praha,50.083549,14.434141
+sreality,6231000,42,1,1,0,1,1,2,novostavba,vybavene,osobni,Brno,49.198174,16.695263
+sreality,5158500,35,1,1,0,1,1,2,velmi dobre,vybavene,osobni,Brno,49.198174,16.695263
+sreality,8290404,47,2,1,1,1,0,2,novostavba,vybavene,osobni,Praha 8,50.149902,14.485666
+sreality,13390000,75,3,1,1,1,0,3,dobre,vybavene,osobni,Praha 10,50.077724,14.486396
+sreality,33000000,129,3,0,1,0,0,3,velmi dobre,vybavene,osobni,Praha 1,50.083569,14.423106
+sreality,6790000,48,2,0,1,0,0,4,velmi dobre,vybavene,osobni,Praha 8,50.133915,14.477282
+sreality,8990000,60,2,1,0,0,1,1,novostavba,vybavene,osobni,Trutnov,50.668571,15.617894
+sreality,12490000,80,3,1,0,0,1,1,novostavba,vybavene,osobni,Trutnov,50.668571,15.617894
+sreality,14990000,94,3,1,0,0,1,2,novostavba,vybavene,osobni,Trutnov,50.668571,15.617894
+sreality,15990000,101,3,1,0,0,0,1,novostavba,vybavene,osobni,Trutnov,50.668571,15.617894
+sreality,7990000,55,2,1,1,1,0,4,velmi dobre,vybavene,osobni,Praha 9,50.123234,14.495726
+sreality,10990000,96,4,1,1,1,1,3,velmi dobre,vybavene,osobni,Ostrava,49.836319,18.295393
+sreality,14339139,118,4,1,1,1,1,3,novostavba,vybavene,osobni,Praha 10,50.067547,14.554193
+sreality,6427263,34,1,1,1,1,0,1,novostavba,vybavene,osobni,Praha 6,50.091537,14.297971
+sreality,8736734,54,2,1,1,1,1,1,novostavba,vybavene,osobni,Praha 5,50.047062,14.302664
+sreality,8914688,54,2,1,1,1,1,4,novostavba,vybavene,osobni,Praha 6,50.091537,14.297971
+sreality,8519156,54,2,1,1,1,1,1,novostavba,vybavene,osobni,Praha 6,50.091537,14.297971
+sreality,6090000,76,3,0,1,1,0,14,velmi dobre,vybavene,osobni,Pardubice,50.034431,15.778739
+sreality,12990000,73,3,1,1,1,1,3,velmi dobre,vybavene,osobni,Praha 9,50.106323,14.523139
+sreality,4600000,54,2,0,0,1,0,1,velmi dobre,vybavene,osobni,Karlovy Vary,50.230099,12.874777
+sreality,6140000,50,2,1,1,1,1,3,novostavba,vybavene,osobni,Kladno,50.161591,14.133471
+sreality,8800000,57,2,1,1,1,1,6,novostavba,vybavene,osobni,Praha 10,50.048908,14.542502
+sreality,10990000,45,2,1,1,0,1,1,velmi dobre,vybavene,osobni,Trutnov,50.695396,15.737185
+sreality,8990000,69,2,1,1,1,0,3,velmi dobre,vybavene,osobni,Praha 4,50.027164,14.45225
+sreality,5890000,68,2,0,1,0,0,4,velmi dobre,vybavene,osobni,Plzeň,49.726582,13.40046
+sreality,47750000,210,5,1,1,1,1,6,velmi dobre,vybavene,osobni,Praha,50.071442,14.438137
+sreality,4490000,57,2,0,1,1,0,4,velmi dobre,vybavene,osobni,Zlín,49.236324,17.662191
+sreality,21635000,83,3,1,1,1,1,2,velmi dobre,vybavene,osobni,Praha 6,50.084312,14.364093
+sreality,7200000,44,1,1,0,0,0,1,velmi dobre,vybavene,osobni,Praha 4,50.062737,14.450049
+sreality,9285700,54,2,1,1,0,1,3,novostavba,vybavene,osobni,Praha 4,50.065979,14.439
+sreality,7990000,55,2,1,1,1,1,4,novostavba,vybavene,osobni,Trutnov,50.654118,15.603967
+sreality,5500000,23,1,1,0,0,1,2,novostavba,vybavene,osobni,Praha 5,50.054661,14.285619
+sreality,8000000,53,2,1,1,1,1,4,velmi dobre,vybavene,osobni,Praha 9,50.155602,14.51636
+sreality,10900000,85,3,1,1,1,1,2,velmi dobre,vybavene,osobni,Praha 4,50.020504,14.465816
+sreality,8440000,49,2,1,1,1,0,1,velmi dobre,vybavene,osobni,Praha 8,50.14674,14.473227
+sreality,6210000,59,2,1,1,1,1,3,velmi dobre,vybavene,osobni,Plzeň,49.762585,13.348571
+sreality,4780000,70,4,1,1,1,0,9,velmi dobre,vybavene,osobni,Ostrava,49.825954,18.1898
+sreality,2610000,46,1,0,0,0,0,3,dobre,vybavene,osobni,Ostrava,49.832779,18.280081
+sreality,7750000,83,3,0,1,0,0,2,dobre,vybavene,osobni,Pardubice,50.038525,15.772092
+sreality,7499000,48,2,1,1,1,1,2,velmi dobre,vybavene,osobni,Praha 5,50.035515,14.380168
+sreality,6100000,59,2,1,1,1,0,2,novostavba,vybavene,osobni,Plzeň,49.748482,13.40882
+sreality,11490000,88,3,1,0,1,1,2,velmi dobre,vybavene,osobni,Praha 5,50.029385,14.363911
+sreality,9790000,53,2,1,1,1,1,2,novostavba,vybavene,osobni,Praha 6,50.082985,14.311815
+sreality,10290000,57,2,1,1,1,1,1,novostavba,vybavene,osobni,Praha 6,50.082985,14.311815
+sreality,5490000,27,1,1,1,1,1,2,novostavba,vybavene,osobni,Praha 6,50.082985,14.311815
+sreality,5790000,30,1,1,1,1,1,2,novostavba,vybavene,osobni,Praha 6,50.082985,14.311815
+sreality,6690000,36,1,1,1,1,1,1,novostavba,vybavene,osobni,Praha 6,50.082985,14.311815
+sreality,6370000,59,2,1,1,1,0,4,novostavba,vybavene,osobni,Plzeň,49.748482,13.40882
+sreality,3940000,35,1,1,1,0,0,5,novostavba,vybavene,osobni,Plzeň,49.748482,13.40882
+sreality,10800000,104,4,1,1,1,0,5,novostavba,vybavene,osobni,Plzeň,49.748482,13.40882
+sreality,5100000,72,3,1,0,0,1,2,velmi dobre,vybavene,osobni,Karlovy Vary,50.227787,12.861008
+sreality,4900000,50,2,0,0,1,0,5,dobre,vybavene,osobni,Pardubice,50.034134,15.763844
+sreality,6480000,28,1,1,1,0,1,3,velmi dobre,vybavene,osobni,Praha 5,50.071041,14.383989
+sreality,2790000,24,1,1,0,0,0,1,velmi dobre,vybavene,osobni,Pardubice,50.023876,15.778234
+sreality,4800000,75,2,0,0,0,1,2,dobre,vybavene,osobni,Liberec,50.769997,15.058449
+sreality,9590000,55,2,1,1,1,1,3,velmi dobre,vybavene,osobni,Praha 5,50.056648,14.344954
+sreality,7790000,53,2,0,0,1,0,3,velmi dobre,vybavene,osobni,Praha,50.137405,14.509489
+sreality,8816000,51,2,1,1,1,1,6,novostavba,vybavene,osobni,Praha 4,50.021732,14.43995
+sreality,6300000,78,4,0,1,1,0,3,velmi dobre,vybavene,osobni,Plzeň,49.779366,13.360727
+sreality,6690000,66,3,1,0,1,1,5,velmi dobre,vybavene,osobni,České Budějovice,48.975864,14.48056
+sreality,16590000,96,3,1,0,1,1,2,velmi dobre,vybavene,osobni,Praha 10,50.049732,14.522922
+sreality,9899000,77,3,0,1,1,1,3,velmi dobre,vybavene,osobni,Praha 6,50.065887,14.298436
+sreality,6300000,55,2,1,0,1,0,3,novostavba,vybavene,osobni,Olomouc,49.577938,17.2404
+sreality,6100000,50,2,1,1,1,0,5,novostavba,vybavene,osobni,Olomouc,49.586098,17.245087
+sreality,7125000,49,2,1,0,0,1,2,velmi dobre,vybavene,osobni,Praha 10,50.055752,14.481046
+sreality,7150000,58,2,0,0,1,0,3,velmi dobre,vybavene,osobni,Brno,49.229816,16.579954
+sreality,4139137,28,1,1,1,0,0,3,novostavba,vybavene,osobni,Kladno,50.151047,14.115027
+sreality,3900000,70,2,0,0,0,0,5,dobre,vybavene,osobni,Karlovy Vary,50.234875,12.87747
+sreality,7190000,55,2,0,0,1,0,4,velmi dobre,vybavene,osobni,Brno,49.218315,16.582743
+sreality,8590000,68,3,1,1,0,0,1,velmi dobre,vybavene,osobni,Brno,49.1996,16.591978
+sreality,6290000,70,3,0,1,1,0,6,velmi dobre,vybavene,osobni,Pardubice,50.049789,15.761227
+sreality,8390000,88,2,0,0,1,0,3,velmi dobre,vybavene,osobni,Pardubice,50.036285,15.776232
+sreality,5950000,98,3,0,0,0,0,1,dobre,vybavene,osobni,Pardubice,50.032459,15.764969
+sreality,7299000,50,2,1,1,0,0,4,velmi dobre,vybavene,osobni,Praha 9,50.100895,14.489904
+sreality,7007392,55,1,1,0,1,1,2,novostavba,vybavene,osobni,Zlín,49.226654,17.666338
+sreality,9222640,83,3,1,0,1,1,2,novostavba,vybavene,osobni,Zlín,49.226654,17.666338
+sreality,7350392,58,2,1,0,1,1,3,novostavba,vybavene,osobni,Zlín,49.226654,17.666334
+sreality,7450000,70,3,1,1,1,1,3,novostavba,vybavene,osobni,Zlín,49.196709,17.544434
+sreality,7500000,58,2,1,0,0,0,5,velmi dobre,vybavene,osobni,Trutnov,50.744171,15.818295
+sreality,10200000,50,2,0,0,0,0,2,velmi dobre,vybavene,osobni,Trutnov,50.744171,15.818295
+sreality,10500000,30,1,1,1,1,0,2,velmi dobre,vybavene,osobni,Praha 2,50.076286,14.451951
+sreality,16000000,50,2,1,1,0,0,1,velmi dobre,vybavene,osobni,Praha 2,50.077835,14.441465
+sreality,27500000,85,3,1,1,0,0,7,velmi dobre,vybavene,osobni,Praha 3,50.078979,14.449992
+sreality,41000000,110,4,1,1,1,0,6,velmi dobre,vybavene,osobni,Praha 3,50.080555,14.452493
+sreality,32897756,132,4,1,1,1,1,6,novostavba,vybavene,osobni,Praha 5,50.053452,14.409716
+sreality,5962981,32,1,1,1,1,1,2,novostavba,vybavene,osobni,Praha 10,50.032494,14.589123
+sreality,15015038,70,3,1,1,1,1,4,novostavba,vybavene,osobni,Praha 10,50.032494,14.589123
+sreality,19822640,103,4,1,1,1,1,4,novostavba,vybavene,osobni,Praha 10,50.032494,14.589123
+sreality,10990000,73,3,1,0,0,0,2,velmi dobre,vybavene,osobni,Trutnov,50.744171,15.818295
+sreality,9700000,91,3,1,1,1,1,2,velmi dobre,vybavene,osobni,Plzeň,49.740738,13.384843
+sreality,10990000,61,2,1,1,1,1,3,velmi dobre,vybavene,osobni,Praha 3,50.086487,14.483222
+sreality,7645260,53,2,1,1,1,1,2,novostavba,vybavene,osobni,Praha 9,50.154964,14.538545
+sreality,7581224,53,2,1,1,1,1,1,novostavba,vybavene,osobni,Praha 9,50.154964,14.538545
+sreality,10760135,56,2,1,1,1,0,4,novostavba,vybavene,osobni,Praha 5,50.056091,14.409175
+sreality,8800000,52,2,1,1,1,1,2,novostavba,vybavene,osobni,Praha 9,50.130081,14.535275
+sreality,11879552,49,2,1,0,0,0,3,novostavba,vybavene,osobni,Praha 2,50.070736,14.430594
+sreality,12298485,52,2,1,0,0,0,2,novostavba,vybavene,osobni,Praha 2,50.070736,14.430594
+sreality,11704856,50,2,1,0,0,0,2,novostavba,vybavene,osobni,Praha 2,50.070736,14.430594
+sreality,12054000,80,4,1,1,1,1,2,novostavba,vybavene,osobni,Praha 9,50.154964,14.538545
+sreality,18900000,98,3,1,1,1,0,7,novostavba,vybavene,osobni,Praha 3,50.090733,14.476322
+sreality,10362000,44,2,1,1,1,0,7,novostavba,vybavene,osobni,Praha 5,50.056091,14.409175
+sreality,12657192,72,3,1,1,1,1,3,novostavba,vybavene,osobni,Praha 5,50.042961,14.312009
+sreality,23000000,122,2,1,1,1,1,1,novostavba,vybavene,osobni,Praha 6,50.103909,14.400193
+sreality,26500000,145,4,1,1,1,1,1,novostavba,vybavene,osobni,Praha 6,50.103909,14.400193
+sreality,5850000,52,2,1,0,0,1,1,velmi dobre,vybavene,osobni,Karlovy Vary,50.346039,12.826773
+sreality,5590000,41,2,1,0,0,1,2,velmi dobre,vybavene,osobni,Karlovy Vary,50.346039,12.826773
+sreality,29500000,135,4,1,1,0,1,6,novostavba,vybavene,osobni,Praha 2,50.075928,14.427186
+sreality,7950000,48,2,1,1,0,0,1,velmi dobre,vybavene,osobni,Praha 2,50.068489,14.438044
+sreality,6620000,36,1,1,1,1,1,4,velmi dobre,vybavene,osobni,Praha 9,50.10413,14.528247
+sreality,10363000,51,2,1,1,1,1,4,novostavba,vybavene,osobni,Praha 9,50.13237,14.53639
+sreality,11380000,83,3,1,0,1,0,3,velmi dobre,vybavene,osobni,Praha 9,50.110413,14.503632
+sreality,14990000,93,3,1,1,1,1,1,velmi dobre,vybavene,osobni,Praha 3,50.088203,14.484105
+sreality,18000000,177,5,1,1,1,0,6,velmi dobre,vybavene,osobni,Praha 5,50.062843,14.379472
+sreality,7450997,39,2,1,1,1,0,3,velmi dobre,vybavene,osobni,Praha 9,50.127666,14.493278
+sreality,11290000,80,1,1,1,1,0,2,novostavba,vybavene,osobni,Praha 8,50.095585,14.450413
+sreality,6000000,43,1,0,1,1,0,7,velmi dobre,vybavene,osobni,Praha 9,50.106445,14.56187
+sreality,4200000,58,1,0,0,0,1,1,velmi dobre,vybavene,osobni,Trutnov,50.588539,15.8839
+sreality,3850000,46,1,0,1,0,0,6,velmi dobre,vybavene,osobni,České Budějovice,48.982487,14.508818
+sreality,43000000,147,4,1,1,1,1,4,velmi dobre,vybavene,osobni,Praha 6,50.102711,14.402323
+sreality,5200000,52,2,0,1,1,1,8,velmi dobre,vybavene,osobni,České Budějovice,48.990604,14.464577
+sreality,7890000,27,1,1,1,0,0,5,velmi dobre,vybavene,osobni,Praha 3,50.080059,14.447246
+sreality,4690000,48,2,1,0,0,0,1,novostavba,vybavene,osobni,Ostrava,49.827431,18.194159
+sreality,15600000,84,3,1,1,0,0,6,novostavba,vybavene,osobni,Praha 4,50.064041,14.445528
+sreality,18800000,97,2,1,1,1,0,7,novostavba,vybavene,osobni,Praha 4,50.064041,14.445528
+sreality,15900000,106,3,1,0,1,1,1,novostavba,vybavene,osobni,Praha,49.901814,14.340671
+sreality,16900000,114,4,1,0,1,1,1,novostavba,vybavene,osobni,Praha,49.901814,14.340671
+sreality,5490000,62,2,0,1,1,0,1,velmi dobre,vybavene,osobni,Liberec,50.751926,15.078364
+sreality,12900000,77,3,1,1,1,0,4,velmi dobre,vybavene,osobni,Praha 10,50.067242,14.459768
+sreality,18900000,96,3,0,0,0,0,2,velmi dobre,vybavene,osobni,Praha 8,50.090801,14.4409
+sreality,12600000,84,3,1,0,1,1,1,novostavba,vybavene,osobni,Praha,49.901814,14.340671
+sreality,9199000,88,2,1,1,0,0,1,novostavba,vybavene,osobni,Pardubice,50.035336,15.780265
+sreality,10490000,73,3,0,1,0,0,7,dobre,vybavene,osobni,Praha,50.062027,14.449405
+sreality,15960000,114,3,1,0,0,0,2,velmi dobre,vybavene,osobni,Praha,50.078625,14.504109
+sreality,4750000,50,1,1,0,0,0,5,velmi dobre,vybavene,osobni,Karlovy Vary,50.225807,12.876033
+sreality,8200000,56,3,0,0,1,0,4,dobre,vybavene,osobni,Praha 4,50.054512,14.433966
+sreality,12900000,64,2,0,0,0,0,1,velmi dobre,vybavene,osobni,Praha 1,50.084164,14.431126
+sreality,8650000,73,3,1,0,1,1,2,velmi dobre,vybavene,osobni,Ostrava,49.786148,18.249435
+sreality,9600000,98,3,1,0,1,0,1,velmi dobre,vybavene,osobni,Ostrava,49.786148,18.249435
+sreality,8150000,63,3,1,0,1,1,2,velmi dobre,vybavene,osobni,Ostrava,49.786148,18.249435
+sreality,10990000,81,3,1,0,0,0,5,velmi dobre,vybavene,osobni,Praha 5,50.072468,14.395406
+sreality,15299999,92,2,1,1,1,0,5,velmi dobre,vybavene,osobni,Praha 5,50.070908,14.409739
+sreality,13400000,109,4,1,0,1,1,2,novostavba,vybavene,osobni,Brno,49.141178,16.672289
+sreality,13490000,118,4,0,1,0,0,8,dobre,vybavene,osobni,Praha 5,50.049198,14.350636
+sreality,11350000,83,3,0,1,0,0,3,dobre,vybavene,osobni,Praha 9,50.110176,14.506917
+sreality,15790000,89,3,1,0,1,1,2,novostavba,vybavene,osobni,Praha 9,50.109726,14.565666
+sreality,5999900,29,1,1,0,0,0,4,velmi dobre,vybavene,osobni,Praha 9,50.112019,14.504049
+sreality,16900000,108,4,0,0,0,1,3,velmi dobre,vybavene,osobni,Praha 6,50.091755,14.323959
+sreality,3150000,23,1,1,1,0,0,7,velmi dobre,vybavene,osobni,Plzeň,49.732689,13.401368
+sreality,8600000,76,3,0,1,1,0,8,dobre,vybavene,osobni,Praha 5,50.051189,14.341031
+sreality,20990000,124,4,0,1,1,1,6,velmi dobre,vybavene,osobni,Praha 3,50.077862,14.458901
+sreality,16999000,143,4,1,0,0,0,5,novostavba,vybavene,osobni,Praha 6,50.100109,14.380122
+sreality,19940000,138,4,0,1,1,0,5,velmi dobre,vybavene,osobni,Praha 10,50.068794,14.452641
+sreality,13990000,73,3,1,1,1,1,3,velmi dobre,vybavene,osobni,Praha 9,50.106323,14.523139
+sreality,4864500,31,1,1,0,0,1,2,novostavba,vybavene,osobni,Brno,49.198174,16.695263
+sreality,13539000,153,3,1,0,1,1,1,velmi dobre,vybavene,osobni,Brno,49.198174,16.695263
+sreality,11278500,86,3,1,0,1,1,2,velmi dobre,vybavene,osobni,Brno,49.198174,16.695263
+sreality,6590000,81,3,1,0,0,1,3,velmi dobre,vybavene,osobni,Trutnov,50.645435,15.905885
+sreality,6950000,44,1,1,1,1,1,1,velmi dobre,vybavene,osobni,Praha 9,50.109482,14.558741
+sreality,8595000,79,3,1,0,1,0,2,novostavba,vybavene,osobni,Ostrava,49.840717,18.165451
+sreality,5750000,34,1,1,1,1,1,2,velmi dobre,vybavene,osobni,Praha 10,50.04298,14.549323
+sreality,11900000,72,2,1,1,1,1,1,novostavba,vybavene,osobni,Praha 4,49.998943,14.408665
+sreality,9500000,59,2,1,1,1,1,6,dobre,vybavene,osobni,Praha 9,50.104362,14.51014
+sreality,9524000,65,3,1,1,1,0,5,novostavba,vybavene,osobni,Brno,49.204189,16.630672
+sreality,3400000,55,2,0,0,0,0,1,velmi dobre,vybavene,osobni,Karlovy Vary,50.243553,12.83413
+sreality,2990000,17,1,1,0,0,0,1,velmi dobre,vybavene,osobni,Praha 6,50.086277,14.374228
+sreality,6050000,30,1,1,1,1,0,3,novostavba,vybavene,osobni,Praha 5,50.027088,14.374936
+sreality,8290000,50,1,1,0,1,0,5,velmi dobre,vybavene,osobni,Praha 4,50.05719,14.429805
+sreality,13900000,80,3,1,1,1,1,2,velmi dobre,vybavene,osobni,Praha 9,50.102325,14.53017
+sreality,5773526,32,1,1,1,1,0,2,novostavba,vybavene,osobni,Praha 8,50.149902,14.485666
+sreality,12290000,113,4,1,0,1,0,4,velmi dobre,vybavene,osobni,Praha 9,50.114307,14.508595
+sreality,7500000,55,2,1,1,1,1,3,novostavba,vybavene,osobni,Olomouc,49.567986,17.244371
+sreality,18501157,80,3,1,1,1,1,6,novostavba,vybavene,osobni,Praha 3,50.086853,14.470496
+sreality,4050000,64,2,0,1,0,0,1,velmi dobre,vybavene,osobni,Ostrava,49.839321,18.26972
+sreality,5250000,26,1,1,1,0,0,3,novostavba,vybavene,osobni,Praha 5,50.027088,14.374936
+sreality,8990000,42,1,1,1,0,0,4,novostavba,vybavene,osobni,Praha 9,50.103302,14.524847
+sreality,13055000,65,2,1,1,1,1,4,novostavba,vybavene,osobni,Praha,50.055584,14.45027
+sreality,8900000,43,2,1,0,0,0,5,velmi dobre,vybavene,osobni,Praha 8,50.092171,14.453762
+sreality,10900000,49,2,1,1,0,0,6,velmi dobre,vybavene,osobni,Praha 2,50.076668,14.416531
+sreality,7200000,61,2,1,0,1,1,4,velmi dobre,vybavene,osobni,Ostrava,49.842487,18.287325
+sreality,14900000,91,3,1,1,1,0,7,novostavba,vybavene,osobni,Praha 5,50.063885,14.409646
+sreality,16034400,102,4,1,1,1,0,6,velmi dobre,vybavene,osobni,Praha 5,50.071453,14.408455
+sreality,14100000,76,3,1,1,1,0,6,novostavba,vybavene,osobni,Praha 5,50.063835,14.410011
+sreality,15138095,100,3,1,1,1,0,2,novostavba,vybavene,osobni,Praha 5,50.063835,14.410011
+sreality,10990000,58,2,1,1,1,1,4,novostavba,vybavene,osobni,Praha 9,50.103771,14.520177
+sreality,4350000,36,1,1,1,1,0,4,velmi dobre,vybavene,osobni,České Budějovice,48.988182,14.450776
+sreality,4850000,50,1,1,1,0,0,1,novostavba,vybavene,osobni,Plzeň,49.748943,13.34171
+sreality,9994902,54,2,1,1,1,1,1,novostavba,vybavene,osobni,Praha 3,50.08567,14.471272
+sreality,7490000,61,2,0,0,0,0,3,velmi dobre,vybavene,osobni,Brno,49.223709,16.58342
+sreality,12625760,82,3,1,1,1,1,3,novostavba,vybavene,osobni,Praha 9,50.102459,14.506999
+sreality,9290000,85,3,0,1,1,0,7,dobre,vybavene,osobni,Praha 10,50.042233,14.559549
+sreality,11250000,88,3,0,0,1,1,3,velmi dobre,vybavene,osobni,Praha 9,50.117867,14.487254
+sreality,7990000,110,4,1,0,1,1,2,novostavba,vybavene,osobni,České Budějovice,48.976749,14.358397
+sreality,5300000,96,3,0,0,0,1,5,velmi dobre,vybavene,osobni,Karlovy Vary,50.234547,12.870604
+sreality,7050000,56,2,1,1,1,1,4,novostavba,vybavene,osobni,Liberec,50.762131,15.06023
+sreality,7499000,66,3,1,0,1,0,5,velmi dobre,vybavene,osobni,Praha 9,50.069668,14.677504
+sreality,6300000,63,3,0,1,1,1,3,velmi dobre,vybavene,osobni,Plzeň,49.778839,13.371037
+sreality,7490000,63,3,0,1,1,0,5,velmi dobre,vybavene,osobni,Brno,49.204334,16.668018
+sreality,4460000,42,1,1,0,0,0,1,velmi dobre,vybavene,osobni,Brno,48.902958,16.543646
+sreality,10390000,56,2,1,1,1,1,4,novostavba,vybavene,osobni,Praha 5,50.060966,14.398317
+sreality,15000000,66,2,1,1,1,1,5,novostavba,vybavene,osobni,Praha 10,50.079819,14.484784
+sreality,10790000,58,2,1,1,1,1,5,novostavba,vybavene,osobni,Praha 5,50.060966,14.398317
+sreality,11890000,71,2,1,1,1,1,5,novostavba,vybavene,osobni,Praha 5,50.060966,14.398317
+sreality,10590000,58,2,1,1,1,1,3,novostavba,vybavene,osobni,Praha 5,50.060966,14.398317
+sreality,23790000,131,4,1,1,1,1,6,novostavba,vybavene,osobni,Praha 5,50.061146,14.398285
+sreality,5350000,26,1,1,1,1,0,3,novostavba,vybavene,osobni,Praha 5,50.027088,14.374936
+sreality,16490000,129,4,1,1,1,0,6,novostavba,vybavene,osobni,Brno,49.190201,16.615801
+sreality,9990000,118,4,1,0,1,1,2,velmi dobre,vybavene,osobni,Brno,49.206997,16.482796
+sreality,5250000,69,3,0,0,1,1,3,velmi dobre,vybavene,osobni,Pardubice,50.100964,15.630974
+sreality,3680000,46,2,1,1,1,0,6,velmi dobre,vybavene,osobni,Ostrava,49.841106,18.285784
+sreality,8650000,75,3,0,1,1,0,1,velmi dobre,vybavene,osobni,Praha 4,50.024189,14.43816
+sreality,4930000,30,1,1,1,1,1,4,velmi dobre,vybavene,osobni,Brno,49.16853,16.570469
+sreality,12500000,66,2,1,0,1,1,4,velmi dobre,vybavene,osobni,Praha 3,50.086102,14.482515
+sreality,8490000,85,3,1,0,1,1,3,novostavba,vybavene,osobni,Český Krumlov,48.639324,14.229321
+sreality,5972670,60,2,1,1,1,1,1,novostavba,vybavene,osobni,Liberec,50.763096,15.039489
+sreality,14590000,119,4,1,1,1,1,7,novostavba,vybavene,osobni,Liberec,50.763096,15.039489
+sreality,6690110,66,2,1,1,1,1,2,novostavba,vybavene,osobni,Liberec,50.763096,15.039489
+sreality,5778800,60,2,1,1,1,0,2,novostavba,vybavene,osobni,Liberec,50.763096,15.039489
+sreality,3650000,46,2,1,1,1,1,3,velmi dobre,vybavene,osobni,Zlín,49.291904,17.863012
+sreality,8690000,90,2,0,1,1,1,1,novostavba,vybavene,osobni,Zlín,49.237022,17.644049
+sreality,4490000,36,2,1,0,0,0,2,velmi dobre,vybavene,osobni,Zlín,49.234722,17.662071
+sreality,9819000,93,3,1,1,1,0,7,novostavba,vybavene,osobni,České Budějovice,48.981617,14.477505
+sreality,6890000,69,2,0,1,1,1,2,novostavba,vybavene,osobni,Zlín,49.237022,17.644049
+sreality,9290000,98,3,1,1,1,1,2,novostavba,vybavene,osobni,Zlín,49.237022,17.644049
+sreality,5790000,38,1,1,1,0,0,5,velmi dobre,vybavene,osobni,Brno,49.216045,16.574415
+sreality,4790000,52,2,1,0,0,0,3,velmi dobre,vybavene,osobni,Plzeň,49.739063,13.391391
+sreality,8790000,66,2,0,0,0,0,3,velmi dobre,vybavene,osobni,Praha 4,50.030144,14.407602
+sreality,18800000,97,3,1,1,1,0,7,novostavba,vybavene,osobni,Praha 4,50.062737,14.450049
+sreality,6690000,76,3,0,0,1,1,2,dobre,vybavene,osobni,Kladno,50.140903,14.074763
+sreality,7400000,46,1,1,1,0,0,7,velmi dobre,vybavene,osobni,Praha 4,50.061985,14.440517
+sreality,8990000,58,2,1,0,1,1,1,novostavba,vybavene,osobni,Trutnov,50.631088,15.781808
+sreality,6983700,63,2,1,1,0,0,3,velmi dobre,vybavene,osobni,Brno,49.193581,16.623293
+sreality,8990000,120,2,1,1,0,1,1,novostavba,vybavene,osobni,Kladno,50.133904,14.137182
+sreality,8150000,29,1,1,1,1,1,5,novostavba,vybavene,osobni,Praha,50.056122,14.467293
+sreality,8999000,48,2,1,1,0,0,6,velmi dobre,vybavene,osobni,Praha 3,50.084442,14.452557
+sreality,15490000,81,3,1,1,1,1,3,velmi dobre,vybavene,osobni,Praha 5,50.055702,14.364877
+sreality,6950000,58,2,1,1,1,1,4,novostavba,vybavene,osobni,Trutnov,50.654118,15.603967
+sreality,28900000,135,4,1,1,1,1,5,novostavba,vybavene,osobni,Brno,49.180977,16.568825
+sreality,10900000,72,3,1,1,0,1,6,novostavba,vybavene,osobni,Brno,49.185848,16.612942
+sreality,15120000,58,3,1,1,0,1,1,novostavba,vybavene,osobni,Brno,49.196892,16.540127
+sreality,11112000,56,2,1,1,1,1,10,novostavba,vybavene,osobni,Praha,50.044491,14.33215
+sreality,16990000,119,5,1,1,1,1,3,novostavba,vybavene,osobni,Praha 9,50.087399,14.561062
+sreality,8392907,43,2,1,1,1,1,5,novostavba,vybavene,osobni,Praha 4,50.031738,14.506943
+sreality,7841266,43,2,1,1,1,1,2,novostavba,vybavene,osobni,Praha 4,50.031738,14.506943
+sreality,8787218,43,2,1,1,1,1,7,novostavba,vybavene,osobni,Praha 4,50.031738,14.506943
+sreality,8615552,43,2,1,1,1,1,6,novostavba,vybavene,osobni,Praha 4,50.031738,14.506943
+sreality,15570000,115,4,1,1,1,1,5,novostavba,vybavene,osobni,Praha 9,50.087387,14.561128
+sreality,15895000,82,3,1,1,1,0,6,velmi dobre,vybavene,osobni,Praha 3,50.081863,14.453723
+sreality,10280000,138,4,1,0,0,0,4,dobre,vybavene,osobni,Brno,49.212978,16.633101
+sreality,10560000,44,2,1,1,1,1,4,novostavba,vybavene,osobni,Brno,49.196892,16.540127
+sreality,24900000,124,4,1,0,1,1,2,velmi dobre,vybavene,osobni,Praha,50.10384,14.615641
+sreality,3600000,51,2,0,0,0,0,3,velmi dobre,vybavene,osobni,Ostrava,49.795033,18.252913
+sreality,10999825,47,1,0,0,0,0,2,novostavba,vybavene,osobni,Praha 2,50.070736,14.430594
+sreality,9865482,45,2,1,0,0,0,1,novostavba,vybavene,osobni,Praha 2,50.070736,14.430594
+sreality,11912880,79,4,1,1,1,1,3,novostavba,vybavene,osobni,Praha 9,50.154964,14.538545
+sreality,11664856,80,4,1,1,1,1,1,novostavba,vybavene,osobni,Praha 9,50.154964,14.538545
+sreality,9130950,52,3,1,1,1,1,1,novostavba,vybavene,osobni,Praha 9,50.154964,14.538545
+sreality,11650000,69,3,1,1,1,1,1,novostavba,vybavene,osobni,Praha 10,50.086681,14.51375
+sreality,10217500,57,3,1,1,1,1,3,novostavba,vybavene,osobni,Praha 5,50.042297,14.306854
+sreality,11758857,72,3,1,1,1,1,1,novostavba,vybavene,osobni,Praha 9,50.130577,14.549412
+sreality,8746205,53,2,1,1,1,1,2,novostavba,vybavene,osobni,Praha 9,50.130577,14.549412
+sreality,7117632,45,2,1,1,0,1,3,novostavba,vybavene,osobni,Praha 9,50.130577,14.549412
+sreality,12298976,72,3,1,1,1,1,1,novostavba,vybavene,osobni,Praha 9,50.130577,14.549412
+sreality,11685992,72,3,1,1,1,1,2,novostavba,vybavene,osobni,Praha 9,50.130577,14.549412
+sreality,14119694,92,3,1,1,1,0,2,novostavba,vybavene,osobni,Praha 5,50.056091,14.409175
+sreality,5826616,34,1,1,1,0,1,1,novostavba,vybavene,osobni,Praha 9,50.130577,14.549412
+sreality,10691878,56,2,1,1,1,0,3,novostavba,vybavene,osobni,Praha 5,50.056091,14.409175
+sreality,7660000,38,2,1,1,0,1,4,novostavba,vybavene,osobni,Praha 10,50.072262,14.480817
+sreality,7410000,38,2,1,1,0,1,1,novostavba,vybavene,osobni,Praha 10,50.072262,14.480817
+sreality,11269136,72,3,1,1,1,1,1,novostavba,vybavene,osobni,Praha 9,50.130577,14.549412
+sreality,16950000,107,3,1,1,0,1,2,velmi dobre,vybavene,osobni,Praha 6,50.086079,14.336763
+sreality,11300000,77,2,0,1,0,0,5,dobre,vybavene,osobni,Praha 3,50.082901,14.447947
+sreality,14000000,59,2,1,1,0,0,2,novostavba,vybavene,osobni,Praha 8,50.094791,14.454208
+sreality,7950000,49,2,1,1,1,0,3,dobre,vybavene,osobni,Praha 6,50.089527,14.38413
+sreality,6950000,37,1,1,1,1,0,5,velmi dobre,vybavene,osobni,Praha 9,50.103191,14.52915
+bezrealitky,7890000,86,3,0,0,0,1,4,velmi dobre,vybavene,osobni,Pardubice,50.034716,15.766793
+bezrealitky,8295000,58,2,1,0,0,0,1,velmi dobre,vybavene,osobni,Praha,50.088144,14.464381
+bezrealitky,13200000,80,3,1,1,0,1,5,velmi dobre,vybavene,osobni,Praha,50.076914,14.466082
+bezrealitky,4990000,32,1,1,0,0,0,3,velmi dobre,vybavene,osobni,Brno,49.181234,16.598001
+bezrealitky,10285000,86,3,1,0,0,1,2,novostavba,vybavene,osobni,Praha,50.039052,14.63862
+bezrealitky,6749000,44,2,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha,50.013262,14.423394
+bezrealitky,7650000,69,2,0,0,0,0,5,dobre,vybavene,osobni,Praha,50.103169,14.474951
+bezrealitky,7690000,46,2,1,1,0,1,2,velmi dobre,vybavene,osobni,Praha,50.105965,14.573082
+bezrealitky,9300000,52,2,1,1,0,1,1,velmi dobre,vybavene,osobni,Praha,50.115903,14.565597
+bezrealitky,5280000,76,3,0,1,0,0,2,dobre,vybavene,osobni,Zlín,49.230918,17.681015
+bezrealitky,4600000,63,3,0,1,0,0,4,dobre,vybavene,druzstevni,Ostrava,49.783293,18.253958
+bezrealitky,6750000,47,2,1,0,0,1,1,dobre,vybavene,osobni,Brno,49.182364,16.588482
+bezrealitky,7990000,97,3,1,1,0,0,1,velmi dobre,vybavene,osobni,Plzeň,49.73776,13.391953
+bezrealitky,7310000,54,2,0,0,1,0,1,velmi dobre,vybavene,osobni,Praha,50.047753,14.341513
+bezrealitky,9990000,74,4,1,1,0,1,5,velmi dobre,vybavene,osobni,Praha,50.036981,14.499852
+bezrealitky,6750000,27,1,1,1,1,1,3,novostavba,vybavene,osobni,Praha,50.01116,14.54723
+bezrealitky,5790000,80,2,1,1,0,0,4,velmi dobre,vybavene,osobni,Olomouc,49.453431,17.441492
+bezrealitky,8299000,53,3,1,1,0,0,3,velmi dobre,vybavene,osobni,Praha,50.096724,14.355253
+bezrealitky,8100000,80,3,0,1,0,0,1,dobre,vybavene,druzstevni,Praha,50.050725,14.451063
+bezrealitky,7799000,43,2,1,0,0,0,2,velmi dobre,vybavene,osobni,Praha,50.03586,14.411646
+bezrealitky,7199000,39,2,1,0,0,0,3,velmi dobre,vybavene,osobni,Praha,50.067,14.496643
+bezrealitky,8194000,56,3,1,0,0,1,1,velmi dobre,vybavene,osobni,Brno,49.177333,16.63196
+bezrealitky,5750000,33,2,1,0,0,0,3,velmi dobre,vybavene,osobni,Praha,50.0449,14.466114
+bezrealitky,8199000,52,3,1,1,0,0,3,velmi dobre,vybavene,osobni,Praha,50.097651,14.353939
+bezrealitky,7650000,40,1,0,0,0,0,1,velmi dobre,vybavene,osobni,Praha,50.072065,14.444764
+bezrealitky,6500000,45,2,1,1,0,1,2,dobre,vybavene,osobni,Praha,49.988986,14.413865
+bezrealitky,6990000,45,2,1,1,0,1,2,novostavba,vybavene,osobni,Praha,50.056377,14.542578
+bezrealitky,10750000,83,4,1,0,0,1,4,velmi dobre,vybavene,osobni,Praha,50.146547,14.532325
+bezrealitky,3599000,55,3,1,0,0,1,4,velmi dobre,vybavene,osobni,Praha,49.971009,12.702147
+bezrealitky,8990000,54,2,1,0,1,0,2,velmi dobre,vybavene,osobni,Praha,50.055916,14.437649
+bezrealitky,7790000,57,3,0,0,1,0,3,dobre,vybavene,osobni,Praha,50.124035,14.498104
+bezrealitky,6890000,45,1,0,0,0,0,1,dobre,vybavene,osobni,Praha,50.064975,14.392909
+bezrealitky,4890000,52,1,0,0,0,0,1,novostavba,vybavene,osobni,Brno,49.185607,16.63532
+bezrealitky,5170000,52,2,1,1,0,1,5,novostavba,vybavene,osobni,Olomouc,50.224284,17.090792
+bezrealitky,2890000,49,1,0,0,0,1,5,novostavba,vybavene,osobni,Ostrava,49.832143,18.280087
+bezrealitky,5300000,35,1,0,0,0,1,1,velmi dobre,vybavene,osobni,Brno,49.220285,16.555837
+bezrealitky,4590000,50,2,0,1,1,1,1,velmi dobre,vybavene,osobni,České Budějovice,48.96131,14.473403
+bezrealitky,9199900,53,2,1,0,0,0,4,velmi dobre,vybavene,osobni,Praha,50.075955,14.49188
+bezrealitky,13799900,75,4,1,1,0,0,6,velmi dobre,vybavene,osobni,Praha,50.090363,14.495364
+bezrealitky,13999900,78,3,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha,50.054957,14.494788
+bezrealitky,13999900,54,2,1,1,0,0,5,velmi dobre,vybavene,osobni,Praha,50.075748,14.445981
+bezrealitky,14999900,76,4,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha,50.085073,14.368974
+bezrealitky,11799900,97,4,1,0,0,0,2,velmi dobre,vybavene,osobni,Brno,49.203813,16.622357
+bezrealitky,25999900,139,5,1,1,0,0,6,velmi dobre,vybavene,osobni,Praha,50.075748,14.445981
+bezrealitky,9999900,84,5,1,1,0,0,5,velmi dobre,vybavene,osobni,Brno,49.209138,16.660726
+bezrealitky,14999900,81,3,1,1,0,0,4,velmi dobre,vybavene,osobni,Praha,50.065203,14.450711
+bezrealitky,19999900,117,4,1,1,0,0,6,velmi dobre,vybavene,osobni,Praha,50.075748,14.445981
+bezrealitky,10199900,57,3,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha,50.07024,14.470463
+bezrealitky,8999900,54,2,1,0,0,0,1,velmi dobre,vybavene,osobni,Praha,50.073366,14.479062
+bezrealitky,12799900,94,4,1,1,0,0,8,velmi dobre,vybavene,osobni,Praha,50.057996,14.468289
+bezrealitky,8649900,42,2,1,1,0,0,5,velmi dobre,vybavene,osobni,Praha,50.071818,14.462527
+bezrealitky,13699900,85,4,1,1,0,0,2,velmi dobre,vybavene,osobni,Brno,49.205979,16.595385
+bezrealitky,6590000,33,1,1,1,0,1,4,novostavba,vybavene,osobni,Praha,50.065987,14.458975
+bezrealitky,6200000,43,2,1,1,0,1,6,dobre,vybavene,osobni,Praha,50.04529,14.51359
+bezrealitky,17500000,80,3,0,1,0,1,5,velmi dobre,vybavene,osobni,Praha,50.06653,14.432775
+bezrealitky,4799000,69,2,0,0,0,1,3,velmi dobre,vybavene,osobni,Trutnov,50.559425,15.902569
+bezrealitky,7999000,48,2,1,0,0,1,2,velmi dobre,vybavene,osobni,Praha,50.037657,14.483921
+bezrealitky,8990000,53,2,1,1,0,1,4,novostavba,vybavene,osobni,Brno,49.179621,16.56892
+bezrealitky,19200000,96,3,1,1,0,1,2,novostavba,vybavene,osobni,Praha,50.001624,14.375168
+bezrealitky,8900000,38,1,1,1,0,0,5,velmi dobre,vybavene,osobni,Praha,50.066783,14.444013
+bezrealitky,6890000,36,1,1,1,0,1,4,dobre,vybavene,osobni,Praha,50.119554,14.469895
+bezrealitky,10990000,58,2,1,1,0,1,4,novostavba,vybavene,osobni,Praha,50.10377,14.520177
+bezrealitky,18940013,119,3,1,1,0,1,4,novostavba,vybavene,osobni,Praha,50.060742,14.402005
+bezrealitky,13499000,88,3,0,0,0,1,2,velmi dobre,vybavene,osobni,Praha,50.086643,14.375899
+bezrealitky,7500000,42,2,1,1,0,0,7,velmi dobre,vybavene,osobni,Praha,50.088346,14.306477
+bezrealitky,24900000,124,4,1,0,0,1,0,velmi dobre,vybavene,osobni,Praha,50.105046,14.6165
+bezrealitky,9794081,61,2,1,1,0,1,2,novostavba,vybavene,osobni,Praha,50.061021,14.40201
+bezrealitky,14990000,103,3,1,0,0,1,2,velmi dobre,vybavene,osobni,Praha,50.070624,14.373246
+bezrealitky,6660000,39,1,0,0,0,0,3,velmi dobre,vybavene,osobni,Praha,50.05161,14.406656
+bezrealitky,9199999,70,4,1,1,1,0,9,velmi dobre,vybavene,osobni,Praha,50.026511,14.452328
+bezrealitky,2700000,32,1,0,1,0,0,5,velmi dobre,vybavene,osobni,Olomouc,49.527918,17.596614
+bezrealitky,10990000,53,2,1,1,0,1,3,novostavba,vybavene,osobni,Praha,50.111321,14.510686
+bezrealitky,2100000,97,3,1,0,0,0,2,dobre,vybavene,druzstevni,Liberec,50.616331,14.490399
+bezrealitky,9999900,50,2,1,1,0,0,4,velmi dobre,vybavene,osobni,Praha,50.106951,14.445896
+bezrealitky,6490000,77,3,1,0,0,0,1,velmi dobre,vybavene,osobni,Pardubice,50.025667,15.774829
+bezrealitky,10999900,79,4,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha,50.048345,14.484308
+bezrealitky,14000000,110,4,0,1,0,1,5,velmi dobre,vybavene,osobni,Brno,49.209586,16.605891
+bezrealitky,8799900,41,2,1,0,0,0,1,velmi dobre,vybavene,osobni,Praha,50.072937,14.474712
+bezrealitky,5500000,32,1,0,0,0,1,3,dobre,vybavene,osobni,Praha,50.036643,14.373609
+bezrealitky,4550000,80,3,0,1,0,1,7,velmi dobre,vybavene,osobni,Olomouc,49.554084,17.735291
+bezrealitky,8415000,70,2,0,0,0,0,3,dobre,vybavene,osobni,Brno,49.185898,16.586532
+bezrealitky,5790000,43,2,1,0,0,1,3,novostavba,vybavene,osobni,Brno,49.176144,16.637938
+bezrealitky,8490000,73,2,0,0,0,1,3,velmi dobre,vybavene,osobni,Praha,50.015914,14.656534
+bezrealitky,6590000,29,1,1,1,0,0,4,novostavba,vybavene,osobni,Praha,50.063896,14.453696
+bezrealitky,9125000,47,2,1,1,0,1,2,novostavba,vybavene,osobni,Praha,50.063896,14.453696
+bezrealitky,2499000,29,1,1,1,0,0,4,novostavba,vybavene,druzstevni,Praha,50.063896,14.453696
+bezrealitky,4900000,61,2,1,1,0,0,1,novostavba,vybavene,druzstevni,Praha,50.067631,14.432498
+bezrealitky,3999000,47,2,1,1,0,1,2,novostavba,vybavene,druzstevni,Praha,50.063896,14.453696
+bezrealitky,12500000,80,2,0,1,0,1,4,velmi dobre,vybavene,osobni,Praha,50.053864,14.368111
+bezrealitky,7299000,109,3,1,1,0,0,5,velmi dobre,vybavene,druzstevni,Praha,50.067631,14.432498
+bezrealitky,11490000,61,2,1,1,0,0,1,novostavba,vybavene,osobni,Praha,50.067631,14.432498
+bezrealitky,21990000,106,3,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha,50.067631,14.432498
+bezrealitky,6299000,106,3,1,1,0,0,2,velmi dobre,vybavene,druzstevni,Praha,50.067631,14.432498
+bezrealitky,21990000,109,3,1,1,0,0,5,velmi dobre,vybavene,osobni,Praha,50.067631,14.432498
+bezrealitky,4521600,52,3,1,1,0,1,7,velmi dobre,vybavene,osobni,Olomouc,49.466857,17.087936
+bezrealitky,4750000,68,3,0,0,0,1,4,dobre,vybavene,osobni,Český Krumlov,48.815875,14.315488
+bezrealitky,6990000,40,2,1,1,0,1,2,velmi dobre,vybavene,osobni,Praha,50.063546,14.453122
+bezrealitky,8700000,77,3,0,1,0,0,8,velmi dobre,vybavene,osobni,Praha,50.121291,14.503443
+bezrealitky,4800000,75,3,1,0,0,1,2,velmi dobre,vybavene,osobni,Liberec,50.771774,15.061728
+bezrealitky,12100000,53,2,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha,50.089514,14.474161
+bezrealitky,3800000,59,2,0,0,0,0,4,velmi dobre,vybavene,osobni,Zlín,49.08399,17.886388
+bezrealitky,3490000,48,2,0,1,0,0,8,velmi dobre,vybavene,osobni,Ostrava,49.823875,18.187009
+bezrealitky,4500000,62,3,0,0,0,0,1,velmi dobre,vybavene,osobni,Ostrava,49.847027,18.27438
+bezrealitky,9250000,49,2,1,1,0,1,4,novostavba,vybavene,osobni,Praha,50.102621,14.519205
+bezrealitky,7500000,41,2,1,1,0,1,3,novostavba,vybavene,osobni,Praha,50.102621,14.519205
+bezrealitky,8500000,52,2,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha,50.070873,14.481157
+bezrealitky,7450000,72,2,0,1,0,0,2,dobre,vybavene,osobni,Brno,49.192139,16.617377
+bezrealitky,12900000,75,3,1,1,0,1,2,velmi dobre,vybavene,osobni,Praha,50.140873,14.518832
+bezrealitky,10955000,65,2,1,0,0,1,2,novostavba,vybavene,osobni,Praha,50.093155,14.504306
+bezrealitky,4230000,50,2,1,0,1,0,4,dobre,vybavene,osobni,České Budějovice,48.960683,14.474807
+bezrealitky,7350000,56,2,0,1,0,0,7,velmi dobre,vybavene,osobni,Brno,49.230468,16.590299
+bezrealitky,11490000,96,3,1,0,1,1,3,velmi dobre,vybavene,osobni,Praha,50.019324,14.519613
+bezrealitky,7990000,51,2,1,0,0,1,2,novostavba,vybavene,druzstevni,Praha,50.046763,14.519677
+bezrealitky,12820000,79,3,1,0,0,0,7,velmi dobre,vybavene,osobni,Praha,50.087087,14.456609
+bezrealitky,14990000,90,3,1,1,0,1,1,novostavba,vybavene,osobni,Praha,50.138623,14.425371
+bezrealitky,9538000,46,2,1,0,0,0,1,velmi dobre,vybavene,osobni,Praha,50.085133,14.372023
+bezrealitky,6990000,37,1,1,1,0,0,5,novostavba,vybavene,osobni,Praha,50.087764,14.47784
+bezrealitky,5350000,26,1,1,1,0,0,3,novostavba,vybavene,osobni,Praha,50.026732,14.368063
+bezrealitky,6000000,33,1,1,1,0,0,3,velmi dobre,vybavene,osobni,Praha,50.115288,14.562753
+bezrealitky,8460000,64,3,0,1,1,0,3,dobre,vybavene,osobni,Praha,50.065753,14.511794
+bezrealitky,16700000,104,3,1,1,0,1,8,velmi dobre,vybavene,osobni,Praha,50.031313,14.362577
+bezrealitky,14990000,138,2,1,1,0,0,1,velmi dobre,vybavene,osobni,Praha,50.079914,14.447631
+bezrealitky,14500000,185,5,1,1,0,0,6,velmi dobre,vybavene,osobni,Praha,50.070466,14.379124
+bezrealitky,6780000,54,2,1,1,0,0,8,velmi dobre,vybavene,druzstevni,Praha,50.04488,14.335409
+bezrealitky,5650000,27,1,1,0,0,0,2,velmi dobre,vybavene,druzstevni,Praha,50.092501,14.443817
+bezrealitky,3699000,44,1,0,1,0,1,7,novostavba,vybavene,druzstevni,České Budějovice,48.992382,14.453593
+bezrealitky,6590000,64,3,0,1,0,0,6,velmi dobre,vybavene,osobni,Olomouc,49.577641,17.242845
+bezrealitky,2700000,42,1,0,0,0,0,14,dobre,vybavene,druzstevni,Ostrava,49.836187,18.257816
+bezrealitky,8700000,57,2,1,1,0,1,2,velmi dobre,vybavene,osobni,Praha,50.074484,14.550304
+bezrealitky,7980000,32,1,1,1,0,0,2,novostavba,vybavene,osobni,Praha,50.053335,14.409865
+bezrealitky,7455500,81,2,1,0,0,1,3,velmi dobre,vybavene,osobni,Plzeň,49.73254,13.394023
+bezrealitky,6800000,41,2,1,1,0,0,10,velmi dobre,vybavene,druzstevni,Praha,50.032336,14.532929
+bezrealitky,12875000,70,3,1,1,0,1,3,novostavba,vybavene,osobni,Praha,50.056634,14.291836
+bezrealitky,8790000,56,2,0,0,0,0,1,velmi dobre,vybavene,osobni,Praha,50.065065,14.510361
+bezrealitky,3702000,55,2,1,1,0,0,3,novostavba,vybavene,druzstevni,Praha,50.101379,14.570454
+bezrealitky,10450000,82,3,1,0,0,1,3,velmi dobre,vybavene,osobni,Praha,50.058126,14.579355
+bezrealitky,9650000,75,3,0,1,0,1,1,velmi dobre,vybavene,osobni,Praha,50.080678,14.495148
+bezrealitky,7790000,40,2,1,0,0,1,2,novostavba,vybavene,osobni,Praha,50.123192,14.635096
+bezrealitky,12739000,69,2,0,1,0,1,1,velmi dobre,vybavene,osobni,Praha,50.089475,14.44552
+bezrealitky,7100000,32,1,1,1,1,1,2,novostavba,vybavene,osobni,Praha,50.108595,14.527355
+bezrealitky,11500000,79,3,1,0,0,0,1,velmi dobre,vybavene,osobni,Praha,50.109452,14.474672
+bezrealitky,4390740,28,1,1,1,0,0,1,novostavba,vybavene,osobni,Kladno,50.150953,14.114891
+bezrealitky,4139137,28,1,1,1,0,0,3,novostavba,vybavene,osobni,Kladno,50.150953,14.114891
+bezrealitky,15460000,179,4,1,0,1,1,3,velmi dobre,vybavene,osobni,Praha,50.015912,14.583952
+bezrealitky,11250000,88,3,0,0,1,1,3,velmi dobre,vybavene,osobni,Praha,50.117866,14.487254
+bezrealitky,5500000,58,2,0,1,1,1,6,velmi dobre,vybavene,osobni,Liberec,50.764742,15.049375
+bezrealitky,13490000,96,3,0,1,0,1,4,dobre,vybavene,druzstevni,Praha,50.077506,14.457974
+bezrealitky,6253800,74,3,1,0,0,1,3,velmi dobre,vybavene,osobni,Plzeň,49.733026,13.371378
+bezrealitky,27900000,122,4,1,0,0,0,2,velmi dobre,vybavene,osobni,Praha,50.089082,14.40496
+bezrealitky,12990000,115,3,1,0,0,0,0,velmi dobre,vybavene,osobni,Praha,50.105583,14.478066
+bezrealitky,6580637,61,2,1,1,0,0,1,novostavba,vybavene,osobni,Kladno,50.150953,14.114891
+bezrealitky,5900000,35,2,1,1,0,0,1,velmi dobre,vybavene,osobni,Praha,50.055645,14.508378
+bezrealitky,19800000,117,5,0,1,0,1,6,velmi dobre,vybavene,osobni,Praha,50.112539,14.390009
+bezrealitky,4490000,40,2,1,0,0,1,6,velmi dobre,vybavene,osobni,Kladno,50.133992,14.129692
+bezrealitky,8790000,82,4,0,0,0,0,4,velmi dobre,vybavene,osobni,Brno,49.202823,16.661177
+bezrealitky,5795000,26,1,1,1,0,1,6,velmi dobre,vybavene,osobni,Praha,50.103192,14.529151
+bezrealitky,6380000,33,2,1,0,0,0,2,velmi dobre,vybavene,osobni,Praha,50.115216,14.471286
+bezrealitky,5546000,47,2,1,1,0,1,1,velmi dobre,vybavene,druzstevni,Brno,49.176394,16.554558
+bezrealitky,7490000,22,1,1,1,0,0,5,novostavba,vybavene,osobni,Praha,50.072104,14.397305
+bezrealitky,12798000,108,3,1,1,0,1,2,dobre,vybavene,osobni,Praha,50.126157,14.432606
+bezrealitky,22188000,129,5,1,1,0,1,1,velmi dobre,vybavene,osobni,Praha,50.05348,14.365931
+bezrealitky,9700000,67,3,1,1,0,1,10,velmi dobre,vybavene,osobni,Praha,50.129982,14.476596
+bezrealitky,10490000,91,3,1,1,1,0,12,velmi dobre,vybavene,osobni,Praha,50.053969,14.342204
+bezrealitky,7900000,69,3,0,1,0,1,8,velmi dobre,vybavene,druzstevni,Praha,50.068281,14.511752
+bezrealitky,4880000,57,2,0,1,1,1,3,velmi dobre,vybavene,osobni,Liberec,50.745566,15.060944
+bezrealitky,18970000,138,4,0,1,1,0,5,velmi dobre,vybavene,osobni,Praha,50.068793,14.452642
+bezrealitky,7700000,41,1,1,1,0,0,1,novostavba,vybavene,osobni,Praha,50.087896,14.457444
+bezrealitky,8990000,44,2,1,1,0,1,3,novostavba,vybavene,osobni,Praha,50.061142,14.451581
+bezrealitky,6990000,47,2,0,0,0,0,2,dobre,vybavene,druzstevni,Praha,50.073116,14.510276
+bezrealitky,5000000,72,4,0,0,0,0,3,velmi dobre,vybavene,druzstevni,Ostrava,49.837213,18.181486
+bezrealitky,16490000,96,3,1,1,0,1,1,velmi dobre,vybavene,osobni,Praha,50.074676,14.394899
+bezrealitky,7290000,45,2,1,1,0,0,1,velmi dobre,vybavene,osobni,Praha,50.060899,14.431186
+bezrealitky,14900000,80,3,1,1,0,0,4,velmi dobre,vybavene,osobni,Praha,50.083341,14.43044
+bezrealitky,3330000,78,3,1,1,0,1,2,novostavba,vybavene,druzstevni,Pardubice,50.030109,15.791723
+bezrealitky,11100000,77,2,1,0,0,0,3,novostavba,vybavene,osobni,Praha,50.111321,14.510686
+bezrealitky,8680000,51,3,1,1,1,0,7,velmi dobre,vybavene,osobni,Praha,50.043317,14.458263
+bezrealitky,4590000,33,1,1,1,0,1,2,dobre,vybavene,osobni,Brno,49.167172,16.552941
+bezrealitky,14699000,80,3,1,1,0,1,3,novostavba,vybavene,osobni,Praha,50.111321,14.510686
+bezrealitky,10490000,68,2,0,1,0,0,7,velmi dobre,vybavene,osobni,Praha,50.069467,14.474834
+bezrealitky,8550000,54,2,1,0,0,1,3,velmi dobre,vybavene,osobni,Praha,50.012729,14.44535
+bezrealitky,24300000,190,5,0,0,0,1,1,velmi dobre,vybavene,osobni,Praha,50.049652,14.542017
+bezrealitky,5490000,30,1,1,0,0,1,4,velmi dobre,vybavene,osobni,Praha,50.012729,14.44535
+bezrealitky,9399000,71,4,1,1,0,0,1,velmi dobre,vybavene,osobni,Praha,50.128867,14.478302
+bezrealitky,9650000,68,3,1,1,0,0,5,dobre,vybavene,osobni,Praha,50.069352,14.374258
+bezrealitky,9999000,81,3,0,1,1,0,6,velmi dobre,vybavene,osobni,Praha,50.00673,14.420471
+bezrealitky,8960000,80,3,0,0,1,1,4,dobre,vybavene,osobni,Praha,50.059356,14.290748
+bezrealitky,11990000,63,2,0,1,0,0,6,velmi dobre,vybavene,osobni,Praha,50.072538,14.476557
+bezrealitky,16999000,143,4,1,0,0,0,5,novostavba,vybavene,osobni,Praha,50.100108,14.380122
+bezrealitky,2958360,67,3,0,1,1,1,8,dobre,vybavene,osobni,Liberec,50.780878,14.625898
+bezrealitky,9600000,75,2,1,0,1,1,5,velmi dobre,vybavene,druzstevni,Praha,50.04073,14.500897
+bezrealitky,5350000,30,1,0,0,0,0,4,velmi dobre,vybavene,druzstevni,Praha,50.037146,14.517429
+bezrealitky,6950000,38,1,1,0,0,1,5,velmi dobre,vybavene,osobni,Praha,50.115721,14.470021
+bezrealitky,5290000,78,3,0,1,0,0,1,velmi dobre,vybavene,osobni,Zlín,49.226679,17.698544
+bezrealitky,10490000,56,2,1,0,0,0,2,velmi dobre,vybavene,osobni,Praha,50.084141,14.447815
+bezrealitky,3975000,53,2,0,0,0,0,3,novostavba,vybavene,osobni,Plzeň,49.577698,13.323909
+bezrealitky,8975000,56,2,1,1,0,0,5,novostavba,vybavene,osobni,Praha,50.103606,14.508193
+bezrealitky,4550000,43,2,1,1,0,0,4,velmi dobre,vybavene,osobni,Liberec,50.751696,15.069266
+bezrealitky,5890000,43,1,0,0,0,0,1,velmi dobre,vybavene,osobni,Praha,50.089765,14.465785
+bezrealitky,5690000,44,1,0,1,0,1,1,dobre,vybavene,osobni,Praha,50.05858,14.435037
+bezrealitky,6690000,45,2,1,0,0,1,6,dobre,vybavene,osobni,Praha,50.043437,14.327247
+bezrealitky,9990000,86,3,0,1,0,0,1,velmi dobre,vybavene,osobni,Praha,50.039528,14.34147
+bezrealitky,19490000,86,3,1,1,0,0,1,novostavba,vybavene,osobni,Praha,50.102679,14.447942
+bezrealitky,5500000,25,1,1,0,0,0,1,velmi dobre,vybavene,osobni,Praha,50.092934,14.48177
+bezrealitky,18490000,112,3,1,1,1,1,6,novostavba,vybavene,osobni,Praha,50.104848,14.488155
+bezrealitky,4990000,55,3,0,0,0,0,2,velmi dobre,vybavene,osobni,Zlín,49.467666,17.968552
+bezrealitky,12750000,87,3,1,1,0,1,1,velmi dobre,vybavene,osobni,Praha,50.056388,14.282155
+bezrealitky,6490000,85,2,0,0,1,0,4,dobre,vybavene,osobni,Olomouc,49.595859,17.271202
+bezrealitky,7254000,45,2,1,1,0,0,4,dobre,vybavene,osobni,Praha,50.08941,14.473901
+bezrealitky,16990000,115,4,0,1,1,0,2,dobre,vybavene,osobni,Praha,50.104472,14.435405
+bezrealitky,4190000,55,2,1,0,1,0,3,velmi dobre,vybavene,osobni,Ostrava,49.792275,18.23327
+bezrealitky,7471961,75,3,1,1,1,0,4,novostavba,vybavene,osobni,Kladno,50.150953,14.114891
+bezrealitky,11490000,114,2,1,0,0,0,2,velmi dobre,vybavene,osobni,Praha,50.063935,14.424884
+bezrealitky,18878000,114,4,1,1,1,1,3,novostavba,vybavene,osobni,Praha,50.13544,14.381028
+bezrealitky,7500000,46,1,0,1,0,1,1,velmi dobre,vybavene,druzstevni,Praha,50.015136,14.435037
+bezrealitky,8873000,67,2,1,1,0,0,7,dobre,vybavene,osobni,Praha,50.088618,14.469321
+bezrealitky,6000000,70,3,0,1,0,1,1,velmi dobre,vybavene,osobni,Zlín,49.243536,17.670446
+bezrealitky,6990000,43,2,1,1,0,0,3,dobre,vybavene,osobni,Praha,50.131831,14.477361
+bezrealitky,8390000,47,2,1,1,0,0,6,velmi dobre,vybavene,osobni,Praha,50.061315,14.449749
+bezrealitky,11490000,100,2,1,1,0,0,7,novostavba,vybavene,osobni,Praha,50.016226,14.405068
+bezrealitky,12200000,118,3,1,1,0,0,2,novostavba,vybavene,osobni,Praha,50.034911,14.386513
+bezrealitky,3500000,45,2,0,1,0,0,7,velmi dobre,vybavene,osobni,Olomouc,50.223106,17.208806
+bezrealitky,7614999,24,1,1,1,0,0,3,novostavba,vybavene,osobni,Praha,50.070132,14.42968
+bezrealitky,5500000,29,1,1,1,0,0,1,velmi dobre,vybavene,osobni,Praha,50.026469,14.510549
+bezrealitky,6490000,55,1,0,1,0,0,4,novostavba,vybavene,druzstevni,Praha,50.131576,14.425898
+bezrealitky,5200000,26,1,1,1,0,1,2,novostavba,vybavene,osobni,Praha,50.04354,14.567664
+bezrealitky,10999000,68,4,1,1,1,0,9,novostavba,vybavene,druzstevni,Praha,50.02494,14.45238
+bezrealitky,7516900,47,2,1,1,0,0,4,velmi dobre,vybavene,osobni,Praha,50.071482,14.408788
+bezrealitky,4800000,23,1,1,1,0,0,7,velmi dobre,vybavene,osobni,Praha,50.096813,14.347595
+bezrealitky,10000000,78,3,1,1,0,0,7,velmi dobre,vybavene,osobni,Praha,50.041171,14.32222
+bezrealitky,7600000,66,2,0,0,0,1,1,velmi dobre,vybavene,osobni,Brno,49.18621,16.636484
+bezrealitky,6900000,32,1,1,0,0,0,4,velmi dobre,vybavene,druzstevni,Praha,50.110413,14.395692
+bezrealitky,4290000,32,1,1,1,0,1,1,dobre,vybavene,druzstevni,Brno,49.207579,16.66084
+bezrealitky,7800000,40,2,1,0,0,0,1,velmi dobre,vybavene,osobni,Praha,50.08044,14.45976
+bezrealitky,10490000,85,2,0,0,0,0,4,velmi dobre,vybavene,osobni,Brno,49.190086,16.590197
+bezrealitky,7350000,46,2,0,1,0,1,4,velmi dobre,vybavene,druzstevni,Praha,50.042497,14.42508
+bezrealitky,8990000,69,2,1,0,0,0,3,novostavba,vybavene,osobni,Praha,50.14016,14.448366
+bezrealitky,6699990,49,2,1,1,0,1,12,novostavba,vybavene,osobni,Praha,50.063276,14.310769
+bezrealitky,10800000,94,4,0,0,0,0,4,velmi dobre,vybavene,osobni,Praha,50.048566,14.315668
+bezrealitky,3220000,47,2,1,1,0,0,6,novostavba,vybavene,druzstevni,Praha,50.101335,14.570458
+bezrealitky,12950000,106,2,0,0,0,0,6,velmi dobre,vybavene,osobni,Praha,50.103477,14.475874
+bezrealitky,18200000,116,3,1,1,0,1,2,velmi dobre,vybavene,osobni,Praha,50.085894,14.468844
+bezrealitky,8700000,56,2,1,0,0,1,2,novostavba,vybavene,osobni,Praha,50.056057,14.446494
+bezrealitky,16840000,123,5,1,0,0,0,4,dobre,vybavene,osobni,Praha,50.064258,14.439718
+bezrealitky,9990000,47,2,1,1,0,0,1,novostavba,vybavene,osobni,Praha,50.013502,14.411748
+bezrealitky,12300000,86,3,1,1,0,1,4,velmi dobre,vybavene,osobni,Praha,50.031471,14.502124
+bezrealitky,9500000,57,2,0,0,0,0,5,velmi dobre,vybavene,osobni,Praha,50.100692,14.384541
+bezrealitky,5890000,66,4,1,1,0,1,8,velmi dobre,vybavene,osobni,České Budějovice,48.983208,14.478182
+bezrealitky,7200000,43,2,1,1,0,1,2,velmi dobre,vybavene,osobni,Praha,50.04354,14.555339
+bezrealitky,7190000,39,2,1,0,0,0,3,velmi dobre,vybavene,osobni,Praha,50.127232,14.493077
+bezrealitky,9590000,80,3,0,0,0,0,4,velmi dobre,vybavene,osobni,Praha,50.05951,14.288499
+bezrealitky,11990000,90,3,1,0,0,1,2,velmi dobre,vybavene,osobni,Praha,50.115259,14.565936
+bezrealitky,3820000,52,2,0,0,0,1,2,velmi dobre,vybavene,osobni,Český Krumlov,48.818805,14.319015
+bezrealitky,12100000,81,3,0,1,0,1,2,velmi dobre,vybavene,osobni,Praha,50.053642,14.499734
+bezrealitky,10970000,72,3,1,1,0,1,1,velmi dobre,vybavene,osobni,Praha,50.057599,14.424152
+bezrealitky,15800000,71,3,1,1,0,1,2,novostavba,vybavene,osobni,Praha,50.06374,14.4355
+bezrealitky,25900000,159,4,1,1,0,0,5,velmi dobre,vybavene,osobni,Praha,50.094933,14.456051
+bezrealitky,3690000,27,1,1,1,0,1,2,novostavba,vybavene,osobni,Olomouc,49.599013,17.222632
+bezrealitky,6390000,30,1,1,0,0,1,6,velmi dobre,vybavene,osobni,Praha,50.040146,14.568714
+bezrealitky,7790000,53,2,0,0,0,0,3,velmi dobre,vybavene,osobni,Praha,50.137054,14.509376
+bezrealitky,11990000,56,2,0,1,0,0,3,velmi dobre,vybavene,osobni,Praha,50.077238,14.40396
+bezrealitky,4750000,30,1,1,1,0,1,3,novostavba,vybavene,osobni,Plzeň,49.726573,13.352402
+bezrealitky,12800000,141,4,1,0,0,1,1,velmi dobre,vybavene,osobni,Brno,49.186464,16.667509
+bezrealitky,4290000,24,1,1,1,0,0,7,velmi dobre,vybavene,osobni,Praha,50.041815,14.498877
+bezrealitky,9399000,63,2,0,1,0,1,2,dobre,vybavene,osobni,Praha,50.06963,14.40678
+bezrealitky,6900000,71,2,1,0,0,1,1,velmi dobre,vybavene,osobni,Brno,49.186464,16.667509
+bezrealitky,11850000,84,4,1,0,0,1,1,novostavba,vybavene,osobni,Brno,49.232471,16.592557
+bezrealitky,5950000,42,1,1,1,0,0,2,velmi dobre,vybavene,osobni,Brno,49.217233,16.501504
+bezrealitky,6190000,26,1,1,1,0,1,1,velmi dobre,vybavene,osobni,Praha,50.100327,14.429568
+bezrealitky,7950000,51,2,1,0,0,0,3,velmi dobre,vybavene,osobni,Praha,50.089755,14.471232
+bezrealitky,13099900,50,2,1,1,0,0,1,velmi dobre,vybavene,osobni,Praha,50.075748,14.445981
+bezrealitky,4990000,50,2,1,0,0,0,2,velmi dobre,vybavene,osobni,Pardubice,50.033608,15.775065
+bezrealitky,13399900,51,2,1,1,0,0,1,velmi dobre,vybavene,osobni,Praha,50.075748,14.445981
+bezrealitky,2499000,27,1,1,0,0,1,1,velmi dobre,vybavene,osobni,Liberec,50.790652,15.068926
+bezrealitky,4890000,90,3,0,0,0,1,2,velmi dobre,vybavene,osobni,Liberec,50.629119,15.476327
+bezrealitky,12990000,75,3,1,1,0,1,4,novostavba,vybavene,osobni,Praha,50.107672,14.524856
+bezrealitky,8250000,77,3,0,1,0,1,1,velmi dobre,vybavene,druzstevni,Praha,50.035746,14.500664
+bezrealitky,12495000,78,3,1,1,0,1,2,novostavba,vybavene,osobni,Praha,50.043181,14.311294
+bezrealitky,11999000,87,4,1,1,0,1,1,velmi dobre,vybavene,osobni,Praha,50.043314,14.330442
+bezrealitky,7850000,70,3,1,1,0,1,5,novostavba,vybavene,osobni,České Budějovice,48.969334,14.514784
+bezrealitky,10988000,65,3,1,1,0,1,7,novostavba,vybavene,osobni,Praha,50.056792,14.542844
+bezrealitky,9985000,47,2,1,1,1,0,1,novostavba,vybavene,osobni,Praha,50.013502,14.411748
+bezrealitky,10235000,71,3,1,1,0,1,3,velmi dobre,vybavene,osobni,Praha,50.025598,14.526042
+bezrealitky,14990000,100,3,1,1,0,1,2,velmi dobre,vybavene,osobni,Praha,50.074666,14.358818
+bezrealitky,13333333,49,2,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha,50.090545,14.426107
+bezrealitky,10590000,93,4,1,1,0,0,7,velmi dobre,vybavene,osobni,Brno,49.1888,16.645012
+bezrealitky,3590000,42,1,0,1,0,0,1,dobre,vybavene,osobni,Olomouc,49.577408,17.23261
+bezrealitky,5600000,58,2,1,1,0,1,1,novostavba,vybavene,druzstevni,Praha,50.091722,14.298607
+bezrealitky,9873500,56,2,1,0,0,1,2,velmi dobre,vybavene,osobni,Praha,50.108199,14.45047
+bezrealitky,9970000,76,3,1,1,0,1,7,novostavba,vybavene,osobni,Praha,50.0426,14.565815
+bezrealitky,9990000,69,3,1,1,0,1,3,novostavba,vybavene,osobni,Praha,50.034063,14.478488
+bezrealitky,9350000,141,3,0,0,0,1,1,novostavba,vybavene,osobni,Praha,50.00342,14.352391
+bezrealitky,7350000,46,2,1,0,0,0,2,novostavba,vybavene,osobni,Brno,49.214032,16.683441
+bezrealitky,4400000,55,2,0,0,0,0,1,velmi dobre,vybavene,osobni,Olomouc,49.552756,17.745058
+bezrealitky,9590000,58,3,1,0,0,0,1,velmi dobre,vybavene,osobni,Praha,50.122789,14.453314
+bezrealitky,3350000,66,2,0,0,0,1,4,velmi dobre,vybavene,osobni,Olomouc,50.223901,17.09049
+bezrealitky,1650000,68,2,0,0,0,1,2,dobre,vybavene,osobni,Olomouc,50.080169,16.936542
+bezrealitky,17571554,107,3,1,1,1,1,5,novostavba,vybavene,osobni,Praha,50.06102,14.40291
+bezrealitky,4950000,28,1,1,1,0,0,1,dobre,vybavene,osobni,Praha,50.030949,14.534598
+bezrealitky,4888000,68,3,1,1,0,0,3,novostavba,vybavene,osobni,Plzeň,49.789853,12.626864
+bezrealitky,2700000,40,1,0,1,0,1,6,velmi dobre,vybavene,druzstevni,Ostrava,49.830817,18.258483
+bezrealitky,3625000,52,2,0,0,0,0,3,velmi dobre,vybavene,osobni,Olomouc,49.967603,16.985318
+bezrealitky,3290300,52,2,1,0,0,0,3,dobre,vybavene,osobni,Karlovy Vary,50.229094,12.871187
+bezrealitky,11780000,78,3,0,1,0,1,2,velmi dobre,vybavene,osobni,Praha,50.047738,14.444299
+bezrealitky,2799000,37,2,1,0,0,0,3,velmi dobre,vybavene,druzstevni,Ostrava,49.792418,18.250479
+bezrealitky,10000000,59,2,1,1,0,1,5,novostavba,vybavene,osobni,Praha,50.103474,14.523463
+bezrealitky,5555000,44,2,1,0,0,0,1,dobre,vybavene,osobni,Praha,50.134629,14.372298
+bezrealitky,6390000,26,1,1,1,0,0,5,novostavba,vybavene,osobni,Praha,50.071634,14.44996
+bezrealitky,14490000,86,3,1,0,0,0,3,velmi dobre,vybavene,osobni,Praha,50.084129,14.369574
+bezrealitky,7590000,50,2,1,1,0,1,5,velmi dobre,vybavene,osobni,Praha,50.104454,14.48677
+bezrealitky,5199000,25,1,1,1,0,1,1,velmi dobre,vybavene,osobni,Praha,50.080842,14.50025
+bezrealitky,11750000,91,3,0,1,0,1,5,dobre,vybavene,osobni,Praha,50.058697,14.469179
+bezrealitky,7800000,47,2,1,1,1,1,1,velmi dobre,vybavene,osobni,Praha,50.139786,14.548686
+bezrealitky,21812000,136,4,1,1,0,1,8,novostavba,vybavene,osobni,Praha,50.016226,14.405068
+bezrealitky,7690000,64,3,1,0,0,1,1,velmi dobre,vybavene,osobni,Kladno,50.137551,14.084939
+bezrealitky,7930000,72,3,1,1,0,1,4,novostavba,vybavene,osobni,Liberec,50.764032,15.060062
+bezrealitky,12990000,56,2,0,0,0,0,1,velmi dobre,vybavene,osobni,Praha,50.083074,14.405192
+bezrealitky,8800000,55,2,1,1,0,1,5,velmi dobre,vybavene,osobni,Praha,50.040278,14.569214
+bezrealitky,7250000,42,2,1,1,0,1,3,dobre,vybavene,osobni,Praha,50.123255,14.484169
+bezrealitky,8190000,73,3,0,1,0,1,3,velmi dobre,vybavene,osobni,Brno,49.215761,16.627903
+bezrealitky,6990000,31,1,1,1,0,1,1,novostavba,vybavene,osobni,Praha,50.103539,14.52476
+bezrealitky,10850000,47,2,1,1,0,1,2,novostavba,vybavene,osobni,Praha,50.037479,14.315929
+bezrealitky,7290000,75,3,0,1,0,0,5,dobre,vybavene,osobni,Brno,49.178268,16.68703
+bezrealitky,8890000,63,3,1,0,0,1,1,novostavba,vybavene,druzstevni,Praha,50.039079,14.331164
+bezrealitky,12300000,93,5,1,0,0,0,1,velmi dobre,vybavene,osobni,Praha,50.067304,14.407906
+bezrealitky,7500000,89,3,1,0,0,0,1,velmi dobre,vybavene,osobni,Olomouc,49.58812,17.258994
+bezrealitky,7999999,58,2,1,0,0,1,4,velmi dobre,vybavene,osobni,Praha,50.011018,14.446342
+bezrealitky,5990000,39,1,1,1,0,0,5,velmi dobre,vybavene,osobni,Brno,49.201468,16.617133
+bezrealitky,3200000,47,2,1,1,0,1,3,novostavba,vybavene,druzstevni,Praha,50.067892,14.555147
+bezrealitky,4600000,63,2,0,1,0,0,7,dobre,vybavene,druzstevni,České Budějovice,48.984852,14.474455
+bezrealitky,5299000,46,2,1,1,0,1,3,velmi dobre,vybavene,osobni,Pardubice,50.046142,15.760035
+bezrealitky,15000000,80,3,1,1,0,1,6,novostavba,vybavene,osobni,Praha,50.093712,14.498384
+bezrealitky,6500000,35,1,1,1,0,0,1,velmi dobre,vybavene,osobni,Praha,50.133396,14.505207
+bezrealitky,3500000,83,3,0,0,0,0,1,dobre,vybavene,osobni,Plzeň,49.491171,13.586392
+bezrealitky,7092000,43,2,1,1,0,0,7,novostavba,vybavene,osobni,Praha,50.056817,14.541809
+bezrealitky,6100000,51,1,1,0,0,1,1,velmi dobre,vybavene,osobni,Praha,50.059453,14.327091
+bezrealitky,7800000,75,3,0,1,0,1,5,velmi dobre,vybavene,druzstevni,Praha,50.039497,14.339473
+bezrealitky,7414000,56,3,1,1,0,0,6,novostavba,vybavene,osobni,Praha,50.057305,14.54215
+bezrealitky,3450000,52,2,0,1,0,0,2,velmi dobre,vybavene,druzstevni,Ostrava,49.830331,18.18351
+bezrealitky,5828000,34,1,1,1,0,0,2,novostavba,vybavene,osobni,Praha,50.056817,14.541811
+bezrealitky,4390000,40,2,1,1,0,1,7,dobre,vybavene,osobni,Kladno,50.130124,14.122207
+bezrealitky,6900000,44,2,0,1,0,0,8,dobre,vybavene,osobni,Praha,50.02701,14.426683
+bezrealitky,9490000,110,3,1,0,0,1,3,velmi dobre,vybavene,osobni,Olomouc,49.604548,17.23424
+bezrealitky,6490000,50,2,1,1,0,1,2,velmi dobre,vybavene,osobni,Liberec,50.780336,15.408366
+bezrealitky,7790000,41,1,0,1,0,0,3,velmi dobre,vybavene,osobni,Praha,50.07701,14.417054
+bezrealitky,5750000,26,1,1,1,0,0,5,velmi dobre,vybavene,osobni,Praha,50.068812,14.437942
+bezrealitky,7220000,45,2,1,1,0,1,2,novostavba,vybavene,osobni,Praha,50.056377,14.542578
+bezrealitky,7000000,43,2,1,1,0,0,2,dobre,vybavene,osobni,Praha,50.046585,14.322746
+bezrealitky,2950000,24,1,0,0,0,0,1,dobre,vybavene,osobni,Ostrava,49.833788,18.186011
+bezrealitky,14760000,130,3,1,1,1,1,2,novostavba,vybavene,osobni,Karlovy Vary,50.219417,12.883056
+bezrealitky,11750000,119,5,0,1,0,0,7,dobre,vybavene,osobni,Praha,50.052913,14.341772
+bezrealitky,7990000,47,2,1,0,0,0,1,velmi dobre,vybavene,osobni,Praha,50.068284,14.368269
+bezrealitky,7300000,50,2,1,0,0,0,1,velmi dobre,vybavene,osobni,Praha,50.055585,14.442502
+bezrealitky,9900000,46,2,1,1,0,0,4,velmi dobre,vybavene,osobni,Praha,50.111964,14.391796
+bezrealitky,13490000,88,3,1,1,0,1,3,novostavba,vybavene,osobni,Praha,50.100176,14.492079
+bezrealitky,9990000,85,3,0,0,0,1,2,velmi dobre,vybavene,osobni,Brno,49.189838,16.585512
+bezrealitky,12980000,84,3,0,1,0,0,2,velmi dobre,vybavene,osobni,Praha,50.103273,14.474689
+bezrealitky,9745000,65,3,1,0,0,0,3,velmi dobre,vybavene,druzstevni,Praha,50.090539,14.450583
+bezrealitky,13200000,78,3,1,1,0,1,3,velmi dobre,vybavene,osobni,Praha,50.074977,14.358406
+bezrealitky,6990000,45,2,1,0,0,0,1,dobre,vybavene,osobni,Praha,50.069067,14.352504
+bezrealitky,11800000,70,2,0,1,0,1,4,velmi dobre,vybavene,osobni,Praha,50.069763,14.380133
+bezrealitky,6850000,45,2,1,1,0,0,2,dobre,vybavene,osobni,Praha,50.036264,14.340529
+bezrealitky,3900000,53,2,0,0,0,0,3,velmi dobre,vybavene,osobni,Ostrava,49.849375,18.281831
+bezrealitky,3600000,54,2,1,0,0,0,1,dobre,vybavene,druzstevni,Praha,50.059299,14.445936
+bezrealitky,7500000,43,1,0,1,0,1,2,velmi dobre,vybavene,osobni,Praha,50.066015,14.497005
+bezrealitky,6200000,72,3,1,1,0,1,1,velmi dobre,vybavene,druzstevni,Kladno,50.134152,14.141197
+bezrealitky,6800000,47,2,1,0,0,1,1,dobre,vybavene,osobni,Praha,50.042376,14.554747
+bezrealitky,19180000,95,3,0,1,0,0,1,velmi dobre,vybavene,osobni,Praha,50.092673,14.451271
+bezrealitky,5750000,45,2,1,1,0,0,3,velmi dobre,vybavene,druzstevni,Praha,50.026532,14.518801
+bezrealitky,4680000,51,2,1,0,0,0,2,velmi dobre,vybavene,osobni,Zlín,49.202681,17.5352
+bezrealitky,10500000,62,2,1,1,0,0,2,velmi dobre,vybavene,osobni,Brno,49.213324,16.565621
+bezrealitky,6435000,38,1,1,1,0,0,6,novostavba,vybavene,osobni,Praha,50.048563,14.559362
+bezrealitky,8990000,65,3,1,0,0,0,1,dobre,vybavene,osobni,Praha,50.065172,14.429935
+bezrealitky,6180000,40,2,1,1,0,0,11,velmi dobre,vybavene,osobni,Praha,50.063276,14.310769
+bezrealitky,11690000,81,3,1,1,0,1,7,velmi dobre,vybavene,osobni,Praha,50.050721,14.452336
+bezrealitky,8984000,107,2,1,1,0,1,2,novostavba,vybavene,osobni,Olomouc,49.58077,17.219962
+bezrealitky,20800000,132,4,1,1,0,1,1,novostavba,vybavene,osobni,Praha,50.110051,14.497802
+bezrealitky,6490000,45,1,0,1,0,1,4,novostavba,vybavene,osobni,Praha,50.131576,14.425898
+bezrealitky,7990000,75,3,1,1,0,1,1,velmi dobre,vybavene,osobni,Olomouc,49.570913,17.253034
+bezrealitky,13995860,83,3,1,1,0,1,3,velmi dobre,vybavene,osobni,Praha,50.126778,14.505059
+bezrealitky,5690000,69,3,1,0,0,1,3,velmi dobre,vybavene,osobni,Zlín,49.205154,17.585236
+bezrealitky,3268000,40,1,0,1,0,0,3,velmi dobre,vybavene,osobni,Zlín,49.464955,18.125374
+bezrealitky,7280000,50,1,0,0,0,0,1,velmi dobre,vybavene,druzstevni,Praha,50.090901,14.44286
+bezrealitky,2190000,26,1,1,1,0,1,1,novostavba,vybavene,osobni,Liberec,50.923751,15.252138
+bezrealitky,8925280,46,2,1,1,0,1,3,novostavba,vybavene,druzstevni,Praha,50.047665,14.299331
+bezrealitky,9300000,88,2,1,1,1,0,3,dobre,vybavene,osobni,Brno,49.210326,16.601294
+bezrealitky,4790000,60,2,0,1,1,0,1,velmi dobre,vybavene,osobni,Olomouc,49.579026,17.238388
+bezrealitky,3290000,27,1,0,1,0,0,6,dobre,vybavene,osobni,Plzeň,49.738409,13.367413
+bezrealitky,4200000,54,2,0,0,0,0,4,velmi dobre,vybavene,osobni,Zlín,49.092295,17.738695
+bezrealitky,4920000,32,1,0,1,0,1,4,novostavba,vybavene,osobni,Praha,50.036407,14.383373
+bezrealitky,7850000,65,3,1,0,0,1,3,velmi dobre,vybavene,osobni,Praha,50.023671,14.515229
+bezrealitky,9500000,60,2,1,1,0,1,5,novostavba,vybavene,osobni,Praha,50.034766,14.388595
+bezrealitky,7195000,69,4,1,1,0,1,5,velmi dobre,vybavene,osobni,Pardubice,50.0481,15.763027
+bezrealitky,3749000,41,2,0,0,0,0,9,velmi dobre,vybavene,osobni,Liberec,50.782122,15.055498
+bezrealitky,14600000,79,2,1,1,0,0,6,velmi dobre,vybavene,osobni,Praha,50.070825,14.431562
+bezrealitky,18490000,143,4,0,1,0,1,1,velmi dobre,vybavene,osobni,Praha,50.103983,14.51166
+bezrealitky,10500000,50,2,1,1,0,1,3,novostavba,vybavene,osobni,Praha,50.055626,14.38277
+bezrealitky,8500000,64,2,0,1,0,0,5,dobre,vybavene,druzstevni,Praha,50.072032,14.469489
+bezrealitky,5200000,56,2,0,1,0,1,6,velmi dobre,vybavene,osobni,Plzeň,49.722115,13.373835
+bezrealitky,22985400,96,4,1,1,0,1,3,novostavba,vybavene,osobni,Praha,50.084586,14.446538
+bezrealitky,7200000,69,3,0,0,0,0,1,velmi dobre,vybavene,osobni,Kladno,50.132248,14.112972
+bezrealitky,11290000,114,3,1,0,0,1,1,velmi dobre,vybavene,osobni,Praha,50.053987,14.561767
+bezrealitky,11250000,80,2,1,1,0,0,1,novostavba,vybavene,osobni,Praha,50.095586,14.450414
+bezrealitky,21490000,134,3,1,0,0,1,1,novostavba,vybavene,osobni,Praha,50.073812,14.396772
+bezrealitky,8999000,58,3,1,0,0,0,2,velmi dobre,vybavene,osobni,Praha,50.064526,14.505668
+bezrealitky,7890000,112,4,1,0,0,0,3,dobre,vybavene,osobni,České Budějovice,48.979125,14.478685
+bezrealitky,10500000,64,3,1,1,0,1,2,novostavba,vybavene,osobni,Praha,50.056568,14.284483
+bezrealitky,8480000,50,2,1,1,1,1,1,novostavba,vybavene,osobni,Praha,50.11567,14.509528
+bezrealitky,4200000,64,3,0,1,0,1,10,velmi dobre,vybavene,osobni,Praha,50.128692,14.47265
+bezrealitky,6290000,32,1,1,1,0,0,4,novostavba,vybavene,osobni,Praha,50.102915,14.519161
+bezrealitky,12950000,130,4,1,0,0,1,1,novostavba,vybavene,osobni,Brno,49.187681,16.638897
+bezrealitky,11250000,68,3,0,0,0,1,5,velmi dobre,vybavene,osobni,Praha,50.069453,14.498973
+bezrealitky,14300000,86,3,0,1,0,0,3,velmi dobre,vybavene,osobni,Praha,50.100051,14.430149
+bezrealitky,39980000,132,4,0,1,0,0,4,dobre,vybavene,osobni,Praha,50.077626,14.414483
+bezrealitky,8400000,68,2,0,1,0,1,6,velmi dobre,vybavene,osobni,Praha,50.01355,14.435992
+bezrealitky,4999000,49,1,0,0,0,0,1,velmi dobre,vybavene,osobni,Praha,50.08438,14.451754
+bezrealitky,6655900,27,1,1,0,0,0,1,novostavba,vybavene,osobni,Praha,50.079616,14.484144
+bezrealitky,8870000,72,3,1,1,1,1,5,velmi dobre,vybavene,osobni,Praha,50.02859,14.52907
+bezrealitky,6400000,34,1,1,1,0,1,2,velmi dobre,vybavene,osobni,Praha,50.10269,14.508437
+bezrealitky,12100000,50,2,1,1,0,0,4,velmi dobre,vybavene,osobni,Praha,50.07936,14.434887
+bezrealitky,5830000,37,1,1,0,0,1,4,novostavba,vybavene,druzstevni,Praha,50.110559,14.504098
+bezrealitky,5590000,32,1,1,1,0,1,1,novostavba,vybavene,osobni,Brno,49.185442,16.586513
+bezrealitky,4500000,56,3,0,1,0,1,6,velmi dobre,vybavene,osobni,Ostrava,49.8229,18.182416
+bezrealitky,15300000,85,3,1,1,0,0,2,velmi dobre,vybavene,osobni,Praha,50.091148,14.432487
+bezrealitky,8990000,75,3,0,1,0,0,3,velmi dobre,vybavene,osobni,Praha,50.037363,14.342579
+bezrealitky,7190000,44,2,1,1,0,1,6,velmi dobre,vybavene,osobni,Praha,50.043135,14.55293
+bezrealitky,9568200,66,2,0,1,0,0,1,velmi dobre,vybavene,osobni,Praha,50.051387,14.329692
+bezrealitky,4500000,64,2,0,1,0,1,7,velmi dobre,vybavene,osobni,Karlovy Vary,50.237553,12.851427
+bezrealitky,20322200,111,4,1,1,0,0,3,velmi dobre,vybavene,osobni,Praha,50.078265,14.45619
+bezrealitky,20840500,112,4,1,1,0,0,5,velmi dobre,vybavene,osobni,Praha,50.078265,14.45619
+bezrealitky,10242000,45,2,1,1,1,0,2,velmi dobre,vybavene,osobni,Praha,50.076923,14.439046
+bezrealitky,4950000,58,2,0,1,0,0,1,dobre,vybavene,osobni,Olomouc,49.589328,17.227758
+bezrealitky,5550000,85,3,0,0,0,1,1,velmi dobre,vybavene,osobni,Liberec,50.764359,15.047801
+bezrealitky,10200000,57,2,1,1,0,1,3,velmi dobre,vybavene,osobni,Praha,50.117602,14.496131
+bezrealitky,8800000,68,3,1,1,0,0,5,velmi dobre,vybavene,osobni,Praha,50.05792,14.494383
+bezrealitky,4350000,78,3,0,0,0,1,1,dobre,vybavene,osobni,Ostrava,49.780824,18.221984
