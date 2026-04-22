@@ -2,6 +2,8 @@ from flask import Flask, render_template, request, jsonify
 import pandas as pd
 import numpy as np
 import joblib, json, os
+from lib.geo_utils import nearest_km
+
 
 app = Flask(__name__, template_folder='../lib/templates')
 
@@ -15,7 +17,7 @@ target_enc     = joblib.load(f"{MODELS}/target_enc.pkl")
 features       = joblib.load(f"{MODELS}/features.pkl")
 model_price    = joblib.load(f"{MODELS}/model_price.pkl")
 model_group    = joblib.load(f"{MODELS}/model_group.pkl")
-
+group_features = joblib.load(f"{MODELS}/group_features.pkl")
 
 def load_geojson(path):
     """
@@ -71,21 +73,6 @@ CITY_BOUNDS = {
     "Český Krumlov":    (48.66, 48.73, 14.29, 14.35),
 }
 
-def nearest_km(lat, lon, poi_array):
-    """
-    returns nearest point in poi_array, got big help from CLAUDE!
-    :param lat: latitude
-    :param lon: longitude
-    :param poi_array: array of [lat,lon] and names
-    :return: nearest point in poi_array [lat,lon]
-    """
-    dlat = np.radians(poi_array[:, 0] - lat)
-    dlon = np.radians(poi_array[:, 1] - lon)
-    a    = (np.sin(dlat/2)**2 +
-            np.cos(np.radians(lat)) * np.cos(np.radians(poi_array[:, 0])) *
-            np.sin(dlon/2)**2)
-    return float(6371 * 2 * np.arcsin(np.sqrt(a.clip(0, 1))).min())
-
 def blizko(km):
     """
     convert distance to score 0km -> 1.0, 1km to 0.5, etc
@@ -111,10 +98,10 @@ def predict():
     gets json form, calculates distance predicts values and returns them
     :return: jsonify predictions of value and categories
     """
-    d        = request.json
+    d = request.json
     locality = d["locality"]
-    lat      = float(d["lat"])
-    lon      = float(d["lon"])
+    lat = float(d["lat"])
+    lon = float(d["lon"])
 
     b = CITY_BOUNDS.get(locality)
     if b and not (b[0] <= lat <= b[1] and b[2] <= lon <= b[3]):
@@ -171,10 +158,15 @@ def predict():
     le_loc  = label_encoders.get("locality")
     loc_enc = int(le_loc.transform([locality])[0]) if le_loc and locality in le_loc.classes_ else 0
 
+    rodina_prostor = (rooms * area) / 100
+    senior_dostupnost = 1.0 if (has_lift == 1 or floor == 1) else 0.5
+
     group_row = pd.DataFrame([{
         "score_rodina": 0.40*blizko(dist["kinder"]) + 0.40*blizko(dist["school"])   + 0.20*blizko(dist["stop"]),
         "score_senior": 0.40*blizko(dist["market"]) + 0.35*blizko(dist["hospital"]) + 0.25*blizko(dist["stop"]),
         "score_ostatni":0.50*blizko(dist["stop"])   + 0.50*blizko(dist["train"]),
+        "senior_dostupnost" : senior_dostupnost,
+        "rodina_prostor": rodina_prostor,
         "closest_stop_km":  dist["stop"],
         "closest_train_km": dist["train"],
         "closest_school_km":dist["school"],
@@ -194,31 +186,10 @@ def predict():
         "locality_enc":loc_enc,
     }])
 
-    GROUP_FEATURES = [
-        "score_rodina",
-        "score_senior",
-        "score_ostatni",
-        "closest_stop_km",
-        "closest_train_km",
-        "closest_school_km",
-        "closest_kinder_km",
-        "closest_market_km",
-        "closest_hospital_km",
-        "area_m2",
-        "flat_rooms",
-        "price_per_m2",
-        "floor",
-        "has_lift",
-        "has_balcony",
-        "has_parking",
-        "condition_enc",
-        "furnished_enc",
-        "ownership_enc",
-        "locality_enc",
-    ]
 
-    predicted_group = model_group.predict(group_row[GROUP_FEATURES])[0]
-    proba           = model_group.predict_proba(group_row[GROUP_FEATURES])[0]
+
+    predicted_group = model_group.predict(group_row[group_features])[0]
+    proba           = model_group.predict_proba(group_row[group_features])[0]
     proba_dict      = {cls: round(float(p)*100, 1) for cls, p in zip(model_group.classes_, proba)}
 
     return jsonify({

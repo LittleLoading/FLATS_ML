@@ -14,6 +14,7 @@ def install_requirements():
         print("requirements.txt not found!")
         sys.exit(1)
 
+    subprocess.call([sys.executable, "-m", "pip", "install", "-r", requirements])
     print("Dependencies installed.\n")
 
 

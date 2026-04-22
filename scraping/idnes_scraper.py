@@ -89,7 +89,8 @@ def parse_page(html):
 
         locality_tag = article.select_one("p.c-products__info")
         price_tag= article.select_one(".c-products__price strong")
-        price= int(re.sub(r"[^\d]", "", price_tag.get_text())) if price_tag else None
+        raw = re.sub(r"[^\d]", "", price_tag.get_text()) if price_tag else ""
+        price = int(raw) if raw else None
 
         if not title and not price:
             continue
@@ -155,9 +156,9 @@ def scrape(max_pages=MAX_PAGES):
         if not records:
             print("No records, stopping"); break
 
-        task_queue = Queue(),
-        result_list = [],
-        lock = Lock(),
+        task_queue = Queue()
+        result_list = []
+        lock = Lock()
         counter = [0]
 
 
