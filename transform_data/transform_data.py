@@ -6,7 +6,7 @@ INPUT_FILES = [
     "../scraping/data/raw/idnes.csv",
     "../scraping/data/raw/bezrealitky.csv",
 ]
-OUTPUT_FILE = "../data/processed/listings.csv"
+OUTPUT_FILE = "../scraping/data/processed/listings.csv"
 
 MIN_LOCALITY_COUNT = 30
 
@@ -199,19 +199,17 @@ def preprocess(df):
     df = df.rename(columns={"price_czk": "price", "flat_type": "flat_rooms_raw"})
 
     parsed = df["flat_rooms_raw"].apply(parse_flat_type)
-    df["flat_rooms"] = parsed.apply(lambda x: x[0])
-    df["has_kk"] = parsed.apply(lambda x: x[1])
+    df["flat_rooms"] = parsed.str[0]
+    df["has_kk"] = parsed.str[1]
 
     df["locality"] = df["locality"].apply(clean_city)
-    df["condition"] = df.get("condition", pd.Series()).apply(normalize_condition)
-    df["furnished"] = df.get("furnished", pd.Series()).apply(normalize_furnished)
-    df["ownership"] = df.get("ownership", pd.Series()).apply(normalize_ownership)
+    df["condition"] = df.get("condition").apply(normalize_condition)
+    df["furnished"] = df.get("furnished").apply(normalize_furnished)
+    df["ownership"] = df.get("ownership").apply(normalize_ownership)
 
-    for col in ["has_lift", "has_balcony", "has_parking"]:
-        df[col] = df[col].fillna(0).astype(int) if col in df.columns else 0
-
-    if "floor" not in df.columns:
-        df["floor"] = None
+    df[["has_lift", "has_balcony", "has_parking"]] = (
+        df[["has_lift", "has_balcony", "has_parking"]].fillna(0).astype(int)
+    )
 
     df = df[["source", "price", "area_m2", "flat_rooms", "has_kk", "has_lift", "has_balcony", "has_parking", "floor", "condition", "furnished", "ownership", "locality", "lat", "lon"]]
 
