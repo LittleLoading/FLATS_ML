@@ -164,9 +164,9 @@ def predict():
     senior_dostupnost = 1.0 if (has_lift == 1 or floor == 1) else 0.5
 
     group_row = pd.DataFrame([{
-        "score_rodina": 0.40*blizko(dist["kinder"]) + 0.40*blizko(dist["school"])   + 0.20*blizko(dist["stop"]),
-        "score_senior": 0.40*blizko(dist["market"]) + 0.35*blizko(dist["hospital"]) + 0.25*blizko(dist["stop"]),
-        "score_ostatni":0.50*blizko(dist["stop"])   + 0.50*blizko(dist["train"]),
+        "score_rodina": (0.37*blizko(dist["kinder"]) + 0.37*blizko(dist["school"]) + 0.16*blizko(dist["stop"]) + 0.10*(rodina_prostor / 9.45)),
+        "score_senior": (0.40*blizko(dist["market"]) + 0.35*blizko(dist["hospital"]) + 0.25*blizko(dist["stop"])) * senior_dostupnost,
+        "score_ostatni": 0.50*blizko(dist["stop"]) + 0.50*blizko(dist["train"]),
         "senior_dostupnost" : senior_dostupnost,
         "rodina_prostor": rodina_prostor,
         "closest_stop_km":  dist["stop"],
