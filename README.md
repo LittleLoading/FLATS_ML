@@ -20,36 +20,71 @@ Flats ML is a web application that helps real estate agents and buyers make smar
 - Consumer-worker architecture for fast parallel scraping
 - POI distance enrichment via OpenStreetMap (Overpass)
 - Data merging, cleaning, normalisation and deduplication
-- Feature engineering (distance scores, price per m², has balcony, connectivity...)
+- Feature engineering (distance scores, price per m², connectivity score, comfort score...)
 - ML regression model – **HistGradientBoostingRegressor** (price prediction)
 - ML classification model – **RandomForestClassifier** (buyer category)
 - Interactive Flask web application
 
 ---
 
-## 4. Installation
-
-### Requirements
+## 4. Project Structure
 
 ```
-pip install -r requirements.txt
+FLATS_ML/
+├── lib/
+│   ├── templates/
+│   ├── addCategoriesToListings.py   ← haversine distance to nearest POI
+│   ├── geo_utils.py
+│   ├── overpass.txt
+│   └── transformGeojsons_to_csv.py ← parse Overpass GeoJSON exports
+├── scraping/
+│   ├── data/
+│   ├── bezrealitky_scraper.py       ← Bezrealitky GraphQL API (consumer-worker)
+│   ├── idnes_scraper.py             ← iDnes HTML scraping (consumer-worker)
+│   └── sreality_scraping.py         ← Sreality JSON API + detail pages
+├── transform_data/
+│   └── transform_data.py            ← merge, clean, normalise, deduplicate
+├── UI/
+│   ├── ModelsAndScalers/            ← trained .pkl model files go here
+│   ├── app.py                       ← Flask web application
+│   └── run.bat                      ← Windows launcher (double-click to start)
+├── main.py                          ← alternative launcher
+└── requirements.txt
 ```
-
-### Run the application
-
-```
-python main.py
-```
-
-Or on Windows double-click `run.bat`.
-
-The application opens at `http://localhost:8081`.
 
 ---
 
-## 5. How to Run with New Data
+## 5. Installation
 
-### 5.1 Data Collection
+### Requirements
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## 6. Running the Application
+
+There are two ways to launch the web app:
+
+### Option A – Python launcher
+
+```bash
+python main.py
+```
+
+### Option B – Windows launcher (double-click)
+
+Navigate to the `UI/` folder and double-click `run.bat`.
+
+The application opens at **http://localhost:8081**.
+
+---
+
+## 7. How to Run with New Data
+
+### 7.1 Data Collection
 
 Run scrapers to collect fresh listings:
 
@@ -59,7 +94,7 @@ python scraping/idnes_scraper.py
 python scraping/bezrealitky_scraper.py
 ```
 
-### 5.2 Data Processing
+### 7.2 Data Processing
 
 Merge, clean and normalise all sources:
 
@@ -67,7 +102,7 @@ Merge, clean and normalise all sources:
 python transform_data/transform_data.py
 ```
 
-### 5.3 POI Enrichment
+### 7.3 POI Enrichment
 
 Download POI data from Overpass API (bus stops, schools, hospitals, supermarkets) and calculate distances:
 
@@ -76,24 +111,28 @@ python lib/transformGeojsons_to_csv.py
 python lib/addCategoriesToListings.py
 ```
 
-### 5.4 Model Training
+### 7.4 Model Training
 
 Open Google Colab, upload `listings_enriched.csv` and run both notebooks:
 
 - **Price model** – trains HistGradientBoostingRegressor, saves `model_price.pkl`
 - **Classification model** – trains RandomForestClassifier, saves `model_group.pkl`
 
+> Colab notebook: https://colab.research.google.com/drive/1_iSFMk_l6IWR9QVsqQA3apXELxfQONuX?usp=sharing
+
 Download all `.pkl` files and place them in `UI/ModelsAndScalers/`.
 
-### 5.5 Launch App
+### 7.5 Launch App
 
 ```bash
 python main.py
 ```
 
+or double-click `UI/run.bat`.
+
 ---
 
-## 6. Overview – What the System Does
+## 8. Overview – What the System Does
 
 The system collects flat listings including:
 
@@ -119,7 +158,7 @@ The system collects flat listings including:
 
 ---
 
-## 7. Technology Decision Table
+## 9. Technology Decision Table
 
 | Layer | Technology | Purpose | Why Chosen | Alternatives |
 |---|---|---|---|---|
@@ -140,7 +179,7 @@ The system collects flat listings including:
 
 ---
 
-## 8. System Architecture
+## 10. System Architecture
 
 ```
 Scrapers
@@ -149,7 +188,7 @@ Scrapers
 └── bezrealitky_scraper.py   ← Bezrealitky GraphQL API (consumer-worker)
         │
         ▼
-Raw CSV datasets (data/raw/)
+Raw CSV datasets (scraping/data/)
         │
         ▼
 transform_data.py            ← merge, clean, normalise, deduplicate
@@ -178,17 +217,19 @@ UI/ModelsAndScalers/
 └── features.pkl
         │
         ▼
-Flask Web Application (app.py)
+Flask Web Application (UI/app.py)
 └── User fills in flat attributes → model predicts price + buyer group
+
+Launch options:
+  python main.py      ← from project root
+  UI/run.bat          ← Windows double-click
 ```
 
 ---
 
-## 9. Machine Learning Pipeline
+## 11. Machine Learning Pipeline
 
-### 9.1 Data Preparation
-
-
+### 11.1 Data Preparation
 
 ```python
 # Price cap and log transform
@@ -201,7 +242,7 @@ for col in ["condition", "furnished", "ownership"]:
     df[col + "_enc"] = LabelEncoder().fit_transform(df[col])
 
 # Target encoding for locality (captures average price per city)
-locality_means   = df.groupby("locality")["log_price"].mean()
+locality_means    = df.groupby("locality")["log_price"].mean()
 df["locality_te"] = df["locality"].map(locality_means)
 
 # Feature engineering
@@ -217,7 +258,7 @@ df["all_services_avg"]    = (df[["closest_stop_km","closest_train_km",
                                   "closest_market_km","closest_hospital_km"]].mean(axis=1))
 ```
 
-### 9.2 Price Model – HistGradientBoostingRegressor
+### 11.2 Price Model – HistGradientBoostingRegressor
 
 ```python
 model = HistGradientBoostingRegressor(
@@ -240,22 +281,28 @@ y_true = np.expm1(y_test)
 | MAE (Kč) | Average absolute error in CZK |
 | R² | Proportion of price variance explained by the model |
 
-### 9.3 Classification Model – RandomForestClassifier
+### 11.3 Classification Model – RandomForestClassifier
 
-Buyer groups are assigned by weighted POI proximity scores:
+Buyer groups are assigned by weighted POI proximity scores using the `blizko()` function (closer = higher score):
 
 ```python
 def blizko(km):
-    return 1 / (1 + km)   # closer = higher score
+    return 1 / (1 + km)
 
-df["score_rodina"]  = (0.40 * blizko(closest_kinder_km) +
-                       0.40 * blizko(closest_school_km) +
-                       0.20 * blizko(closest_stop_km))
+# Rodina (families) – weight schools and kindergartens highest
+df["rodina_prostor"] = (df["flat_rooms"] * df["area_m2"]) / 100
+df["score_rodina"]   = (0.37 * blizko(closest_kinder_km) +
+                        0.37 * blizko(closest_school_km) +
+                        0.16 * blizko(closest_stop_km) +
+                        0.10 * (rodina_prostor / rodina_prostor.max()))
 
-df["score_senior"]  = (0.40 * blizko(closest_market_km) +
-                       0.35 * blizko(closest_hospital_km) +
-                       0.25 * blizko(closest_stop_km))
+# Senior – weight supermarket and hospital, penalise high floors without lift
+df["senior_dostupnost"] = 1 if (has_lift == 1 or floor == 1) else 0.5
+df["score_senior"]      = (0.40 * blizko(closest_market_km) +
+                           0.35 * blizko(closest_hospital_km) +
+                           0.25 * blizko(closest_stop_km)) * senior_dostupnost
 
+# Ostatní (others/adults) – weight public transport and train equally
 df["score_ostatni"] = (0.50 * blizko(closest_stop_km) +
                        0.50 * blizko(closest_train_km))
 ```
@@ -274,7 +321,7 @@ model = RandomForestClassifier(
 
 ---
 
-## 10. Model Output Logic
+## 12. Model Output Logic
 
 | Model | Output | Meaning |
 |---|---|---|
@@ -285,18 +332,18 @@ model = RandomForestClassifier(
 
 ---
 
-## 11. Key Insights from Data
+## 13. Key Insights from Data
 
 - **Location is the strongest price predictor** – locality target encoding captures city-level price differences more accurately than one-hot encoding
 - **Floor area and number of rooms** drive price more than most amenities
 - **Proximity to public transport** is the most universally important POI feature across all buyer groups
 - **Flat condition** (novostavba vs. dobre) has significant impact on price – new builds command a premium of roughly 30–50% over comparable older flats
-- **Balcony and elevator** add measurable value especially in higher floors
+- **Balcony and elevator** add measurable value especially on higher floors
 - **Praha districts** (Praha 1–10) show the widest price spread in the dataset
 
 ---
 
-## 12. Future Improvements
+## 14. Future Improvements
 
 - Add more scraping sources (e.g. RealityMix, Reality.cz) to increase dataset size
 - Collect `total_floors` attribute to better contextualise floor number
@@ -307,7 +354,7 @@ model = RandomForestClassifier(
 
 ---
 
-## 13. Data Sources
+## 15. Data Sources
 
 | Source | Method | Data obtained |
 |---|---|---|
@@ -315,11 +362,3 @@ model = RandomForestClassifier(
 | reality.idnes.cz | HTML scraping (BeautifulSoup) | Price, area, rooms, balcony, parking, floor, condition |
 | bezrealitky.cz | GraphQL API + detail pages | Price, area, rooms, lift, floor, condition, GPS |
 | OpenStreetMap (Overpass API) | GeoJSON export + haversine | Distances to stops, schools, hospitals, supermarkets |
-
-
-
-colab:
-https://colab.research.google.com/drive/1_iSFMk_l6IWR9QVsqQA3apXELxfQONuX?usp=sharing
-
-
-
